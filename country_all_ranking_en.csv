@@ -1,0 +1,5882 @@
+Year,Rank,ID,Country,ECI
+1964,1,che,Switzerland,2.3066
+1964,2,swe,Sweden,2.2507
+1964,3,aut,Austria,2.20926
+1964,4,gbr,United Kingdom,2.16646
+1964,5,jpn,Japan,2.11512
+1964,6,fra,France,2.01915
+1964,7,usa,United States,2.01312
+1964,8,ita,Italy,1.94026
+1964,9,bel,Belgium,1.88107
+1964,10,nor,Norway,1.73035
+1964,11,dnk,Denmark,1.69073
+1964,12,fin,Finland,1.66272
+1964,13,nld,Netherlands,1.59146
+1964,14,hkg,Hong Kong,1.5013
+1964,15,pol,Poland,1.41854
+1964,16,irl,Ireland,1.38154
+1964,17,hun,Hungary,1.35024
+1964,18,prt,Portugal,1.31415
+1964,19,kor,South Korea,1.17857
+1964,20,isr,Israel,1.16605
+1964,21,can,Canada,1.15535
+1964,22,pan,Panama,1.15512
+1964,23,bgr,Bulgaria,1.13266
+1964,24,esp,Spain,0.915887
+1964,25,chn,China,0.843076
+1964,26,sgp,Singapore,0.658055
+1964,27,jor,Jordan,0.651463
+1964,28,rou,Romania,0.604425
+1964,29,slv,El Salvador,0.572824
+1964,30,grc,Greece,0.520219
+1964,31,nzl,New Zealand,0.514527
+1964,32,mrt,Mauritania,0.473773
+1964,33,aus,Australia,0.461866
+1964,34,mex,Mexico,0.431698
+1964,35,ury,Uruguay,0.388542
+1964,36,cri,Costa Rica,0.251743
+1964,37,mar,Morocco,0.22079
+1964,38,chl,Chile,0.219572
+1964,39,ind,India,0.125131
+1964,40,lbn,Lebanon,0.11099
+1964,41,arg,Argentina,0.101995
+1964,42,gtm,Guatemala,0.0972364
+1964,43,col,Colombia,0.0545185
+1964,44,dza,Algeria,-0.0187581
+1964,45,zaf,South Africa,-0.0302991
+1964,46,cub,Cuba,-0.0425162
+1964,47,pak,Pakistan,-0.0737421
+1964,48,egy,Egypt,-0.0835926
+1964,49,mng,Mongolia,-0.0996529
+1964,50,tun,Tunisia,-0.101008
+1964,51,jam,Jamaica,-0.179056
+1964,52,alb,Albania,-0.206252
+1964,53,hnd,Honduras,-0.268124
+1964,54,omn,Oman,-0.336176
+1964,55,tur,Turkey,-0.397125
+1964,56,nic,Nicaragua,-0.414167
+1964,57,vnm,Vietnam,-0.451961
+1964,58,syr,Syria,-0.481889
+1964,59,tto,Trinidad and Tobago,-0.512307
+1964,60,per,Peru,-0.521209
+1964,61,ven,Venezuela,-0.521721
+1964,62,phl,Philippines,-0.530362
+1964,63,zmb,Zambia,-0.541962
+1964,64,sen,Senegal,-0.561417
+1964,65,bol,Bolivia,-0.654036
+1964,66,irn,Iran,-0.684841
+1964,67,mli,Mali,-0.686696
+1964,68,ecu,Ecuador,-0.75525
+1964,69,tha,Thailand,-0.763127
+1964,70,mys,Malaysia,-0.763526
+1964,71,lao,Laos,-0.767647
+1964,72,pry,Paraguay,-0.779554
+1964,73,lbr,Liberia,-0.797928
+1964,74,khm,Cambodia,-0.80239
+1964,75,qat,Qatar,-0.835141
+1964,76,lka,Sri Lanka,-0.838762
+1964,77,bra,Brazil,-0.844647
+1964,78,ken,Kenya,-0.957051
+1964,79,mdg,Madagascar,-0.960887
+1964,80,eth,Ethiopia,-0.999319
+1964,81,civ,Cote d'Ivoire,-1.05421
+1964,82,gin,Guinea,-1.06348
+1964,83,sau,Saudi Arabia,-1.14146
+1964,84,cog,Republic of the Congo,-1.14567
+1964,85,idn,Indonesia,-1.18608
+1964,86,dom,Dominican Republic,-1.19826
+1964,87,moz,Mozambique,-1.24061
+1964,88,ago,Angola,-1.25644
+1964,89,cmr,Cameroon,-1.28011
+1964,90,gha,Ghana,-1.28296
+1964,91,png,Papua New Guinea,-1.34022
+1964,92,tza,Tanzania,-1.37881
+1964,93,kwt,Kuwait,-1.55002
+1964,94,nga,Nigeria,-1.56983
+1964,95,sdn,Sudan,-1.57985
+1964,96,uga,Uganda,-1.68265
+1964,97,gab,Gabon,-1.68652
+1964,98,mus,Mauritius,-2.27187
+1964,99,lby,Libya,-2.37569
+1965,1,che,Switzerland,2.23743
+1965,2,swe,Sweden,2.19291
+1965,3,aut,Austria,2.19021
+1965,4,gbr,United Kingdom,2.18424
+1965,5,jpn,Japan,2.15077
+1965,6,fra,France,2.03323
+1965,7,usa,United States,1.98533
+1965,8,ita,Italy,1.96167
+1965,9,bel,Belgium,1.89202
+1965,10,nor,Norway,1.70788
+1965,11,nld,Netherlands,1.6637
+1965,12,fin,Finland,1.6308
+1965,13,dnk,Denmark,1.58831
+1965,14,hkg,Hong Kong,1.47742
+1965,15,hun,Hungary,1.47674
+1965,16,pol,Poland,1.40315
+1965,17,pan,Panama,1.37566
+1965,18,irl,Ireland,1.32111
+1965,19,kor,South Korea,1.24595
+1965,20,prt,Portugal,1.16976
+1965,21,isr,Israel,1.0213
+1965,22,bgr,Bulgaria,0.996351
+1965,23,can,Canada,0.979199
+1965,24,esp,Spain,0.941571
+1965,25,cri,Costa Rica,0.848158
+1965,26,chn,China,0.815826
+1965,27,rou,Romania,0.663666
+1965,28,slv,El Salvador,0.661706
+1965,29,ury,Uruguay,0.541281
+1965,30,jor,Jordan,0.504463
+1965,31,sgp,Singapore,0.487571
+1965,32,nzl,New Zealand,0.467105
+1965,33,aus,Australia,0.46617
+1965,34,grc,Greece,0.37544
+1965,35,chl,Chile,0.319938
+1965,36,gtm,Guatemala,0.316388
+1965,37,mex,Mexico,0.284045
+1965,38,ind,India,0.249414
+1965,39,lbn,Lebanon,0.240759
+1965,40,ven,Venezuela,0.130172
+1965,41,egy,Egypt,0.0837366
+1965,42,cub,Cuba,0.06199
+1965,43,arg,Argentina,-0.0035103
+1965,44,col,Colombia,-0.0442457
+1965,45,dza,Algeria,-0.0443843
+1965,46,tun,Tunisia,-0.0608884
+1965,47,mar,Morocco,-0.0615037
+1965,48,nic,Nicaragua,-0.0670133
+1965,49,mng,Mongolia,-0.122454
+1965,50,zwe,Zimbabwe,-0.158393
+1965,51,zaf,South Africa,-0.162472
+1965,52,hnd,Honduras,-0.197159
+1965,53,alb,Albania,-0.202738
+1965,54,sen,Senegal,-0.21075
+1965,55,tto,Trinidad and Tobago,-0.228748
+1965,56,jam,Jamaica,-0.271008
+1965,57,mrt,Mauritania,-0.275392
+1965,58,syr,Syria,-0.279189
+1965,59,pak,Pakistan,-0.33663
+1965,60,vnm,Vietnam,-0.393202
+1965,61,per,Peru,-0.436927
+1965,62,ecu,Ecuador,-0.45089
+1965,63,phl,Philippines,-0.501141
+1965,64,tur,Turkey,-0.584174
+1965,65,omn,Oman,-0.596108
+1965,66,lbr,Liberia,-0.601326
+1965,67,pry,Paraguay,-0.698062
+1965,68,bra,Brazil,-0.701917
+1965,69,irn,Iran,-0.707946
+1965,70,gin,Guinea,-0.721075
+1965,71,gha,Ghana,-0.72423
+1965,72,civ,Cote d'Ivoire,-0.726754
+1965,73,mys,Malaysia,-0.75104
+1965,74,bol,Bolivia,-0.766648
+1965,75,mwi,Malawi,-0.856815
+1965,76,tha,Thailand,-0.884785
+1965,77,dom,Dominican Republic,-0.922561
+1965,78,cog,Republic of the Congo,-0.939352
+1965,79,sau,Saudi Arabia,-0.968641
+1965,80,khm,Cambodia,-0.971098
+1965,81,ken,Kenya,-1.00065
+1965,82,mli,Mali,-1.01179
+1965,83,cmr,Cameroon,-1.01913
+1965,84,png,Papua New Guinea,-1.04406
+1965,85,mdg,Madagascar,-1.04422
+1965,86,idn,Indonesia,-1.08345
+1965,87,ago,Angola,-1.08504
+1965,88,eth,Ethiopia,-1.11047
+1965,89,lka,Sri Lanka,-1.11269
+1965,90,zmb,Zambia,-1.155
+1965,91,lao,Laos,-1.15545
+1965,92,moz,Mozambique,-1.17687
+1965,93,tza,Tanzania,-1.2899
+1965,94,uga,Uganda,-1.30455
+1965,95,gab,Gabon,-1.39268
+1965,96,sdn,Sudan,-1.39313
+1965,97,nga,Nigeria,-1.54898
+1965,98,mus,Mauritius,-1.58347
+1965,99,kwt,Kuwait,-1.87185
+1965,100,qat,Qatar,-2.57551
+1965,101,lby,Libya,-2.75447
+1966,1,swe,Sweden,2.07369
+1966,2,che,Switzerland,2.04292
+1966,3,jpn,Japan,2.03255
+1966,4,gbr,United Kingdom,2.0276
+1966,5,aut,Austria,2.01847
+1966,6,fra,France,1.85112
+1966,7,usa,United States,1.83838
+1966,8,ita,Italy,1.83016
+1966,9,bel,Belgium,1.74293
+1966,10,nor,Norway,1.72918
+1966,11,fin,Finland,1.69165
+1966,12,dnk,Denmark,1.46807
+1966,13,hkg,Hong Kong,1.46559
+1966,14,nld,Netherlands,1.44474
+1966,15,hun,Hungary,1.35661
+1966,16,pol,Poland,1.26894
+1966,17,irl,Ireland,1.21158
+1966,18,zwe,Zimbabwe,1.21101
+1966,19,prt,Portugal,1.15478
+1966,20,can,Canada,1.15467
+1966,21,kor,South Korea,1.1408
+1966,22,pan,Panama,1.11333
+1966,23,bgr,Bulgaria,1.08963
+1966,24,cri,Costa Rica,0.964675
+1966,25,isr,Israel,0.880278
+1966,26,esp,Spain,0.877968
+1966,27,chn,China,0.784849
+1966,28,slv,El Salvador,0.700441
+1966,29,rou,Romania,0.678443
+1966,30,jor,Jordan,0.650495
+1966,31,aus,Australia,0.598227
+1966,32,nzl,New Zealand,0.554378
+1966,33,grc,Greece,0.523421
+1966,34,ury,Uruguay,0.509571
+1966,35,sgp,Singapore,0.427597
+1966,36,mex,Mexico,0.399085
+1966,37,gtm,Guatemala,0.375791
+1966,38,lbn,Lebanon,0.308006
+1966,39,egy,Egypt,0.297345
+1966,40,zmb,Zambia,0.25824
+1966,41,chl,Chile,0.233538
+1966,42,col,Colombia,0.185068
+1966,43,ind,India,0.113473
+1966,44,alb,Albania,0.100479
+1966,45,zaf,South Africa,0.0775002
+1966,46,cub,Cuba,0.0228909
+1966,47,nic,Nicaragua,0.016083
+1966,48,arg,Argentina,0.014414
+1966,49,mar,Morocco,0.0027417
+1966,50,tun,Tunisia,-0.030161
+1966,51,hnd,Honduras,-0.0333277
+1966,52,omn,Oman,-0.144439
+1966,53,vnm,Vietnam,-0.166008
+1966,54,syr,Syria,-0.193393
+1966,55,dza,Algeria,-0.201732
+1966,56,tto,Trinidad and Tobago,-0.202679
+1966,57,pak,Pakistan,-0.218253
+1966,58,per,Peru,-0.316951
+1966,59,sen,Senegal,-0.337585
+1966,60,jam,Jamaica,-0.369489
+1966,61,mrt,Mauritania,-0.372779
+1966,62,phl,Philippines,-0.39329
+1966,63,mng,Mongolia,-0.474689
+1966,64,tur,Turkey,-0.535994
+1966,65,mys,Malaysia,-0.615049
+1966,66,ven,Venezuela,-0.619027
+1966,67,dom,Dominican Republic,-0.622667
+1966,68,bra,Brazil,-0.65705
+1966,69,pry,Paraguay,-0.670833
+1966,70,mli,Mali,-0.675848
+1966,71,bol,Bolivia,-0.679544
+1966,72,ecu,Ecuador,-0.732826
+1966,73,ken,Kenya,-0.73677
+1966,74,moz,Mozambique,-0.742642
+1966,75,irn,Iran,-0.800273
+1966,76,lbr,Liberia,-0.813323
+1966,77,eth,Ethiopia,-0.862841
+1966,78,gha,Ghana,-0.914635
+1966,79,mdg,Madagascar,-0.960637
+1966,80,mwi,Malawi,-0.988089
+1966,81,tha,Thailand,-0.999539
+1966,82,civ,Cote d'Ivoire,-1.02288
+1966,83,idn,Indonesia,-1.03372
+1966,84,mus,Mauritius,-1.06292
+1966,85,png,Papua New Guinea,-1.08299
+1966,86,lao,Laos,-1.08776
+1966,87,sau,Saudi Arabia,-1.09498
+1966,88,ago,Angola,-1.09786
+1966,89,tza,Tanzania,-1.16537
+1966,90,gin,Guinea,-1.19726
+1966,91,khm,Cambodia,-1.22645
+1966,92,cog,Republic of the Congo,-1.22791
+1966,93,cmr,Cameroon,-1.329
+1966,94,sdn,Sudan,-1.35233
+1966,95,uga,Uganda,-1.44699
+1966,96,lka,Sri Lanka,-1.58786
+1966,97,nga,Nigeria,-1.62133
+1966,98,gab,Gabon,-1.81313
+1966,99,kwt,Kuwait,-2.03999
+1966,100,lby,Libya,-2.97017
+1966,100,qat,Qatar,-2.97017
+1967,1,che,Switzerland,2.20361
+1967,2,swe,Sweden,2.18153
+1967,3,aut,Austria,2.15099
+1967,4,jpn,Japan,2.14569
+1967,5,gbr,United Kingdom,2.13397
+1967,6,usa,United States,2.02567
+1967,7,fra,France,1.93867
+1967,8,ita,Italy,1.91444
+1967,9,fin,Finland,1.78
+1967,10,bel,Belgium,1.76546
+1967,11,nor,Norway,1.71993
+1967,12,nld,Netherlands,1.58808
+1967,13,hkg,Hong Kong,1.4986
+1967,14,dnk,Denmark,1.48846
+1967,15,hun,Hungary,1.36168
+1967,16,irl,Ireland,1.29812
+1967,17,can,Canada,1.20019
+1967,18,pol,Poland,1.17776
+1967,19,zwe,Zimbabwe,1.15443
+1967,20,prt,Portugal,1.14102
+1967,21,kor,South Korea,1.03951
+1967,22,pan,Panama,0.995355
+1967,23,cri,Costa Rica,0.921316
+1967,24,lbn,Lebanon,0.919388
+1967,25,slv,El Salvador,0.909235
+1967,26,bgr,Bulgaria,0.884284
+1967,27,esp,Spain,0.799663
+1967,28,chn,China,0.794287
+1967,29,rou,Romania,0.765359
+1967,30,isr,Israel,0.72977
+1967,31,sgp,Singapore,0.516294
+1967,32,grc,Greece,0.504934
+1967,33,jor,Jordan,0.460172
+1967,34,aus,Australia,0.459936
+1967,35,nzl,New Zealand,0.402011
+1967,36,ury,Uruguay,0.386572
+1967,37,gtm,Guatemala,0.363864
+1967,38,chl,Chile,0.306086
+1967,39,alb,Albania,0.276154
+1967,40,mex,Mexico,0.208606
+1967,41,nic,Nicaragua,0.2082
+1967,42,egy,Egypt,0.128097
+1967,43,ind,India,0.114213
+1967,44,mng,Mongolia,0.0669913
+1967,45,arg,Argentina,0.0268655
+1967,46,hnd,Honduras,-0.0380935
+1967,47,col,Colombia,-0.0639973
+1967,48,pak,Pakistan,-0.079273
+1967,49,tto,Trinidad and Tobago,-0.107713
+1967,50,zaf,South Africa,-0.110179
+1967,51,tun,Tunisia,-0.128045
+1967,52,cub,Cuba,-0.153694
+1967,53,mar,Morocco,-0.187457
+1967,54,ven,Venezuela,-0.237301
+1967,55,jam,Jamaica,-0.30334
+1967,56,mys,Malaysia,-0.356948
+1967,57,syr,Syria,-0.374146
+1967,58,mwi,Malawi,-0.436026
+1967,59,mrt,Mauritania,-0.46057
+1967,60,bra,Brazil,-0.481374
+1967,61,vnm,Vietnam,-0.491663
+1967,62,omn,Oman,-0.494277
+1967,63,phl,Philippines,-0.495438
+1967,64,sen,Senegal,-0.516264
+1967,65,dza,Algeria,-0.550489
+1967,66,tur,Turkey,-0.611479
+1967,67,per,Peru,-0.619841
+1967,68,ken,Kenya,-0.64638
+1967,69,pry,Paraguay,-0.657154
+1967,70,irn,Iran,-0.697329
+1967,71,bol,Bolivia,-0.74235
+1967,72,mli,Mali,-0.800444
+1967,73,khm,Cambodia,-0.86744
+1967,74,mus,Mauritius,-0.867869
+1967,75,zmb,Zambia,-0.877132
+1967,76,dom,Dominican Republic,-0.878112
+1967,77,gha,Ghana,-0.887455
+1967,78,lbr,Liberia,-0.888604
+1967,79,gin,Guinea,-0.889393
+1967,80,ecu,Ecuador,-0.908326
+1967,81,cog,Republic of the Congo,-0.944726
+1967,82,mdg,Madagascar,-0.948388
+1967,83,moz,Mozambique,-0.951465
+1967,84,lao,Laos,-1.01142
+1967,85,tha,Thailand,-1.01236
+1967,86,civ,Cote d'Ivoire,-1.09507
+1967,87,idn,Indonesia,-1.11673
+1967,88,eth,Ethiopia,-1.15444
+1967,89,kwt,Kuwait,-1.21079
+1967,90,tza,Tanzania,-1.22791
+1967,91,ago,Angola,-1.23794
+1967,92,cmr,Cameroon,-1.25924
+1967,93,sau,Saudi Arabia,-1.36281
+1967,94,png,Papua New Guinea,-1.38816
+1967,95,lka,Sri Lanka,-1.41408
+1967,96,uga,Uganda,-1.49613
+1967,97,sdn,Sudan,-1.50773
+1967,98,nga,Nigeria,-1.65322
+1967,99,gab,Gabon,-1.70438
+1967,100,lby,Libya,-2.7264
+1967,100,qat,Qatar,-2.7264
+1968,1,jpn,Japan,2.15618
+1968,2,che,Switzerland,2.10863
+1968,3,swe,Sweden,2.10029
+1968,4,gbr,United Kingdom,2.09082
+1968,5,aut,Austria,2.0862
+1968,6,usa,United States,1.96708
+1968,7,ita,Italy,1.93508
+1968,8,fra,France,1.87648
+1968,9,fin,Finland,1.82802
+1968,10,nor,Norway,1.76976
+1968,11,bel,Belgium,1.72276
+1968,12,dnk,Denmark,1.56431
+1968,13,nld,Netherlands,1.534
+1968,14,hkg,Hong Kong,1.52881
+1968,15,zwe,Zimbabwe,1.28979
+1968,16,hun,Hungary,1.2819
+1968,17,pan,Panama,1.26612
+1968,18,irl,Ireland,1.23423
+1968,19,pol,Poland,1.20335
+1968,20,prt,Portugal,1.17326
+1968,21,can,Canada,1.16008
+1968,22,kor,South Korea,1.08222
+1968,23,rou,Romania,0.986697
+1968,24,esp,Spain,0.982021
+1968,25,lbn,Lebanon,0.951807
+1968,26,jor,Jordan,0.908995
+1968,27,isr,Israel,0.865641
+1968,28,chn,China,0.834436
+1968,29,bgr,Bulgaria,0.790418
+1968,30,slv,El Salvador,0.743176
+1968,31,cri,Costa Rica,0.69048
+1968,32,sgp,Singapore,0.627878
+1968,33,aus,Australia,0.416069
+1968,34,nzl,New Zealand,0.378114
+1968,35,grc,Greece,0.34523
+1968,36,gtm,Guatemala,0.343855
+1968,37,ind,India,0.308671
+1968,38,ury,Uruguay,0.307871
+1968,39,mrt,Mauritania,0.265104
+1968,40,mex,Mexico,0.256235
+1968,41,tun,Tunisia,0.125351
+1968,42,chl,Chile,0.113361
+1968,43,alb,Albania,0.106477
+1968,44,tto,Trinidad and Tobago,0.0997371
+1968,45,nic,Nicaragua,0.0781527
+1968,46,vnm,Vietnam,-0.0209361
+1968,47,arg,Argentina,-0.0469358
+1968,48,egy,Egypt,-0.053134
+1968,49,jam,Jamaica,-0.111261
+1968,50,pak,Pakistan,-0.145363
+1968,51,hnd,Honduras,-0.152001
+1968,52,mar,Morocco,-0.18386
+1968,53,syr,Syria,-0.191455
+1968,54,phl,Philippines,-0.222852
+1968,55,zaf,South Africa,-0.230538
+1968,56,ven,Venezuela,-0.234685
+1968,57,col,Colombia,-0.269473
+1968,58,sen,Senegal,-0.343908
+1968,59,dza,Algeria,-0.451982
+1968,60,cub,Cuba,-0.457854
+1968,61,mng,Mongolia,-0.540357
+1968,62,tur,Turkey,-0.551942
+1968,63,mys,Malaysia,-0.572565
+1968,64,bra,Brazil,-0.626174
+1968,65,pry,Paraguay,-0.67754
+1968,66,lao,Laos,-0.689024
+1968,67,bol,Bolivia,-0.691446
+1968,68,tha,Thailand,-0.692799
+1968,69,lbr,Liberia,-0.714335
+1968,70,ken,Kenya,-0.765318
+1968,71,irn,Iran,-0.77031
+1968,72,moz,Mozambique,-0.799239
+1968,73,cmr,Cameroon,-0.818757
+1968,74,per,Peru,-0.819558
+1968,75,mwi,Malawi,-0.87364
+1968,76,mli,Mali,-0.928781
+1968,77,mdg,Madagascar,-0.994054
+1968,78,cog,Republic of the Congo,-0.997389
+1968,79,ecu,Ecuador,-1.01414
+1968,80,lka,Sri Lanka,-1.02006
+1968,81,eth,Ethiopia,-1.02839
+1968,82,kwt,Kuwait,-1.02891
+1968,83,mus,Mauritius,-1.06037
+1968,84,dom,Dominican Republic,-1.07765
+1968,85,sau,Saudi Arabia,-1.0778
+1968,86,gha,Ghana,-1.08574
+1968,87,gin,Guinea,-1.1532
+1968,88,civ,Cote d'Ivoire,-1.16425
+1968,89,idn,Indonesia,-1.18385
+1968,90,khm,Cambodia,-1.19107
+1968,91,ago,Angola,-1.23186
+1968,92,png,Papua New Guinea,-1.2517
+1968,93,tza,Tanzania,-1.25181
+1968,94,sdn,Sudan,-1.27998
+1968,95,omn,Oman,-1.29621
+1968,96,zmb,Zambia,-1.43347
+1968,97,gab,Gabon,-1.48621
+1968,98,uga,Uganda,-1.59417
+1968,99,nga,Nigeria,-1.64027
+1968,100,lby,Libya,-2.6473
+1968,100,qat,Qatar,-2.6473
+1969,1,gbr,United Kingdom,2.13706
+1969,2,swe,Sweden,2.1217
+1969,3,jpn,Japan,2.09669
+1969,4,aut,Austria,2.08245
+1969,5,che,Switzerland,2.07348
+1969,6,ita,Italy,1.96247
+1969,7,usa,United States,1.91515
+1969,8,fra,France,1.90876
+1969,9,fin,Finland,1.71813
+1969,10,bel,Belgium,1.7114
+1969,11,nor,Norway,1.63806
+1969,12,nld,Netherlands,1.55991
+1969,13,dnk,Denmark,1.51976
+1969,14,zwe,Zimbabwe,1.51853
+1969,15,hkg,Hong Kong,1.49072
+1969,16,hun,Hungary,1.28776
+1969,17,esp,Spain,1.21767
+1969,18,prt,Portugal,1.17741
+1969,19,pan,Panama,1.15588
+1969,20,irl,Ireland,1.15173
+1969,21,pol,Poland,1.11668
+1969,22,can,Canada,1.07029
+1969,23,kor,South Korea,1.05445
+1969,24,isr,Israel,1.00464
+1969,25,bgr,Bulgaria,0.966523
+1969,26,rou,Romania,0.964841
+1969,27,jor,Jordan,0.924181
+1969,28,lbn,Lebanon,0.911375
+1969,29,slv,El Salvador,0.778966
+1969,30,chn,China,0.730345
+1969,31,are,United Arab Emirates,0.71866
+1969,32,cri,Costa Rica,0.67643
+1969,33,grc,Greece,0.618715
+1969,34,mex,Mexico,0.453652
+1969,35,ury,Uruguay,0.422905
+1969,36,sgp,Singapore,0.35827
+1969,37,gtm,Guatemala,0.331695
+1969,38,ind,India,0.305477
+1969,39,nzl,New Zealand,0.299613
+1969,40,aus,Australia,0.282781
+1969,41,chl,Chile,0.191392
+1969,42,nic,Nicaragua,0.116318
+1969,43,arg,Argentina,0.0774583
+1969,44,tun,Tunisia,0.0474432
+1969,45,ven,Venezuela,0.0198536
+1969,46,egy,Egypt,0.0188433
+1969,47,mrt,Mauritania,-0.0040624
+1969,48,alb,Albania,-0.0078696
+1969,49,col,Colombia,-0.0633694
+1969,50,pak,Pakistan,-0.0706111
+1969,51,tto,Trinidad and Tobago,-0.0939665
+1969,52,jam,Jamaica,-0.206911
+1969,53,mar,Morocco,-0.211093
+1969,54,zaf,South Africa,-0.238959
+1969,55,hnd,Honduras,-0.241841
+1969,56,mng,Mongolia,-0.273922
+1969,57,dza,Algeria,-0.291898
+1969,58,syr,Syria,-0.31881
+1969,59,vnm,Vietnam,-0.334071
+1969,60,phl,Philippines,-0.387167
+1969,61,kwt,Kuwait,-0.40096
+1969,62,tur,Turkey,-0.413698
+1969,63,sen,Senegal,-0.45715
+1969,64,mli,Mali,-0.55584
+1969,65,mwi,Malawi,-0.580544
+1969,66,per,Peru,-0.650504
+1969,67,cub,Cuba,-0.708702
+1969,68,tha,Thailand,-0.717864
+1969,69,sau,Saudi Arabia,-0.74352
+1969,70,bra,Brazil,-0.747075
+1969,71,qat,Qatar,-0.754588
+1969,72,omn,Oman,-0.774783
+1969,73,irn,Iran,-0.791816
+1969,74,mys,Malaysia,-0.833407
+1969,75,ken,Kenya,-0.845652
+1969,76,pry,Paraguay,-0.854298
+1969,77,dom,Dominican Republic,-0.925223
+1969,78,eth,Ethiopia,-0.942526
+1969,79,moz,Mozambique,-0.94626
+1969,80,cmr,Cameroon,-0.97833
+1969,81,mus,Mauritius,-0.99413
+1969,82,lao,Laos,-1.00648
+1969,83,cog,Republic of the Congo,-1.06296
+1969,84,khm,Cambodia,-1.08329
+1969,85,mdg,Madagascar,-1.08426
+1969,86,bol,Bolivia,-1.13077
+1969,87,lbr,Liberia,-1.17618
+1969,88,gin,Guinea,-1.17798
+1969,89,zmb,Zambia,-1.20354
+1969,90,lka,Sri Lanka,-1.24234
+1969,91,gha,Ghana,-1.25434
+1969,92,idn,Indonesia,-1.26107
+1969,93,ecu,Ecuador,-1.38374
+1969,94,tza,Tanzania,-1.38419
+1969,95,ago,Angola,-1.46526
+1969,96,civ,Cote d'Ivoire,-1.51326
+1969,97,gab,Gabon,-1.60128
+1969,98,png,Papua New Guinea,-1.60566
+1969,99,uga,Uganda,-1.67776
+1969,100,sdn,Sudan,-1.70445
+1969,101,nga,Nigeria,-2.00744
+1969,102,lby,Libya,-2.51888
+1970,1,swe,Sweden,2.14616
+1970,2,gbr,United Kingdom,2.13158
+1970,3,jpn,Japan,2.12351
+1970,4,che,Switzerland,2.08145
+1970,5,aut,Austria,2.05331
+1970,6,fra,France,1.92805
+1970,7,ita,Italy,1.91269
+1970,8,usa,United States,1.90664
+1970,9,fin,Finland,1.83151
+1970,10,bel,Belgium,1.72262
+1970,11,nor,Norway,1.58941
+1970,12,dnk,Denmark,1.50878
+1970,13,nld,Netherlands,1.50418
+1970,14,hkg,Hong Kong,1.4387
+1970,15,zwe,Zimbabwe,1.38936
+1970,16,hun,Hungary,1.29012
+1970,17,irl,Ireland,1.16363
+1970,18,can,Canada,1.13862
+1970,19,esp,Spain,1.12337
+1970,20,prt,Portugal,1.09913
+1970,21,pol,Poland,1.09521
+1970,22,rou,Romania,1.08516
+1970,23,kor,South Korea,0.979749
+1970,24,pan,Panama,0.971373
+1970,25,bgr,Bulgaria,0.911919
+1970,26,slv,El Salvador,0.79836
+1970,27,chn,China,0.750949
+1970,28,isr,Israel,0.741137
+1970,29,lbn,Lebanon,0.634721
+1970,30,mex,Mexico,0.506169
+1970,31,cri,Costa Rica,0.504151
+1970,32,jor,Jordan,0.494271
+1970,33,tto,Trinidad and Tobago,0.479963
+1970,34,grc,Greece,0.475186
+1970,35,ury,Uruguay,0.373076
+1970,36,gtm,Guatemala,0.34696
+1970,37,nic,Nicaragua,0.345558
+1970,38,chl,Chile,0.31924
+1970,39,ind,India,0.304202
+1970,40,nzl,New Zealand,0.292058
+1970,41,aus,Australia,0.266929
+1970,42,are,United Arab Emirates,0.125728
+1970,43,arg,Argentina,0.0725681
+1970,44,vnm,Vietnam,0.0348211
+1970,45,sgp,Singapore,0.028102
+1970,46,egy,Egypt,0.0198264
+1970,47,alb,Albania,0.0142824
+1970,48,hnd,Honduras,-0.0025287
+1970,49,mrt,Mauritania,-0.0033054
+1970,50,pak,Pakistan,-0.0206308
+1970,51,tun,Tunisia,-0.0285319
+1970,52,ven,Venezuela,-0.0534124
+1970,53,mar,Morocco,-0.0599443
+1970,54,zaf,South Africa,-0.0607236
+1970,55,col,Colombia,-0.115082
+1970,56,cub,Cuba,-0.226915
+1970,57,jam,Jamaica,-0.230783
+1970,58,dza,Algeria,-0.260096
+1970,59,ken,Kenya,-0.347729
+1970,60,lao,Laos,-0.366478
+1970,61,kwt,Kuwait,-0.378768
+1970,62,sen,Senegal,-0.394568
+1970,63,syr,Syria,-0.400186
+1970,64,phl,Philippines,-0.441463
+1970,65,sau,Saudi Arabia,-0.443605
+1970,66,pry,Paraguay,-0.469867
+1970,67,tur,Turkey,-0.472805
+1970,68,mng,Mongolia,-0.555022
+1970,69,per,Peru,-0.581464
+1970,70,mli,Mali,-0.627731
+1970,71,bra,Brazil,-0.636376
+1970,72,tha,Thailand,-0.692713
+1970,73,dom,Dominican Republic,-0.699845
+1970,74,irn,Iran,-0.732678
+1970,75,mwi,Malawi,-0.744912
+1970,76,mys,Malaysia,-0.752661
+1970,76,omn,Oman,-0.752661
+1970,78,lbr,Liberia,-0.769806
+1970,79,bol,Bolivia,-0.854502
+1970,80,moz,Mozambique,-0.900623
+1970,81,mdg,Madagascar,-0.989322
+1970,82,zmb,Zambia,-1.03124
+1970,83,mus,Mauritius,-1.05151
+1970,84,eth,Ethiopia,-1.05236
+1970,85,cog,Republic of the Congo,-1.0966
+1970,86,khm,Cambodia,-1.17955
+1970,87,cmr,Cameroon,-1.22978
+1970,88,ecu,Ecuador,-1.27116
+1970,89,gin,Guinea,-1.28103
+1970,90,lka,Sri Lanka,-1.28271
+1970,91,png,Papua New Guinea,-1.32936
+1970,92,idn,Indonesia,-1.34674
+1970,93,tza,Tanzania,-1.34988
+1970,94,uga,Uganda,-1.36188
+1970,95,gha,Ghana,-1.37892
+1970,96,gab,Gabon,-1.41817
+1970,97,ago,Angola,-1.43791
+1970,98,civ,Cote d'Ivoire,-1.47738
+1970,99,sdn,Sudan,-1.62607
+1970,100,nga,Nigeria,-2.12574
+1970,101,lby,Libya,-2.82939
+1970,101,qat,Qatar,-2.82939
+1971,1,swe,Sweden,2.02881
+1971,2,gbr,United Kingdom,1.92306
+1971,3,che,Switzerland,1.91956
+1971,4,aut,Austria,1.88091
+1971,5,jpn,Japan,1.85231
+1971,6,ita,Italy,1.73741
+1971,7,usa,United States,1.69049
+1971,8,fra,France,1.67552
+1971,9,bel,Belgium,1.57082
+1971,10,fin,Finland,1.4374
+1971,11,nor,Norway,1.38648
+1971,12,dnk,Denmark,1.3779
+1971,13,nld,Netherlands,1.36075
+1971,14,hun,Hungary,1.13078
+1971,15,irl,Ireland,1.12258
+1971,16,hkg,Hong Kong,1.12033
+1971,17,prt,Portugal,1.09463
+1971,18,zwe,Zimbabwe,1.07259
+1971,19,pol,Poland,1.04174
+1971,20,rou,Romania,1.02163
+1971,21,esp,Spain,1.01109
+1971,22,can,Canada,0.916684
+1971,23,isr,Israel,0.854891
+1971,24,bgr,Bulgaria,0.665432
+1971,25,lbn,Lebanon,0.645665
+1971,26,slv,El Salvador,0.64565
+1971,27,kor,South Korea,0.636602
+1971,28,mex,Mexico,0.630427
+1971,29,cri,Costa Rica,0.606623
+1971,30,chn,China,0.577647
+1971,31,pan,Panama,0.575361
+1971,32,nzl,New Zealand,0.551957
+1971,33,jor,Jordan,0.443681
+1971,34,qat,Qatar,0.427321
+1971,35,sgp,Singapore,0.402901
+1971,36,tto,Trinidad and Tobago,0.388781
+1971,37,grc,Greece,0.367893
+1971,38,ury,Uruguay,0.359523
+1971,39,gtm,Guatemala,0.35878
+1971,40,nic,Nicaragua,0.336669
+1971,41,chl,Chile,0.281376
+1971,42,ind,India,0.248184
+1971,43,aus,Australia,0.207665
+1971,44,alb,Albania,0.108112
+1971,45,egy,Egypt,0.0830326
+1971,46,pak,Pakistan,0.0713729
+1971,47,jam,Jamaica,0.0540433
+1971,48,mar,Morocco,0.0130926
+1971,49,arg,Argentina,-0.00279836
+1971,50,col,Colombia,-0.0411122
+1971,51,are,United Arab Emirates,-0.0446478
+1971,52,zaf,South Africa,-0.0586367
+1971,53,ken,Kenya,-0.093602
+1971,54,kwt,Kuwait,-0.115551
+1971,55,mng,Mongolia,-0.116236
+1971,56,tun,Tunisia,-0.133203
+1971,57,sen,Senegal,-0.168471
+1971,58,vnm,Vietnam,-0.219368
+1971,59,syr,Syria,-0.230808
+1971,60,mus,Mauritius,-0.234106
+1971,61,ven,Venezuela,-0.28495
+1971,62,tur,Turkey,-0.371888
+1971,63,hnd,Honduras,-0.414675
+1971,64,phl,Philippines,-0.428907
+1971,65,dom,Dominican Republic,-0.436861
+1971,66,pry,Paraguay,-0.447982
+1971,67,mwi,Malawi,-0.473116
+1971,68,bra,Brazil,-0.478311
+1971,69,cub,Cuba,-0.546741
+1971,70,mys,Malaysia,-0.621352
+1971,71,dza,Algeria,-0.643484
+1971,72,per,Peru,-0.6865
+1971,73,mli,Mali,-0.730019
+1971,74,cmr,Cameroon,-0.74653
+1971,75,irn,Iran,-0.752186
+1971,76,tha,Thailand,-0.773075
+1971,77,bol,Bolivia,-0.791961
+1971,78,mrt,Mauritania,-0.824487
+1971,79,moz,Mozambique,-0.840668
+1971,80,cog,Republic of the Congo,-0.847032
+1971,81,mdg,Madagascar,-0.882451
+1971,82,gha,Ghana,-0.895619
+1971,83,lka,Sri Lanka,-0.900004
+1971,84,omn,Oman,-0.936792
+1971,85,khm,Cambodia,-0.981266
+1971,86,lbr,Liberia,-1.068
+1971,87,zmb,Zambia,-1.09874
+1971,88,png,Papua New Guinea,-1.11977
+1971,89,ecu,Ecuador,-1.12164
+1971,90,gin,Guinea,-1.13845
+1971,91,tza,Tanzania,-1.1552
+1971,92,lao,Laos,-1.17033
+1971,93,sau,Saudi Arabia,-1.19577
+1971,94,eth,Ethiopia,-1.23332
+1971,95,civ,Cote d'Ivoire,-1.29745
+1971,96,gab,Gabon,-1.41756
+1971,97,idn,Indonesia,-1.46459
+1971,98,uga,Uganda,-1.49592
+1971,99,sdn,Sudan,-1.56194
+1971,100,ago,Angola,-1.60583
+1971,101,nga,Nigeria,-2.03995
+1971,102,lby,Libya,-2.53629
+1972,1,jpn,Japan,2.03391
+1972,2,swe,Sweden,2.01182
+1972,3,aut,Austria,1.93231
+1972,4,gbr,United Kingdom,1.91885
+1972,5,che,Switzerland,1.82332
+1972,6,ita,Italy,1.76938
+1972,7,usa,United States,1.76489
+1972,8,fra,France,1.73204
+1972,9,fin,Finland,1.68573
+1972,10,nor,Norway,1.59165
+1972,11,bel,Belgium,1.56955
+1972,12,dnk,Denmark,1.42748
+1972,13,hkg,Hong Kong,1.40673
+1972,14,nld,Netherlands,1.40516
+1972,15,zwe,Zimbabwe,1.23416
+1972,16,irl,Ireland,1.18897
+1972,17,esp,Spain,1.17719
+1972,18,hun,Hungary,1.16777
+1972,19,pol,Poland,1.12774
+1972,20,rou,Romania,1.06829
+1972,21,prt,Portugal,1.0608
+1972,22,kor,South Korea,1.02833
+1972,23,can,Canada,1.02052
+1972,24,bgr,Bulgaria,0.983749
+1972,25,isr,Israel,0.832546
+1972,26,pan,Panama,0.826323
+1972,27,slv,El Salvador,0.803985
+1972,28,chn,China,0.8032
+1972,29,lbn,Lebanon,0.780594
+1972,30,ury,Uruguay,0.65331
+1972,31,cri,Costa Rica,0.614163
+1972,32,nzl,New Zealand,0.534872
+1972,33,sgp,Singapore,0.516752
+1972,34,jor,Jordan,0.516123
+1972,35,grc,Greece,0.514307
+1972,36,gtm,Guatemala,0.47442
+1972,37,mex,Mexico,0.450121
+1972,38,ind,India,0.43339
+1972,39,chl,Chile,0.430946
+1972,40,nic,Nicaragua,0.373219
+1972,41,aus,Australia,0.352283
+1972,42,tto,Trinidad and Tobago,0.340161
+1972,43,arg,Argentina,0.317308
+1972,44,mng,Mongolia,0.282355
+1972,45,egy,Egypt,0.267217
+1972,46,col,Colombia,0.239184
+1972,47,alb,Albania,0.148141
+1972,48,vnm,Vietnam,0.0375894
+1972,49,pak,Pakistan,0.024307
+1972,50,mar,Morocco,0.0229916
+1972,51,zaf,South Africa,0.0167513
+1972,52,tun,Tunisia,0.0067695
+1972,53,tur,Turkey,-0.0257759
+1972,54,sen,Senegal,-0.119738
+1972,55,dom,Dominican Republic,-0.148613
+1972,56,bra,Brazil,-0.162675
+1972,57,hnd,Honduras,-0.257317
+1972,58,syr,Syria,-0.262969
+1972,59,jam,Jamaica,-0.272152
+1972,60,ken,Kenya,-0.28063
+1972,61,mwi,Malawi,-0.306937
+1972,62,lbr,Liberia,-0.320584
+1972,63,ven,Venezuela,-0.419083
+1972,64,dza,Algeria,-0.438572
+1972,65,pry,Paraguay,-0.457119
+1972,66,mus,Mauritius,-0.464857
+1972,67,tha,Thailand,-0.502242
+1972,68,phl,Philippines,-0.565486
+1972,69,cub,Cuba,-0.617091
+1972,70,kwt,Kuwait,-0.646201
+1972,71,mli,Mali,-0.658895
+1972,72,irn,Iran,-0.667204
+1972,73,are,United Arab Emirates,-0.677364
+1972,74,cmr,Cameroon,-0.772152
+1972,75,per,Peru,-0.778308
+1972,76,mys,Malaysia,-0.804996
+1972,77,moz,Mozambique,-0.819405
+1972,78,mdg,Madagascar,-0.836764
+1972,79,mrt,Mauritania,-0.839646
+1972,80,zmb,Zambia,-0.873903
+1972,81,cog,Republic of the Congo,-0.986475
+1972,82,ago,Angola,-1.02135
+1972,83,lka,Sri Lanka,-1.05759
+1972,84,omn,Oman,-1.09942
+1972,85,sau,Saudi Arabia,-1.11285
+1972,86,eth,Ethiopia,-1.13492
+1972,87,gha,Ghana,-1.16228
+1972,88,tza,Tanzania,-1.19861
+1972,89,gin,Guinea,-1.24504
+1972,90,ecu,Ecuador,-1.28899
+1972,91,sdn,Sudan,-1.29931
+1972,92,civ,Cote d'Ivoire,-1.30761
+1972,93,uga,Uganda,-1.36233
+1972,94,bol,Bolivia,-1.37051
+1972,95,lao,Laos,-1.37881
+1972,96,khm,Cambodia,-1.40673
+1972,97,png,Papua New Guinea,-1.46504
+1972,98,idn,Indonesia,-1.47222
+1972,99,gab,Gabon,-1.73966
+1972,100,nga,Nigeria,-2.0708
+1972,101,lby,Libya,-2.95095
+1972,102,qat,Qatar,-3.61546
+1973,1,jpn,Japan,2.17161
+1973,2,gbr,United Kingdom,2.0209
+1973,3,aut,Austria,1.99589
+1973,4,swe,Sweden,1.9516
+1973,5,che,Switzerland,1.94083
+1973,6,ita,Italy,1.80728
+1973,7,usa,United States,1.78833
+1973,8,fra,France,1.78474
+1973,9,fin,Finland,1.61407
+1973,10,bel,Belgium,1.61194
+1973,11,nor,Norway,1.5755
+1973,12,dnk,Denmark,1.49476
+1973,13,nld,Netherlands,1.44037
+1973,14,hkg,Hong Kong,1.3621
+1973,15,zwe,Zimbabwe,1.31837
+1973,16,irl,Ireland,1.24425
+1973,17,kor,South Korea,1.16744
+1973,18,esp,Spain,1.13312
+1973,19,hun,Hungary,1.11525
+1973,20,pol,Poland,1.10576
+1973,21,prt,Portugal,1.03781
+1973,22,can,Canada,1.01382
+1973,23,rou,Romania,0.996644
+1973,24,bgr,Bulgaria,0.973006
+1973,25,isr,Israel,0.880237
+1973,26,lbn,Lebanon,0.860849
+1973,27,chn,China,0.811386
+1973,28,slv,El Salvador,0.774381
+1973,29,grc,Greece,0.66838
+1973,30,pan,Panama,0.644719
+1973,31,jor,Jordan,0.602624
+1973,32,mex,Mexico,0.596636
+1973,33,cri,Costa Rica,0.588719
+1973,34,sgp,Singapore,0.560383
+1973,35,nzl,New Zealand,0.512995
+1973,36,tto,Trinidad and Tobago,0.512254
+1973,37,gtm,Guatemala,0.507477
+1973,38,arg,Argentina,0.423488
+1973,39,col,Colombia,0.373117
+1973,40,egy,Egypt,0.353247
+1973,41,ind,India,0.333937
+1973,42,ury,Uruguay,0.322466
+1973,43,aus,Australia,0.279103
+1973,44,nic,Nicaragua,0.278957
+1973,45,kwt,Kuwait,0.238499
+1973,46,mus,Mauritius,0.18611
+1973,47,tun,Tunisia,0.0986734
+1973,48,pak,Pakistan,0.0877526
+1973,49,vnm,Vietnam,0.0216815
+1973,50,chl,Chile,0.0107319
+1973,51,hnd,Honduras,-0.0094475
+1973,52,mar,Morocco,-0.0390722
+1973,53,mng,Mongolia,-0.0431651
+1973,54,sen,Senegal,-0.063909
+1973,55,mrt,Mauritania,-0.0684224
+1973,56,syr,Syria,-0.0775132
+1973,57,jam,Jamaica,-0.102418
+1973,58,tur,Turkey,-0.105233
+1973,59,alb,Albania,-0.127498
+1973,60,zaf,South Africa,-0.131087
+1973,61,bra,Brazil,-0.262778
+1973,62,per,Peru,-0.374386
+1973,63,ken,Kenya,-0.421001
+1973,64,mwi,Malawi,-0.485938
+1973,65,dza,Algeria,-0.490132
+1973,66,mys,Malaysia,-0.499047
+1973,67,pry,Paraguay,-0.525017
+1973,68,cub,Cuba,-0.531622
+1973,69,tha,Thailand,-0.601235
+1973,70,phl,Philippines,-0.62004
+1973,71,ven,Venezuela,-0.655643
+1973,72,dom,Dominican Republic,-0.663134
+1973,73,omn,Oman,-0.722554
+1973,74,moz,Mozambique,-0.729361
+1973,75,mli,Mali,-0.818138
+1973,76,cmr,Cameroon,-0.832951
+1973,77,lbr,Liberia,-0.881371
+1973,78,are,United Arab Emirates,-0.938639
+1973,79,mdg,Madagascar,-1.0224
+1973,80,eth,Ethiopia,-1.03976
+1973,81,ecu,Ecuador,-1.04187
+1973,82,zmb,Zambia,-1.04349
+1973,83,lka,Sri Lanka,-1.05808
+1973,84,bol,Bolivia,-1.07017
+1973,85,ago,Angola,-1.07833
+1973,86,irn,Iran,-1.12438
+1973,87,tza,Tanzania,-1.20366
+1973,88,sdn,Sudan,-1.20814
+1973,89,cog,Republic of the Congo,-1.25524
+1973,90,sau,Saudi Arabia,-1.2715
+1973,91,gin,Guinea,-1.38734
+1973,92,khm,Cambodia,-1.49341
+1973,93,lao,Laos,-1.55397
+1973,94,idn,Indonesia,-1.62024
+1973,95,gha,Ghana,-1.63347
+1973,96,civ,Cote d'Ivoire,-1.63942
+1973,97,uga,Uganda,-1.76904
+1973,98,png,Papua New Guinea,-1.83902
+1973,99,lby,Libya,-2.15355
+1973,100,gab,Gabon,-2.21938
+1973,101,nga,Nigeria,-2.22285
+1973,102,qat,Qatar,-2.4247
+1974,1,jpn,Japan,1.96657
+1974,2,aut,Austria,1.80912
+1974,3,swe,Sweden,1.80678
+1974,4,gbr,United Kingdom,1.76215
+1974,5,che,Switzerland,1.7598
+1974,6,fra,France,1.64454
+1974,7,ita,Italy,1.61921
+1974,8,usa,United States,1.56888
+1974,9,bel,Belgium,1.52057
+1974,10,fin,Finland,1.48988
+1974,11,nor,Norway,1.40798
+1974,12,kor,South Korea,1.27876
+1974,13,dnk,Denmark,1.27475
+1974,14,hkg,Hong Kong,1.26348
+1974,15,nld,Netherlands,1.25221
+1974,16,irl,Ireland,1.16483
+1974,17,pol,Poland,1.15937
+1974,18,zwe,Zimbabwe,1.1481
+1974,19,esp,Spain,1.0825
+1974,20,prt,Portugal,1.06442
+1974,21,hun,Hungary,1.06348
+1974,22,can,Canada,1.04491
+1974,23,lbn,Lebanon,1.03125
+1974,24,bgr,Bulgaria,1.00922
+1974,25,rou,Romania,0.88083
+1974,26,isr,Israel,0.837692
+1974,27,slv,El Salvador,0.782145
+1974,28,chn,China,0.752352
+1974,29,jor,Jordan,0.728729
+1974,30,pan,Panama,0.712259
+1974,31,grc,Greece,0.680469
+1974,32,mex,Mexico,0.649772
+1974,33,cri,Costa Rica,0.612648
+1974,34,ury,Uruguay,0.560259
+1974,35,arg,Argentina,0.504634
+1974,36,nzl,New Zealand,0.500885
+1974,37,ind,India,0.492617
+1974,38,sgp,Singapore,0.482987
+1974,39,jam,Jamaica,0.457501
+1974,40,col,Colombia,0.451208
+1974,41,aus,Australia,0.367965
+1974,42,syr,Syria,0.295402
+1974,43,gtm,Guatemala,0.29211
+1974,44,egy,Egypt,0.289555
+1974,45,pak,Pakistan,0.202006
+1974,46,mng,Mongolia,0.199852
+1974,47,chl,Chile,0.191071
+1974,48,nic,Nicaragua,0.188806
+1974,49,mus,Mauritius,0.185425
+1974,50,tto,Trinidad and Tobago,0.104675
+1974,51,alb,Albania,0.0957161
+1974,52,mar,Morocco,0.064728
+1974,53,tur,Turkey,0.0566091
+1974,54,mrt,Mauritania,0.0559396
+1974,55,vnm,Vietnam,0.032566
+1974,56,zaf,South Africa,-0.0016756
+1974,57,tun,Tunisia,-0.00518
+1974,58,phl,Philippines,-0.166368
+1974,59,hnd,Honduras,-0.177805
+1974,60,bra,Brazil,-0.190448
+1974,61,dom,Dominican Republic,-0.205523
+1974,62,bgd,Bangladesh,-0.235461
+1974,63,per,Peru,-0.264685
+1974,64,mwi,Malawi,-0.272362
+1974,65,sen,Senegal,-0.28679
+1974,66,pry,Paraguay,-0.323021
+1974,67,ken,Kenya,-0.344479
+1974,68,tha,Thailand,-0.348976
+1974,69,mli,Mali,-0.382462
+1974,70,zmb,Zambia,-0.494125
+1974,71,cub,Cuba,-0.526875
+1974,72,mys,Malaysia,-0.60629
+1974,73,dza,Algeria,-0.613699
+1974,74,ven,Venezuela,-0.614101
+1974,75,lka,Sri Lanka,-0.666947
+1974,76,moz,Mozambique,-0.83082
+1974,77,sdn,Sudan,-0.848328
+1974,78,mdg,Madagascar,-0.849555
+1974,79,kwt,Kuwait,-0.875699
+1974,80,khm,Cambodia,-0.877295
+1974,81,are,United Arab Emirates,-0.914241
+1974,82,eth,Ethiopia,-0.945149
+1974,83,lao,Laos,-0.992863
+1974,84,lbr,Liberia,-1.02375
+1974,85,bol,Bolivia,-1.08407
+1974,86,tza,Tanzania,-1.0962
+1974,87,cmr,Cameroon,-1.10032
+1974,88,gin,Guinea,-1.12142
+1974,89,ecu,Ecuador,-1.14586
+1974,90,ago,Angola,-1.15601
+1974,91,gha,Ghana,-1.16728
+1974,92,cog,Republic of the Congo,-1.23535
+1974,93,qat,Qatar,-1.25186
+1974,94,irn,Iran,-1.31714
+1974,95,civ,Cote d'Ivoire,-1.49054
+1974,96,idn,Indonesia,-1.56608
+1974,97,uga,Uganda,-1.58807
+1974,98,png,Papua New Guinea,-1.82038
+1974,99,sau,Saudi Arabia,-1.94603
+1974,100,nga,Nigeria,-2.10749
+1974,101,gab,Gabon,-2.17455
+1974,102,omn,Oman,-2.30455
+1974,103,lby,Libya,-4.34409
+1975,1,jpn,Japan,1.91791
+1975,2,aut,Austria,1.83344
+1975,3,swe,Sweden,1.79896
+1975,4,che,Switzerland,1.76538
+1975,5,gbr,United Kingdom,1.67298
+1975,6,fra,France,1.63583
+1975,7,ita,Italy,1.61418
+1975,8,usa,United States,1.56106
+1975,9,fin,Finland,1.55995
+1975,10,bel,Belgium,1.54701
+1975,11,nor,Norway,1.42315
+1975,12,dnk,Denmark,1.34604
+1975,13,pol,Poland,1.31123
+1975,14,nld,Netherlands,1.26046
+1975,15,zwe,Zimbabwe,1.22687
+1975,16,hun,Hungary,1.22185
+1975,17,esp,Spain,1.20132
+1975,18,kor,South Korea,1.19061
+1975,19,hkg,Hong Kong,1.15925
+1975,20,irl,Ireland,1.13559
+1975,21,prt,Portugal,1.07246
+1975,22,bgr,Bulgaria,1.05035
+1975,23,lbn,Lebanon,1.04221
+1975,24,jor,Jordan,1.02475
+1975,25,rou,Romania,1.00534
+1975,26,can,Canada,0.99396
+1975,27,isr,Israel,0.949405
+1975,28,grc,Greece,0.770558
+1975,29,mex,Mexico,0.735877
+1975,30,slv,El Salvador,0.685943
+1975,31,ury,Uruguay,0.643865
+1975,32,chn,China,0.643285
+1975,33,pan,Panama,0.619026
+1975,34,col,Colombia,0.604286
+1975,35,sgp,Singapore,0.570643
+1975,36,nzl,New Zealand,0.52389
+1975,37,ind,India,0.523678
+1975,38,cri,Costa Rica,0.501562
+1975,39,arg,Argentina,0.442333
+1975,40,gtm,Guatemala,0.430349
+1975,41,aus,Australia,0.42179
+1975,42,egy,Egypt,0.322447
+1975,43,jam,Jamaica,0.313565
+1975,44,chl,Chile,0.308298
+1975,45,nic,Nicaragua,0.287565
+1975,46,tur,Turkey,0.239506
+1975,47,alb,Albania,0.228537
+1975,48,pak,Pakistan,0.201478
+1975,49,mar,Morocco,0.176428
+1975,50,sen,Senegal,0.142227
+1975,51,syr,Syria,0.128725
+1975,52,mng,Mongolia,0.0894133
+1975,53,tun,Tunisia,0.089189
+1975,54,tto,Trinidad and Tobago,0.073267
+1975,55,zaf,South Africa,0.035912
+1975,56,mus,Mauritius,0.0250537
+1975,57,bra,Brazil,0.0042253
+1975,58,mwi,Malawi,-0.0582818
+1975,59,vnm,Vietnam,-0.066308
+1975,60,hnd,Honduras,-0.0702693
+1975,61,zmb,Zambia,-0.0709957
+1975,62,dom,Dominican Republic,-0.197312
+1975,63,per,Peru,-0.220399
+1975,64,phl,Philippines,-0.249288
+1975,65,ken,Kenya,-0.291936
+1975,66,pry,Paraguay,-0.30344
+1975,67,mrt,Mauritania,-0.340955
+1975,68,khm,Cambodia,-0.479319
+1975,69,dza,Algeria,-0.488156
+1975,70,tha,Thailand,-0.489417
+1975,71,kwt,Kuwait,-0.511065
+1975,72,bgd,Bangladesh,-0.521464
+1975,73,mli,Mali,-0.597208
+1975,74,mys,Malaysia,-0.627703
+1975,75,lka,Sri Lanka,-0.677269
+1975,76,mdg,Madagascar,-0.824025
+1975,77,ven,Venezuela,-0.84228
+1975,78,cub,Cuba,-0.869194
+1975,79,eth,Ethiopia,-0.897782
+1975,80,moz,Mozambique,-0.909989
+1975,81,lbr,Liberia,-1.03058
+1975,82,cmr,Cameroon,-1.0746
+1975,83,lao,Laos,-1.07693
+1975,84,tza,Tanzania,-1.08195
+1975,85,ecu,Ecuador,-1.11542
+1975,86,bol,Bolivia,-1.1424
+1975,87,sdn,Sudan,-1.21414
+1975,88,gha,Ghana,-1.29248
+1975,89,cog,Republic of the Congo,-1.4796
+1975,90,civ,Cote d'Ivoire,-1.48608
+1975,91,qat,Qatar,-1.50025
+1975,92,irn,Iran,-1.57981
+1975,93,lby,Libya,-1.60714
+1975,94,omn,Oman,-1.62076
+1975,95,ago,Angola,-1.6433
+1975,96,idn,Indonesia,-1.67253
+1975,97,are,United Arab Emirates,-1.85073
+1975,98,uga,Uganda,-1.89079
+1975,99,gin,Guinea,-1.89425
+1975,100,png,Papua New Guinea,-2.01141
+1975,101,sau,Saudi Arabia,-2.43454
+1975,102,gab,Gabon,-2.48386
+1975,103,nga,Nigeria,-2.51689
+1976,1,jpn,Japan,1.30219
+1976,2,swe,Sweden,1.29404
+1976,3,che,Switzerland,1.26347
+1976,4,gbr,United Kingdom,1.2253
+1976,5,aut,Austria,1.21069
+1976,6,ita,Italy,1.16762
+1976,7,fra,France,1.13336
+1976,8,can,Canada,1.05492
+1976,9,bel,Belgium,1.03833
+1976,10,usa,United States,1.03446
+1976,11,nor,Norway,1.01135
+1976,12,fin,Finland,0.987597
+1976,13,dnk,Denmark,0.98397
+1976,14,lbn,Lebanon,0.932318
+1976,15,jor,Jordan,0.931359
+1976,16,nld,Netherlands,0.900606
+1976,17,isr,Israel,0.878021
+1976,18,hkg,Hong Kong,0.865345
+1976,19,esp,Spain,0.864363
+1976,20,kor,South Korea,0.860023
+1976,21,irl,Ireland,0.855972
+1976,22,syr,Syria,0.820132
+1976,23,pol,Poland,0.819663
+1976,24,kwt,Kuwait,0.794925
+1976,25,hun,Hungary,0.774828
+1976,26,prt,Portugal,0.747401
+1976,27,mex,Mexico,0.720521
+1976,28,bgr,Bulgaria,0.719784
+1976,29,mng,Mongolia,0.7183
+1976,30,rou,Romania,0.707555
+1976,31,grc,Greece,0.598213
+1976,32,sgp,Singapore,0.522939
+1976,33,chn,China,0.521823
+1976,34,ind,India,0.502273
+1976,35,pan,Panama,0.466276
+1976,36,ury,Uruguay,0.462293
+1976,37,zwe,Zimbabwe,0.456145
+1976,38,khm,Cambodia,0.440645
+1976,39,slv,El Salvador,0.406289
+1976,40,nzl,New Zealand,0.403733
+1976,41,arg,Argentina,0.370292
+1976,42,aus,Australia,0.369232
+1976,43,cri,Costa Rica,0.352237
+1976,44,pak,Pakistan,0.347127
+1976,45,mus,Mauritius,0.339762
+1976,46,col,Colombia,0.317747
+1976,47,tur,Turkey,0.308999
+1976,48,gtm,Guatemala,0.297361
+1976,49,jam,Jamaica,0.285566
+1976,50,chl,Chile,0.277186
+1976,51,mar,Morocco,0.24996
+1976,52,tun,Tunisia,0.205705
+1976,53,alb,Albania,0.194313
+1976,54,zaf,South Africa,0.193677
+1976,55,ken,Kenya,0.168503
+1976,56,bra,Brazil,0.135697
+1976,57,egy,Egypt,0.124852
+1976,58,phl,Philippines,0.108931
+1976,59,per,Peru,0.100624
+1976,60,nic,Nicaragua,0.0929263
+1976,61,vnm,Vietnam,0.0704923
+1976,62,dom,Dominican Republic,0.0425818
+1976,63,tto,Trinidad and Tobago,0.0235132
+1976,64,hnd,Honduras,0.0040779
+1976,65,sen,Senegal,-0.0495286
+1976,66,tha,Thailand,-0.0552874
+1976,67,mwi,Malawi,-0.126034
+1976,68,are,United Arab Emirates,-0.159944
+1976,69,mys,Malaysia,-0.176358
+1976,70,mrt,Mauritania,-0.190039
+1976,71,qat,Qatar,-0.209543
+1976,72,mli,Mali,-0.227062
+1976,73,pry,Paraguay,-0.241256
+1976,74,bol,Bolivia,-0.367915
+1976,75,bgd,Bangladesh,-0.379977
+1976,76,dza,Algeria,-0.391682
+1976,77,zmb,Zambia,-0.434687
+1976,78,tza,Tanzania,-0.456981
+1976,79,lao,Laos,-0.457115
+1976,80,eth,Ethiopia,-0.468519
+1976,81,cub,Cuba,-0.508522
+1976,82,sdn,Sudan,-0.541249
+1976,83,moz,Mozambique,-0.543827
+1976,84,lka,Sri Lanka,-0.555153
+1976,85,mdg,Madagascar,-0.565351
+1976,86,lbr,Liberia,-0.649653
+1976,87,uga,Uganda,-0.6739
+1976,88,cmr,Cameroon,-0.735059
+1976,89,civ,Cote d'Ivoire,-0.963918
+1976,90,gha,Ghana,-1.00608
+1976,91,irn,Iran,-1.10956
+1976,92,ago,Angola,-1.19317
+1976,93,idn,Indonesia,-1.23111
+1976,94,ecu,Ecuador,-1.2898
+1976,95,cog,Republic of the Congo,-1.34827
+1976,96,png,Papua New Guinea,-1.49344
+1976,97,omn,Oman,-1.6934
+1976,98,gab,Gabon,-1.84437
+1976,99,gin,Guinea,-1.88253
+1976,100,nga,Nigeria,-1.92951
+1976,101,ven,Venezuela,-2.09901
+1976,102,lby,Libya,-2.88277
+1976,103,sau,Saudi Arabia,-7.24883
+1977,1,jpn,Japan,1.94993
+1977,2,swe,Sweden,1.80688
+1977,3,che,Switzerland,1.76659
+1977,4,gbr,United Kingdom,1.68871
+1977,5,ita,Italy,1.64809
+1977,6,aut,Austria,1.64564
+1977,7,can,Canada,1.64173
+1977,8,fra,France,1.52769
+1977,9,bel,Belgium,1.36634
+1977,10,usa,United States,1.34414
+1977,11,fin,Finland,1.32785
+1977,12,dnk,Denmark,1.30386
+1977,13,nor,Norway,1.24996
+1977,14,hkg,Hong Kong,1.21794
+1977,15,isr,Israel,1.17319
+1977,16,kor,South Korea,1.14384
+1977,17,nld,Netherlands,1.12488
+1977,18,irl,Ireland,1.10769
+1977,19,mex,Mexico,1.07733
+1977,20,esp,Spain,1.0772
+1977,21,pol,Poland,1.05479
+1977,22,hun,Hungary,1.01463
+1977,23,rou,Romania,0.967587
+1977,24,prt,Portugal,0.885997
+1977,25,jor,Jordan,0.877796
+1977,26,lbn,Lebanon,0.803816
+1977,27,bgr,Bulgaria,0.78507
+1977,28,ind,India,0.685191
+1977,29,mng,Mongolia,0.620651
+1977,30,sgp,Singapore,0.596381
+1977,31,slv,El Salvador,0.591528
+1977,32,cri,Costa Rica,0.585904
+1977,33,chn,China,0.575962
+1977,34,ury,Uruguay,0.527322
+1977,35,zwe,Zimbabwe,0.523004
+1977,36,grc,Greece,0.522457
+1977,37,mus,Mauritius,0.495911
+1977,38,syr,Syria,0.47923
+1977,39,arg,Argentina,0.475826
+1977,40,nzl,New Zealand,0.464936
+1977,41,pan,Panama,0.450196
+1977,42,col,Colombia,0.425859
+1977,43,aus,Australia,0.400418
+1977,44,bra,Brazil,0.293655
+1977,45,gtm,Guatemala,0.266384
+1977,46,pak,Pakistan,0.259432
+1977,47,chl,Chile,0.23745
+1977,48,nic,Nicaragua,0.193185
+1977,49,khm,Cambodia,0.191455
+1977,50,zaf,South Africa,0.190741
+1977,51,mar,Morocco,0.189915
+1977,52,dom,Dominican Republic,0.139245
+1977,53,phl,Philippines,0.114574
+1977,54,tur,Turkey,0.106301
+1977,55,egy,Egypt,0.0712514
+1977,56,tha,Thailand,0.0398238
+1977,57,jam,Jamaica,0.0312654
+1977,58,alb,Albania,0.0009006
+1977,59,hnd,Honduras,-0.0074892
+1977,60,mys,Malaysia,-0.0079331
+1977,61,tun,Tunisia,-0.0417249
+1977,62,ken,Kenya,-0.0721204
+1977,63,vnm,Vietnam,-0.0835711
+1977,64,per,Peru,-0.122475
+1977,65,kwt,Kuwait,-0.158751
+1977,66,bgd,Bangladesh,-0.208941
+1977,67,mrt,Mauritania,-0.218526
+1977,68,pry,Paraguay,-0.261118
+1977,69,lao,Laos,-0.275066
+1977,70,mwi,Malawi,-0.360885
+1977,71,tto,Trinidad and Tobago,-0.415237
+1977,72,dza,Algeria,-0.529666
+1977,73,zmb,Zambia,-0.538493
+1977,74,lka,Sri Lanka,-0.541896
+1977,75,cub,Cuba,-0.598882
+1977,76,sen,Senegal,-0.727728
+1977,77,moz,Mozambique,-0.744465
+1977,78,mli,Mali,-0.84691
+1977,79,bol,Bolivia,-0.8549
+1977,80,sdn,Sudan,-0.859408
+1977,81,ecu,Ecuador,-0.930074
+1977,82,civ,Cote d'Ivoire,-0.943285
+1977,83,mdg,Madagascar,-0.950148
+1977,84,tza,Tanzania,-0.977898
+1977,85,eth,Ethiopia,-0.996611
+1977,86,are,United Arab Emirates,-1.01582
+1977,87,ven,Venezuela,-1.0691
+1977,88,uga,Uganda,-1.2291
+1977,89,cmr,Cameroon,-1.24952
+1977,90,lbr,Liberia,-1.28924
+1977,91,idn,Indonesia,-1.2898
+1977,92,gha,Ghana,-1.45851
+1977,93,ago,Angola,-1.45873
+1977,94,irn,Iran,-1.50727
+1977,95,cog,Republic of the Congo,-1.63727
+1977,96,png,Papua New Guinea,-1.76626
+1977,97,lby,Libya,-1.95283
+1977,98,qat,Qatar,-1.97459
+1977,99,gin,Guinea,-2.08595
+1977,100,gab,Gabon,-2.12076
+1977,101,nga,Nigeria,-2.16406
+1977,102,sau,Saudi Arabia,-3.17835
+1977,103,omn,Oman,-3.60416
+1978,1,jpn,Japan,1.6356
+1978,2,swe,Sweden,1.60369
+1978,3,che,Switzerland,1.58784
+1978,4,aut,Austria,1.52703
+1978,5,gbr,United Kingdom,1.49813
+1978,6,usa,United States,1.48351
+1978,7,fra,France,1.43363
+1978,8,ita,Italy,1.41823
+1978,9,bel,Belgium,1.3669
+1978,10,fin,Finland,1.32517
+1978,11,dnk,Denmark,1.29449
+1978,12,nor,Norway,1.24416
+1978,13,irl,Ireland,1.20868
+1978,14,nld,Netherlands,1.18781
+1978,15,can,Canada,1.16203
+1978,16,esp,Spain,1.15322
+1978,17,jor,Jordan,1.13414
+1978,18,isr,Israel,1.04369
+1978,19,pol,Poland,1.03388
+1978,20,hkg,Hong Kong,1.00811
+1978,21,hun,Hungary,1.00157
+1978,22,kor,South Korea,0.973827
+1978,23,rou,Romania,0.938778
+1978,24,prt,Portugal,0.931804
+1978,25,bgr,Bulgaria,0.876603
+1978,26,mex,Mexico,0.812621
+1978,27,sgp,Singapore,0.717808
+1978,28,grc,Greece,0.702878
+1978,29,nzl,New Zealand,0.642923
+1978,30,ury,Uruguay,0.630806
+1978,31,chn,China,0.629857
+1978,32,lbn,Lebanon,0.581061
+1978,33,arg,Argentina,0.472501
+1978,34,mus,Mauritius,0.45294
+1978,35,aus,Australia,0.443567
+1978,36,alb,Albania,0.43984
+1978,37,ind,India,0.43444
+1978,38,dom,Dominican Republic,0.367311
+1978,39,tur,Turkey,0.350004
+1978,40,bra,Brazil,0.342249
+1978,41,mar,Morocco,0.339136
+1978,42,chl,Chile,0.308863
+1978,43,phl,Philippines,0.265858
+1978,44,slv,El Salvador,0.247168
+1978,45,egy,Egypt,0.247012
+1978,46,zaf,South Africa,0.245438
+1978,47,tun,Tunisia,0.21877
+1978,48,pak,Pakistan,0.208738
+1978,49,ken,Kenya,0.165388
+1978,50,mng,Mongolia,0.165232
+1978,51,tha,Thailand,0.157733
+1978,52,jam,Jamaica,0.121904
+1978,53,khm,Cambodia,0.112374
+1978,54,col,Colombia,0.0335746
+1978,55,bgd,Bangladesh,0.0290186
+1978,56,vnm,Vietnam,0.0220401
+1978,57,pan,Panama,0.0207167
+1978,58,per,Peru,-0.0014489
+1978,59,mys,Malaysia,-0.0308731
+1978,60,zwe,Zimbabwe,-0.0314645
+1978,61,cri,Costa Rica,-0.0589722
+1978,62,zmb,Zambia,-0.0957548
+1978,63,tto,Trinidad and Tobago,-0.0968651
+1978,64,mrt,Mauritania,-0.123135
+1978,65,lka,Sri Lanka,-0.168885
+1978,66,pry,Paraguay,-0.171128
+1978,67,mli,Mali,-0.192284
+1978,68,cub,Cuba,-0.198979
+1978,69,bol,Bolivia,-0.237621
+1978,70,dza,Algeria,-0.312505
+1978,71,syr,Syria,-0.318776
+1978,72,nic,Nicaragua,-0.320963
+1978,73,hnd,Honduras,-0.351638
+1978,74,sen,Senegal,-0.367192
+1978,75,gtm,Guatemala,-0.394597
+1978,76,lao,Laos,-0.517307
+1978,77,moz,Mozambique,-0.537983
+1978,78,ecu,Ecuador,-0.589859
+1978,79,eth,Ethiopia,-0.635798
+1978,80,civ,Cote d'Ivoire,-0.640919
+1978,81,mdg,Madagascar,-0.651341
+1978,82,lbr,Liberia,-0.668046
+1978,83,cmr,Cameroon,-0.670523
+1978,84,gha,Ghana,-0.69275
+1978,85,mwi,Malawi,-0.709365
+1978,86,tza,Tanzania,-0.723045
+1978,87,uga,Uganda,-0.846591
+1978,88,sdn,Sudan,-0.847518
+1978,89,idn,Indonesia,-0.97922
+1978,90,irn,Iran,-1.00035
+1978,91,gin,Guinea,-1.04937
+1978,92,ven,Venezuela,-1.06738
+1978,93,png,Papua New Guinea,-1.15702
+1978,94,cog,Republic of the Congo,-1.19061
+1978,95,gab,Gabon,-1.57055
+1978,96,nga,Nigeria,-1.66361
+1978,97,ago,Angola,-1.756
+1978,98,kwt,Kuwait,-2.18326
+1978,99,lby,Libya,-2.33546
+1978,100,omn,Oman,-2.7587
+1978,101,sau,Saudi Arabia,-2.96881
+1978,102,are,United Arab Emirates,-4.05888
+1978,102,qat,Qatar,-4.05888
+1979,1,jpn,Japan,2.21863
+1979,2,che,Switzerland,2.071
+1979,3,swe,Sweden,2.04009
+1979,4,gbr,United Kingdom,2.00037
+1979,5,usa,United States,1.9005
+1979,6,aut,Austria,1.85999
+1979,7,ita,Italy,1.76001
+1979,8,can,Canada,1.67488
+1979,9,fra,France,1.66015
+1979,10,bel,Belgium,1.54064
+1979,11,fin,Finland,1.53238
+1979,12,dnk,Denmark,1.44155
+1979,13,irl,Ireland,1.3428
+1979,14,nor,Norway,1.30297
+1979,15,esp,Spain,1.30252
+1979,16,isr,Israel,1.29906
+1979,17,hkg,Hong Kong,1.25097
+1979,18,kor,South Korea,1.2079
+1979,19,nld,Netherlands,1.20734
+1979,20,pol,Poland,1.0603
+1979,21,prt,Portugal,1.04215
+1979,22,hun,Hungary,1.00153
+1979,23,rou,Romania,0.958282
+1979,24,zwe,Zimbabwe,0.947068
+1979,25,khm,Cambodia,0.94102
+1979,26,mex,Mexico,0.900091
+1979,27,jor,Jordan,0.876759
+1979,28,lbn,Lebanon,0.820364
+1979,29,bgr,Bulgaria,0.774369
+1979,30,pan,Panama,0.570159
+1979,31,chn,China,0.57007
+1979,32,sgp,Singapore,0.556155
+1979,33,ury,Uruguay,0.542944
+1979,34,ind,India,0.521151
+1979,35,nzl,New Zealand,0.419543
+1979,36,bra,Brazil,0.419465
+1979,37,slv,El Salvador,0.408161
+1979,38,cri,Costa Rica,0.338511
+1979,39,grc,Greece,0.328111
+1979,40,mus,Mauritius,0.315279
+1979,41,aus,Australia,0.312791
+1979,42,mng,Mongolia,0.299724
+1979,43,per,Peru,0.260558
+1979,44,arg,Argentina,0.192425
+1979,45,gtm,Guatemala,0.166705
+1979,46,qat,Qatar,0.106821
+1979,47,alb,Albania,0.0898465
+1979,48,zaf,South Africa,0.0653716
+1979,49,nic,Nicaragua,0.0600613
+1979,50,tur,Turkey,0.0586755
+1979,51,dom,Dominican Republic,0.0323918
+1979,52,phl,Philippines,-0.0152792
+1979,53,pak,Pakistan,-0.0272555
+1979,54,mar,Morocco,-0.0423394
+1979,55,syr,Syria,-0.0492019
+1979,56,col,Colombia,-0.0511535
+1979,57,chl,Chile,-0.073429
+1979,58,jam,Jamaica,-0.0813269
+1979,59,tun,Tunisia,-0.163328
+1979,60,tha,Thailand,-0.171909
+1979,61,sen,Senegal,-0.1829
+1979,62,vnm,Vietnam,-0.348792
+1979,63,egy,Egypt,-0.359772
+1979,64,mys,Malaysia,-0.362528
+1979,65,are,United Arab Emirates,-0.460588
+1979,66,moz,Mozambique,-0.482738
+1979,67,mwi,Malawi,-0.484724
+1979,68,hnd,Honduras,-0.488004
+1979,69,ken,Kenya,-0.517976
+1979,70,lao,Laos,-0.548561
+1979,71,kwt,Kuwait,-0.555937
+1979,72,lka,Sri Lanka,-0.574225
+1979,73,zmb,Zambia,-0.594043
+1979,74,bgd,Bangladesh,-0.596319
+1979,75,pry,Paraguay,-0.622363
+1979,76,ven,Venezuela,-0.629694
+1979,77,mrt,Mauritania,-0.746857
+1979,78,tto,Trinidad and Tobago,-0.749435
+1979,79,cub,Cuba,-0.821328
+1979,80,dza,Algeria,-0.822422
+1979,81,uga,Uganda,-0.84774
+1979,82,mli,Mali,-0.901725
+1979,83,bol,Bolivia,-1.04205
+1979,84,ecu,Ecuador,-1.04464
+1979,85,tza,Tanzania,-1.06398
+1979,86,mdg,Madagascar,-1.10771
+1979,87,eth,Ethiopia,-1.15066
+1979,88,sdn,Sudan,-1.23256
+1979,89,gha,Ghana,-1.35363
+1979,90,civ,Cote d'Ivoire,-1.47816
+1979,91,cmr,Cameroon,-1.50483
+1979,92,irn,Iran,-1.51911
+1979,93,omn,Oman,-1.53841
+1979,94,lby,Libya,-1.5431
+1979,95,cog,Republic of the Congo,-1.58115
+1979,96,lbr,Liberia,-1.64319
+1979,97,idn,Indonesia,-1.76415
+1979,98,ago,Angola,-1.79517
+1979,99,sau,Saudi Arabia,-1.85643
+1979,100,gab,Gabon,-2.03597
+1979,101,png,Papua New Guinea,-2.04746
+1979,102,gin,Guinea,-2.2029
+1979,103,nga,Nigeria,-2.69141
+1980,1,jpn,Japan,2.07668
+1980,2,usa,United States,2.04488
+1980,3,che,Switzerland,2.02635
+1980,4,swe,Sweden,1.96699
+1980,5,gbr,United Kingdom,1.83912
+1980,6,can,Canada,1.73099
+1980,7,aut,Austria,1.73032
+1980,8,ita,Italy,1.64173
+1980,9,fra,France,1.58738
+1980,10,bel,Belgium,1.49432
+1980,11,fin,Finland,1.44724
+1980,12,isr,Israel,1.31445
+1980,13,nor,Norway,1.30753
+1980,14,dnk,Denmark,1.30173
+1980,15,irl,Ireland,1.26234
+1980,16,pol,Poland,1.21871
+1980,17,esp,Spain,1.17352
+1980,18,kor,South Korea,1.13436
+1980,19,nld,Netherlands,1.13268
+1980,20,khm,Cambodia,1.06237
+1980,21,hkg,Hong Kong,1.04938
+1980,22,prt,Portugal,1.03672
+1980,23,hun,Hungary,0.975718
+1980,24,mex,Mexico,0.938516
+1980,25,jor,Jordan,0.860308
+1980,26,rou,Romania,0.811389
+1980,27,bgr,Bulgaria,0.746995
+1980,28,lbn,Lebanon,0.713921
+1980,29,alb,Albania,0.607415
+1980,30,ury,Uruguay,0.568082
+1980,31,chn,China,0.548521
+1980,32,nzl,New Zealand,0.531516
+1980,33,sgp,Singapore,0.515481
+1980,34,bra,Brazil,0.507325
+1980,35,grc,Greece,0.46682
+1980,36,mus,Mauritius,0.455193
+1980,37,ind,India,0.450707
+1980,38,aus,Australia,0.444012
+1980,39,pan,Panama,0.440341
+1980,40,slv,El Salvador,0.423024
+1980,41,cri,Costa Rica,0.271449
+1980,42,zaf,South Africa,0.250449
+1980,43,gtm,Guatemala,0.218469
+1980,44,chl,Chile,0.180832
+1980,45,per,Peru,0.163737
+1980,46,arg,Argentina,0.152914
+1980,47,tur,Turkey,0.121336
+1980,48,tun,Tunisia,0.118881
+1980,49,mar,Morocco,0.0787355
+1980,50,jam,Jamaica,0.0589573
+1980,51,dom,Dominican Republic,0.0556533
+1980,52,pak,Pakistan,0.0446356
+1980,53,col,Colombia,0.0440275
+1980,54,tha,Thailand,0.0385208
+1980,55,phl,Philippines,0.0160513
+1980,56,zwe,Zimbabwe,0.0117219
+1980,57,kwt,Kuwait,0.0093362
+1980,58,mng,Mongolia,-0.0229281
+1980,59,syr,Syria,-0.112811
+1980,60,nic,Nicaragua,-0.147781
+1980,61,lao,Laos,-0.14787
+1980,62,sen,Senegal,-0.170912
+1980,63,omn,Oman,-0.22262
+1980,64,vnm,Vietnam,-0.22821
+1980,65,hnd,Honduras,-0.238945
+1980,66,ken,Kenya,-0.351086
+1980,67,tto,Trinidad and Tobago,-0.366696
+1980,68,moz,Mozambique,-0.428346
+1980,69,egy,Egypt,-0.44274
+1980,70,lka,Sri Lanka,-0.466809
+1980,71,zmb,Zambia,-0.466842
+1980,72,dza,Algeria,-0.516921
+1980,73,are,United Arab Emirates,-0.528023
+1980,74,mys,Malaysia,-0.531985
+1980,75,mwi,Malawi,-0.552203
+1980,76,qat,Qatar,-0.55679
+1980,77,bol,Bolivia,-0.584005
+1980,78,bgd,Bangladesh,-0.609211
+1980,79,pry,Paraguay,-0.668038
+1980,80,mrt,Mauritania,-0.767916
+1980,81,mli,Mali,-0.839765
+1980,82,uga,Uganda,-0.893861
+1980,83,eth,Ethiopia,-0.903089
+1980,84,tza,Tanzania,-0.908043
+1980,85,cub,Cuba,-0.967204
+1980,86,ecu,Ecuador,-1.04757
+1980,87,sdn,Sudan,-1.09606
+1980,88,mdg,Madagascar,-1.27172
+1980,89,ven,Venezuela,-1.28879
+1980,90,lby,Libya,-1.37136
+1980,91,irn,Iran,-1.47212
+1980,92,gab,Gabon,-1.5827
+1980,93,idn,Indonesia,-1.60859
+1980,94,lbr,Liberia,-1.65824
+1980,95,gha,Ghana,-1.80977
+1980,96,cmr,Cameroon,-1.86422
+1980,97,ago,Angola,-1.97904
+1980,98,civ,Cote d'Ivoire,-1.98351
+1980,99,cog,Republic of the Congo,-2.14709
+1980,100,png,Papua New Guinea,-2.15233
+1980,101,gin,Guinea,-2.17855
+1980,102,sau,Saudi Arabia,-2.52658
+1980,103,nga,Nigeria,-2.74093
+1981,1,jpn,Japan,2.0104
+1981,2,che,Switzerland,1.91109
+1981,3,swe,Sweden,1.88755
+1981,4,usa,United States,1.86802
+1981,5,gbr,United Kingdom,1.82317
+1981,6,aut,Austria,1.67208
+1981,7,ita,Italy,1.65244
+1981,8,can,Canada,1.56016
+1981,9,fra,France,1.55704
+1981,10,bel,Belgium,1.46699
+1981,11,fin,Finland,1.43452
+1981,12,dnk,Denmark,1.37471
+1981,13,isr,Israel,1.33264
+1981,14,irl,Ireland,1.29147
+1981,15,kor,South Korea,1.21559
+1981,16,nor,Norway,1.19774
+1981,17,pol,Poland,1.13748
+1981,18,hkg,Hong Kong,1.12956
+1981,19,esp,Spain,1.12644
+1981,20,nld,Netherlands,1.0966
+1981,21,prt,Portugal,1.05484
+1981,22,hun,Hungary,0.988653
+1981,23,jor,Jordan,0.922495
+1981,24,mex,Mexico,0.885639
+1981,25,qat,Qatar,0.831722
+1981,26,rou,Romania,0.80589
+1981,27,lbn,Lebanon,0.774078
+1981,28,bgr,Bulgaria,0.720216
+1981,29,khm,Cambodia,0.704606
+1981,30,chn,China,0.664871
+1981,31,sgp,Singapore,0.655364
+1981,32,nzl,New Zealand,0.634676
+1981,33,pan,Panama,0.581116
+1981,34,ind,India,0.540968
+1981,35,grc,Greece,0.536895
+1981,36,ury,Uruguay,0.523963
+1981,37,mus,Mauritius,0.500809
+1981,38,bra,Brazil,0.487519
+1981,39,slv,El Salvador,0.48733
+1981,40,tur,Turkey,0.425769
+1981,41,aus,Australia,0.309766
+1981,42,tun,Tunisia,0.308996
+1981,43,zaf,South Africa,0.299969
+1981,44,gtm,Guatemala,0.274316
+1981,45,kwt,Kuwait,0.262298
+1981,46,sen,Senegal,0.23621
+1981,47,cri,Costa Rica,0.221637
+1981,48,col,Colombia,0.205681
+1981,49,alb,Albania,0.192235
+1981,50,arg,Argentina,0.188787
+1981,51,pak,Pakistan,0.186779
+1981,52,dom,Dominican Republic,0.107378
+1981,53,mar,Morocco,0.107264
+1981,54,jam,Jamaica,0.0787231
+1981,55,chl,Chile,0.0481692
+1981,56,mng,Mongolia,0.0378064
+1981,57,per,Peru,0.0296418
+1981,58,phl,Philippines,-0.0191538
+1981,59,tha,Thailand,-0.0707456
+1981,60,nic,Nicaragua,-0.1083
+1981,61,mys,Malaysia,-0.130767
+1981,62,tto,Trinidad and Tobago,-0.139124
+1981,63,syr,Syria,-0.189884
+1981,64,vnm,Vietnam,-0.260561
+1981,65,bgd,Bangladesh,-0.322657
+1981,66,hnd,Honduras,-0.3379
+1981,67,lka,Sri Lanka,-0.413487
+1981,68,are,United Arab Emirates,-0.413743
+1981,69,bol,Bolivia,-0.450778
+1981,70,mli,Mali,-0.470305
+1981,71,zwe,Zimbabwe,-0.473485
+1981,72,zmb,Zambia,-0.486551
+1981,73,egy,Egypt,-0.543794
+1981,74,moz,Mozambique,-0.559003
+1981,75,ven,Venezuela,-0.604351
+1981,76,omn,Oman,-0.637603
+1981,77,pry,Paraguay,-0.674369
+1981,78,mrt,Mauritania,-0.740427
+1981,79,eth,Ethiopia,-0.747602
+1981,80,ken,Kenya,-0.813559
+1981,81,lao,Laos,-0.826369
+1981,82,cub,Cuba,-0.921784
+1981,83,ecu,Ecuador,-1.0863
+1981,84,sdn,Sudan,-1.11115
+1981,85,lbr,Liberia,-1.14083
+1981,86,mdg,Madagascar,-1.14931
+1981,87,civ,Cote d'Ivoire,-1.16683
+1981,88,mwi,Malawi,-1.2975
+1981,89,irn,Iran,-1.31948
+1981,90,tza,Tanzania,-1.41968
+1981,91,lby,Libya,-1.42102
+1981,92,idn,Indonesia,-1.43162
+1981,93,uga,Uganda,-1.57735
+1981,94,gha,Ghana,-1.67822
+1981,95,cmr,Cameroon,-1.93531
+1981,96,cog,Republic of the Congo,-1.93955
+1981,97,nga,Nigeria,-2.02212
+1981,98,dza,Algeria,-2.05727
+1981,99,gab,Gabon,-2.0652
+1981,100,png,Papua New Guinea,-2.13572
+1981,101,ago,Angola,-2.21115
+1981,102,sau,Saudi Arabia,-2.37004
+1981,103,gin,Guinea,-2.67678
+1982,1,jpn,Japan,2.14865
+1982,2,swe,Sweden,2.04187
+1982,3,che,Switzerland,2.01431
+1982,4,usa,United States,2.0065
+1982,5,gbr,United Kingdom,1.87773
+1982,6,aut,Austria,1.71805
+1982,7,ita,Italy,1.71058
+1982,8,fin,Finland,1.66192
+1982,9,fra,France,1.64128
+1982,10,can,Canada,1.63894
+1982,11,isr,Israel,1.51631
+1982,12,bel,Belgium,1.42816
+1982,13,nor,Norway,1.39323
+1982,14,dnk,Denmark,1.35206
+1982,15,esp,Spain,1.24996
+1982,16,irl,Ireland,1.23813
+1982,17,nld,Netherlands,1.20867
+1982,18,kor,South Korea,1.20108
+1982,19,pol,Poland,1.11232
+1982,20,hkg,Hong Kong,1.08032
+1982,21,prt,Portugal,1.04385
+1982,22,hun,Hungary,0.983619
+1982,23,bgr,Bulgaria,0.892489
+1982,24,jor,Jordan,0.889454
+1982,25,rou,Romania,0.884299
+1982,26,mex,Mexico,0.879567
+1982,27,sgp,Singapore,0.771175
+1982,28,lbn,Lebanon,0.609814
+1982,29,kwt,Kuwait,0.603074
+1982,30,bra,Brazil,0.595152
+1982,31,nzl,New Zealand,0.580635
+1982,32,ury,Uruguay,0.507983
+1982,33,chn,China,0.486994
+1982,34,grc,Greece,0.434293
+1982,35,khm,Cambodia,0.422476
+1982,36,ind,India,0.411552
+1982,37,tur,Turkey,0.397749
+1982,38,mus,Mauritius,0.394982
+1982,39,col,Colombia,0.389101
+1982,40,slv,El Salvador,0.372989
+1982,41,pan,Panama,0.365222
+1982,42,gtm,Guatemala,0.266716
+1982,43,aus,Australia,0.265835
+1982,44,arg,Argentina,0.253717
+1982,45,tun,Tunisia,0.246196
+1982,46,alb,Albania,0.237749
+1982,47,cri,Costa Rica,0.199666
+1982,48,mar,Morocco,0.165755
+1982,49,tto,Trinidad and Tobago,0.136755
+1982,50,zaf,South Africa,0.0936947
+1982,51,qat,Qatar,0.0686954
+1982,52,ven,Venezuela,0.0533226
+1982,53,pak,Pakistan,0.0122006
+1982,54,phl,Philippines,0.0013362
+1982,55,dom,Dominican Republic,-0.0164351
+1982,56,per,Peru,-0.0164942
+1982,57,chl,Chile,-0.0294212
+1982,58,tha,Thailand,-0.0741763
+1982,59,jam,Jamaica,-0.107531
+1982,60,zmb,Zambia,-0.11866
+1982,61,mys,Malaysia,-0.123302
+1982,62,nic,Nicaragua,-0.26084
+1982,63,lka,Sri Lanka,-0.297384
+1982,64,cub,Cuba,-0.34426
+1982,65,syr,Syria,-0.415696
+1982,66,vnm,Vietnam,-0.430414
+1982,67,egy,Egypt,-0.435402
+1982,68,sen,Senegal,-0.464302
+1982,69,hnd,Honduras,-0.490067
+1982,70,moz,Mozambique,-0.497375
+1982,71,mng,Mongolia,-0.539175
+1982,72,bol,Bolivia,-0.584567
+1982,73,bgd,Bangladesh,-0.600345
+1982,74,zwe,Zimbabwe,-0.601103
+1982,75,dza,Algeria,-0.614304
+1982,76,ecu,Ecuador,-0.745861
+1982,77,pry,Paraguay,-0.774259
+1982,78,omn,Oman,-0.83438
+1982,79,mrt,Mauritania,-0.881391
+1982,80,lby,Libya,-0.900416
+1982,81,ken,Kenya,-0.951309
+1982,82,are,United Arab Emirates,-0.962378
+1982,83,civ,Cote d'Ivoire,-1.00534
+1982,84,lao,Laos,-1.01445
+1982,85,eth,Ethiopia,-1.03397
+1982,86,lbr,Liberia,-1.05607
+1982,87,mli,Mali,-1.09531
+1982,88,cmr,Cameroon,-1.13481
+1982,89,sdn,Sudan,-1.20856
+1982,90,idn,Indonesia,-1.28991
+1982,91,tza,Tanzania,-1.33956
+1982,92,mdg,Madagascar,-1.3784
+1982,93,uga,Uganda,-1.38409
+1982,94,cog,Republic of the Congo,-1.40774
+1982,95,irn,Iran,-1.54042
+1982,96,gab,Gabon,-1.67365
+1982,97,mwi,Malawi,-1.71772
+1982,98,gha,Ghana,-1.76012
+1982,99,png,Papua New Guinea,-1.92493
+1982,100,ago,Angola,-2.17812
+1982,101,nga,Nigeria,-2.46667
+1982,102,gin,Guinea,-2.47861
+1982,103,sau,Saudi Arabia,-2.95842
+1983,1,jpn,Japan,2.10794
+1983,2,swe,Sweden,1.99736
+1983,3,usa,United States,1.95998
+1983,4,che,Switzerland,1.89236
+1983,5,aut,Austria,1.78657
+1983,6,gbr,United Kingdom,1.78635
+1983,7,fin,Finland,1.75343
+1983,8,ita,Italy,1.71494
+1983,9,fra,France,1.62668
+1983,10,can,Canada,1.60134
+1983,11,isr,Israel,1.51866
+1983,12,bel,Belgium,1.47927
+1983,13,dnk,Denmark,1.46889
+1983,14,nor,Norway,1.44948
+1983,15,esp,Spain,1.34303
+1983,16,irl,Ireland,1.30498
+1983,17,nld,Netherlands,1.24807
+1983,18,pol,Poland,1.18413
+1983,19,prt,Portugal,1.13849
+1983,20,hkg,Hong Kong,1.11175
+1983,21,kor,South Korea,1.10905
+1983,22,hun,Hungary,1.07699
+1983,23,rou,Romania,1.06489
+1983,24,bgr,Bulgaria,0.978237
+1983,25,omn,Oman,0.941916
+1983,26,sgp,Singapore,0.845931
+1983,27,mex,Mexico,0.823492
+1983,28,nzl,New Zealand,0.714563
+1983,29,tur,Turkey,0.681958
+1983,30,grc,Greece,0.678031
+1983,31,ven,Venezuela,0.644834
+1983,32,chn,China,0.639835
+1983,33,jor,Jordan,0.639422
+1983,34,bra,Brazil,0.575663
+1983,35,tto,Trinidad and Tobago,0.574559
+1983,36,ury,Uruguay,0.475472
+1983,37,alb,Albania,0.427803
+1983,38,tun,Tunisia,0.423005
+1983,39,khm,Cambodia,0.259277
+1983,40,aus,Australia,0.219587
+1983,41,pan,Panama,0.207346
+1983,42,mus,Mauritius,0.191468
+1983,43,col,Colombia,0.176192
+1983,44,cri,Costa Rica,0.155939
+1983,45,ind,India,0.141076
+1983,46,zaf,South Africa,0.119172
+1983,47,mar,Morocco,0.106675
+1983,48,phl,Philippines,0.0917952
+1983,49,pak,Pakistan,0.0864313
+1983,50,chl,Chile,0.0697785
+1983,51,mys,Malaysia,0.0462097
+1983,52,arg,Argentina,0.0425865
+1983,53,dom,Dominican Republic,0.04104
+1983,54,jam,Jamaica,0.0188749
+1983,55,tha,Thailand,-0.0115954
+1983,56,per,Peru,-0.0680615
+1983,57,moz,Mozambique,-0.0911973
+1983,58,lbn,Lebanon,-0.12513
+1983,59,are,United Arab Emirates,-0.158248
+1983,60,gtm,Guatemala,-0.198195
+1983,61,sen,Senegal,-0.325535
+1983,62,cub,Cuba,-0.357593
+1983,63,zmb,Zambia,-0.357962
+1983,64,hnd,Honduras,-0.360305
+1983,65,egy,Egypt,-0.403979
+1983,66,slv,El Salvador,-0.430648
+1983,67,mng,Mongolia,-0.434051
+1983,68,lka,Sri Lanka,-0.443112
+1983,69,bol,Bolivia,-0.475147
+1983,70,dza,Algeria,-0.481586
+1983,71,lby,Libya,-0.495221
+1983,72,zwe,Zimbabwe,-0.55204
+1983,73,bgd,Bangladesh,-0.641441
+1983,74,vnm,Vietnam,-0.704654
+1983,75,pry,Paraguay,-0.713123
+1983,76,kwt,Kuwait,-0.721403
+1983,77,ken,Kenya,-0.755614
+1983,78,civ,Cote d'Ivoire,-0.829438
+1983,79,lao,Laos,-0.873246
+1983,80,syr,Syria,-0.890843
+1983,81,mli,Mali,-0.93329
+1983,82,qat,Qatar,-0.988892
+1983,83,eth,Ethiopia,-1.01131
+1983,84,tza,Tanzania,-1.05794
+1983,85,idn,Indonesia,-1.07089
+1983,86,sdn,Sudan,-1.10669
+1983,87,mdg,Madagascar,-1.11941
+1983,88,nic,Nicaragua,-1.14184
+1983,89,ecu,Ecuador,-1.20835
+1983,90,gha,Ghana,-1.24829
+1983,91,mwi,Malawi,-1.41544
+1983,92,ago,Angola,-1.45807
+1983,93,uga,Uganda,-1.57858
+1983,94,gab,Gabon,-1.58438
+1983,95,lbr,Liberia,-1.61139
+1983,96,irn,Iran,-1.70121
+1983,97,cog,Republic of the Congo,-1.71628
+1983,98,mrt,Mauritania,-1.79148
+1983,99,cmr,Cameroon,-1.9188
+1983,100,gin,Guinea,-2.09176
+1983,101,nga,Nigeria,-2.22175
+1983,102,png,Papua New Guinea,-2.28446
+1983,103,sau,Saudi Arabia,-2.60292
+1984,1,jpn,Japan,2.06843
+1984,2,swe,Sweden,1.98106
+1984,3,gbr,United Kingdom,1.93631
+1984,4,che,Switzerland,1.91991
+1984,5,fra,France,1.7821
+1984,6,aut,Austria,1.76291
+1984,7,ita,Italy,1.74394
+1984,8,usa,United States,1.74361
+1984,9,fin,Finland,1.63738
+1984,10,dnk,Denmark,1.59007
+1984,11,bel,Belgium,1.5538
+1984,12,irl,Ireland,1.44311
+1984,13,nld,Netherlands,1.41868
+1984,14,nor,Norway,1.32316
+1984,15,esp,Spain,1.28634
+1984,16,hun,Hungary,1.25197
+1984,17,isr,Israel,1.23612
+1984,18,pol,Poland,1.22184
+1984,19,rou,Romania,1.19752
+1984,20,bgr,Bulgaria,1.16973
+1984,21,kor,South Korea,1.10337
+1984,22,can,Canada,1.08756
+1984,23,prt,Portugal,0.988855
+1984,24,hkg,Hong Kong,0.937281
+1984,25,jor,Jordan,0.81455
+1984,26,sgp,Singapore,0.794342
+1984,27,kwt,Kuwait,0.7897
+1984,28,nzl,New Zealand,0.777883
+1984,29,ury,Uruguay,0.679801
+1984,30,qat,Qatar,0.628327
+1984,31,bra,Brazil,0.625024
+1984,32,lbn,Lebanon,0.623908
+1984,33,zaf,South Africa,0.573897
+1984,34,grc,Greece,0.571866
+1984,35,chn,China,0.521173
+1984,36,mex,Mexico,0.520135
+1984,37,aus,Australia,0.404021
+1984,38,ind,India,0.397125
+1984,39,pan,Panama,0.385342
+1984,40,tun,Tunisia,0.324372
+1984,41,ven,Venezuela,0.31963
+1984,42,chl,Chile,0.248596
+1984,43,alb,Albania,0.247547
+1984,44,tur,Turkey,0.234703
+1984,45,arg,Argentina,0.183877
+1984,46,mys,Malaysia,0.183308
+1984,47,col,Colombia,0.177215
+1984,48,per,Peru,0.167106
+1984,49,are,United Arab Emirates,0.14971
+1984,50,mng,Mongolia,0.125619
+1984,51,mus,Mauritius,0.123019
+1984,52,pak,Pakistan,0.0730942
+1984,53,mar,Morocco,0.0560185
+1984,54,moz,Mozambique,0.0420571
+1984,55,tha,Thailand,0.0379084
+1984,56,zmb,Zambia,-0.0069689
+1984,57,syr,Syria,-0.035621
+1984,58,tto,Trinidad and Tobago,-0.080952
+1984,59,egy,Egypt,-0.122633
+1984,60,phl,Philippines,-0.144928
+1984,61,cub,Cuba,-0.199994
+1984,62,vnm,Vietnam,-0.205529
+1984,63,dza,Algeria,-0.299114
+1984,64,dom,Dominican Republic,-0.31073
+1984,65,lka,Sri Lanka,-0.395322
+1984,66,bgd,Bangladesh,-0.402575
+1984,67,cri,Costa Rica,-0.426699
+1984,68,lby,Libya,-0.532358
+1984,69,mrt,Mauritania,-0.564026
+1984,70,sen,Senegal,-0.618479
+1984,71,jam,Jamaica,-0.629492
+1984,72,ken,Kenya,-0.692247
+1984,73,zwe,Zimbabwe,-0.700147
+1984,74,bol,Bolivia,-0.760202
+1984,75,gtm,Guatemala,-0.76943
+1984,76,pry,Paraguay,-0.795719
+1984,77,sau,Saudi Arabia,-0.837574
+1984,78,omn,Oman,-0.839382
+1984,79,hnd,Honduras,-0.854356
+1984,80,nic,Nicaragua,-0.923516
+1984,81,eth,Ethiopia,-0.926417
+1984,82,sdn,Sudan,-0.942028
+1984,83,slv,El Salvador,-1.00362
+1984,84,gab,Gabon,-1.03539
+1984,85,idn,Indonesia,-1.03638
+1984,86,tza,Tanzania,-1.11054
+1984,87,ecu,Ecuador,-1.15467
+1984,88,mli,Mali,-1.17331
+1984,89,mdg,Madagascar,-1.33243
+1984,90,irn,Iran,-1.33667
+1984,91,lbr,Liberia,-1.416
+1984,92,mwi,Malawi,-1.4844
+1984,93,lao,Laos,-1.52257
+1984,94,gha,Ghana,-1.60224
+1984,95,uga,Uganda,-1.60447
+1984,96,civ,Cote d'Ivoire,-1.64017
+1984,97,ago,Angola,-1.93877
+1984,98,png,Papua New Guinea,-1.94982
+1984,99,cog,Republic of the Congo,-2.03864
+1984,100,cmr,Cameroon,-2.04188
+1984,101,nga,Nigeria,-2.12166
+1984,102,gin,Guinea,-2.22354
+1984,103,khm,Cambodia,-2.40229
+1985,1,jpn,Japan,2.14286
+1985,2,che,Switzerland,1.99311
+1985,3,swe,Sweden,1.96578
+1985,4,gbr,United Kingdom,1.90519
+1985,5,usa,United States,1.82261
+1985,6,aut,Austria,1.80487
+1985,7,fra,France,1.79003
+1985,8,ita,Italy,1.77218
+1985,9,fin,Finland,1.7339
+1985,10,bel,Belgium,1.6462
+1985,11,dnk,Denmark,1.61808
+1985,12,irl,Ireland,1.46264
+1985,13,nld,Netherlands,1.4189
+1985,14,esp,Spain,1.36902
+1985,15,bgr,Bulgaria,1.28757
+1985,16,isr,Israel,1.2734
+1985,17,nor,Norway,1.23256
+1985,18,hun,Hungary,1.20422
+1985,19,pol,Poland,1.20221
+1985,20,rou,Romania,1.14217
+1985,21,kor,South Korea,1.13838
+1985,22,can,Canada,1.00765
+1985,23,prt,Portugal,0.972622
+1985,24,hkg,Hong Kong,0.937372
+1985,25,sgp,Singapore,0.776479
+1985,26,nzl,New Zealand,0.76156
+1985,27,ury,Uruguay,0.74335
+1985,28,kwt,Kuwait,0.683418
+1985,29,mex,Mexico,0.666044
+1985,30,tur,Turkey,0.607496
+1985,31,jor,Jordan,0.573061
+1985,32,grc,Greece,0.505999
+1985,33,qat,Qatar,0.480636
+1985,34,bra,Brazil,0.475827
+1985,35,chn,China,0.438569
+1985,36,pan,Panama,0.429374
+1985,37,ind,India,0.414879
+1985,38,tun,Tunisia,0.405886
+1985,39,lbn,Lebanon,0.388255
+1985,40,are,United Arab Emirates,0.350875
+1985,41,aus,Australia,0.254109
+1985,42,col,Colombia,0.253462
+1985,43,arg,Argentina,0.190662
+1985,44,per,Peru,0.176524
+1985,45,alb,Albania,0.162175
+1985,46,zaf,South Africa,0.150023
+1985,47,mus,Mauritius,0.126758
+1985,48,mar,Morocco,0.0917549
+1985,49,mng,Mongolia,0.0837041
+1985,50,tha,Thailand,0.0594134
+1985,51,pak,Pakistan,0.0413111
+1985,52,ven,Venezuela,0.026178
+1985,53,mys,Malaysia,0.0129709
+1985,54,chl,Chile,-0.0025713
+1985,55,dom,Dominican Republic,-0.0233029
+1985,56,tto,Trinidad and Tobago,-0.0565461
+1985,57,dza,Algeria,-0.0620896
+1985,58,phl,Philippines,-0.0944691
+1985,59,sau,Saudi Arabia,-0.140163
+1985,60,moz,Mozambique,-0.172946
+1985,61,vnm,Vietnam,-0.178771
+1985,62,cri,Costa Rica,-0.2066
+1985,63,cub,Cuba,-0.252974
+1985,64,syr,Syria,-0.286784
+1985,65,mli,Mali,-0.394709
+1985,66,omn,Oman,-0.40898
+1985,67,lka,Sri Lanka,-0.410542
+1985,68,zmb,Zambia,-0.425551
+1985,69,khm,Cambodia,-0.44211
+1985,70,egy,Egypt,-0.448113
+1985,71,bgd,Bangladesh,-0.497176
+1985,72,zwe,Zimbabwe,-0.628968
+1985,73,gtm,Guatemala,-0.639402
+1985,74,jam,Jamaica,-0.652613
+1985,75,eth,Ethiopia,-0.675588
+1985,76,ken,Kenya,-0.714252
+1985,77,lby,Libya,-0.816162
+1985,78,slv,El Salvador,-0.820224
+1985,79,mrt,Mauritania,-0.854815
+1985,80,sdn,Sudan,-0.867301
+1985,81,hnd,Honduras,-0.917045
+1985,82,idn,Indonesia,-0.924946
+1985,83,sen,Senegal,-0.974255
+1985,84,bol,Bolivia,-1.01397
+1985,85,nic,Nicaragua,-1.01419
+1985,86,pry,Paraguay,-1.14441
+1985,87,tza,Tanzania,-1.1819
+1985,88,ecu,Ecuador,-1.25387
+1985,89,irn,Iran,-1.28713
+1985,90,gin,Guinea,-1.35675
+1985,91,mdg,Madagascar,-1.40697
+1985,92,gha,Ghana,-1.45394
+1985,93,gab,Gabon,-1.468
+1985,94,mwi,Malawi,-1.54265
+1985,95,cog,Republic of the Congo,-1.6433
+1985,96,civ,Cote d'Ivoire,-1.6481
+1985,97,png,Papua New Guinea,-1.66562
+1985,98,ago,Angola,-1.85129
+1985,99,uga,Uganda,-1.93509
+1985,100,cmr,Cameroon,-1.98865
+1985,101,lbr,Liberia,-2.08216
+1985,102,nga,Nigeria,-2.46367
+1985,103,lao,Laos,-2.78258
+1986,1,jpn,Japan,2.27709
+1986,2,swe,Sweden,2.09164
+1986,3,che,Switzerland,2.07066
+1986,4,gbr,United Kingdom,1.98642
+1986,5,aut,Austria,1.89436
+1986,6,fra,France,1.8543
+1986,7,ita,Italy,1.83221
+1986,8,usa,United States,1.81993
+1986,9,fin,Finland,1.7763
+1986,10,bel,Belgium,1.66718
+1986,11,dnk,Denmark,1.64497
+1986,12,irl,Ireland,1.62611
+1986,13,nld,Netherlands,1.47101
+1986,14,esp,Spain,1.4141
+1986,15,isr,Israel,1.34169
+1986,16,nor,Norway,1.3274
+1986,17,pol,Poland,1.31814
+1986,18,bgr,Bulgaria,1.29036
+1986,19,kor,South Korea,1.16717
+1986,20,hun,Hungary,1.13603
+1986,21,rou,Romania,1.05693
+1986,22,hkg,Hong Kong,1.03736
+1986,23,can,Canada,1.03726
+1986,24,prt,Portugal,0.943252
+1986,25,mex,Mexico,0.832449
+1986,26,sgp,Singapore,0.799587
+1986,27,nzl,New Zealand,0.781332
+1986,28,ury,Uruguay,0.7764
+1986,29,jor,Jordan,0.615664
+1986,30,bra,Brazil,0.606871
+1986,31,tur,Turkey,0.498779
+1986,32,qat,Qatar,0.475849
+1986,33,grc,Greece,0.466889
+1986,34,chn,China,0.430378
+1986,35,tun,Tunisia,0.398053
+1986,36,are,United Arab Emirates,0.363216
+1986,37,ven,Venezuela,0.319375
+1986,38,arg,Argentina,0.309723
+1986,39,mng,Mongolia,0.272052
+1986,40,pan,Panama,0.229761
+1986,41,aus,Australia,0.226369
+1986,42,kwt,Kuwait,0.183666
+1986,43,ind,India,0.180564
+1986,44,sau,Saudi Arabia,0.173936
+1986,45,per,Peru,0.161807
+1986,46,lbn,Lebanon,0.149533
+1986,47,zaf,South Africa,0.0904266
+1986,48,alb,Albania,0.076155
+1986,49,moz,Mozambique,0.0699364
+1986,50,chl,Chile,0.0627895
+1986,51,tto,Trinidad and Tobago,0.0579322
+1986,52,mys,Malaysia,0.047103
+1986,53,tha,Thailand,0.0462382
+1986,54,pak,Pakistan,0.0268103
+1986,55,col,Colombia,-0.0149734
+1986,56,mar,Morocco,-0.0243453
+1986,57,mus,Mauritius,-0.0299279
+1986,58,dom,Dominican Republic,-0.0497106
+1986,59,phl,Philippines,-0.0941244
+1986,60,bgd,Bangladesh,-0.246278
+1986,61,vnm,Vietnam,-0.310952
+1986,62,syr,Syria,-0.374365
+1986,63,egy,Egypt,-0.378237
+1986,64,lka,Sri Lanka,-0.413866
+1986,65,cri,Costa Rica,-0.416031
+1986,66,jam,Jamaica,-0.51909
+1986,67,cub,Cuba,-0.574625
+1986,68,slv,El Salvador,-0.596897
+1986,69,dza,Algeria,-0.630964
+1986,70,zwe,Zimbabwe,-0.634702
+1986,71,eth,Ethiopia,-0.656539
+1986,72,sen,Senegal,-0.670119
+1986,73,idn,Indonesia,-0.742224
+1986,74,lby,Libya,-0.748518
+1986,75,khm,Cambodia,-0.792136
+1986,76,gtm,Guatemala,-0.792225
+1986,77,zmb,Zambia,-0.800069
+1986,78,ken,Kenya,-0.800549
+1986,79,hnd,Honduras,-0.841456
+1986,80,bol,Bolivia,-0.902526
+1986,81,omn,Oman,-0.924273
+1986,82,mli,Mali,-0.977588
+1986,83,pry,Paraguay,-1.02319
+1986,84,mrt,Mauritania,-1.08838
+1986,85,tza,Tanzania,-1.14697
+1986,86,gha,Ghana,-1.15066
+1986,87,sdn,Sudan,-1.15902
+1986,88,ecu,Ecuador,-1.22798
+1986,89,irn,Iran,-1.24494
+1986,90,gab,Gabon,-1.33689
+1986,91,lbr,Liberia,-1.37617
+1986,92,mwi,Malawi,-1.42794
+1986,93,mdg,Madagascar,-1.43966
+1986,94,nic,Nicaragua,-1.46119
+1986,95,civ,Cote d'Ivoire,-1.54131
+1986,96,lao,Laos,-1.58594
+1986,97,uga,Uganda,-1.81737
+1986,98,cog,Republic of the Congo,-1.85653
+1986,99,gin,Guinea,-1.86959
+1986,100,nga,Nigeria,-1.89246
+1986,101,png,Papua New Guinea,-1.90284
+1986,102,cmr,Cameroon,-1.99222
+1986,103,ago,Angola,-2.31291
+1987,1,jpn,Japan,2.26091
+1987,2,swe,Sweden,2.06308
+1987,3,che,Switzerland,2.03451
+1987,4,gbr,United Kingdom,1.93899
+1987,5,aut,Austria,1.90998
+1987,6,fra,France,1.87472
+1987,7,ita,Italy,1.80342
+1987,8,fin,Finland,1.78155
+1987,9,usa,United States,1.74885
+1987,10,dnk,Denmark,1.65289
+1987,11,bel,Belgium,1.62745
+1987,12,nld,Netherlands,1.55157
+1987,13,irl,Ireland,1.47079
+1987,14,esp,Spain,1.37538
+1987,15,pol,Poland,1.31211
+1987,16,nor,Norway,1.29348
+1987,17,bgr,Bulgaria,1.27328
+1987,18,isr,Israel,1.25364
+1987,19,hun,Hungary,1.17197
+1987,20,can,Canada,1.12878
+1987,21,kor,South Korea,1.08896
+1987,22,rou,Romania,1.08851
+1987,23,hkg,Hong Kong,1.04921
+1987,24,mex,Mexico,0.984259
+1987,25,prt,Portugal,0.886969
+1987,26,sgp,Singapore,0.870354
+1987,27,ury,Uruguay,0.786119
+1987,28,nzl,New Zealand,0.70396
+1987,29,tur,Turkey,0.62863
+1987,30,bra,Brazil,0.55205
+1987,31,jor,Jordan,0.538213
+1987,32,kwt,Kuwait,0.518586
+1987,33,chn,China,0.475447
+1987,34,aus,Australia,0.473785
+1987,35,lbn,Lebanon,0.461522
+1987,36,tun,Tunisia,0.362703
+1987,37,grc,Greece,0.349101
+1987,38,ind,India,0.318147
+1987,39,arg,Argentina,0.316864
+1987,40,alb,Albania,0.251822
+1987,41,zaf,South Africa,0.229717
+1987,42,ven,Venezuela,0.220143
+1987,43,are,United Arab Emirates,0.187884
+1987,44,col,Colombia,0.145795
+1987,45,tha,Thailand,0.143239
+1987,46,per,Peru,0.133018
+1987,47,chl,Chile,0.0954759
+1987,48,mys,Malaysia,0.0675197
+1987,49,mng,Mongolia,0.0477001
+1987,50,qat,Qatar,-0.0187213
+1987,51,moz,Mozambique,-0.0441
+1987,52,mar,Morocco,-0.110574
+1987,53,pan,Panama,-0.133578
+1987,54,phl,Philippines,-0.163248
+1987,55,dom,Dominican Republic,-0.164353
+1987,56,mus,Mauritius,-0.165212
+1987,57,cri,Costa Rica,-0.221383
+1987,58,pak,Pakistan,-0.288992
+1987,59,sau,Saudi Arabia,-0.29157
+1987,60,cub,Cuba,-0.310874
+1987,61,egy,Egypt,-0.336237
+1987,62,zmb,Zambia,-0.341247
+1987,63,lka,Sri Lanka,-0.365628
+1987,64,khm,Cambodia,-0.39618
+1987,65,dza,Algeria,-0.406669
+1987,66,tto,Trinidad and Tobago,-0.413475
+1987,67,zwe,Zimbabwe,-0.418552
+1987,68,syr,Syria,-0.452608
+1987,69,omn,Oman,-0.453088
+1987,70,bol,Bolivia,-0.484376
+1987,71,bgd,Bangladesh,-0.490669
+1987,72,vnm,Vietnam,-0.496148
+1987,73,lby,Libya,-0.55897
+1987,74,jam,Jamaica,-0.572315
+1987,75,slv,El Salvador,-0.612151
+1987,76,sen,Senegal,-0.75432
+1987,77,idn,Indonesia,-0.787036
+1987,78,gtm,Guatemala,-0.825778
+1987,79,eth,Ethiopia,-0.840675
+1987,80,pry,Paraguay,-0.848407
+1987,81,irn,Iran,-0.881124
+1987,82,hnd,Honduras,-0.902816
+1987,83,ken,Kenya,-0.906944
+1987,84,lao,Laos,-0.952772
+1987,85,mrt,Mauritania,-0.96576
+1987,86,mdg,Madagascar,-0.997941
+1987,87,gab,Gabon,-1.0251
+1987,88,sdn,Sudan,-1.11008
+1987,89,ecu,Ecuador,-1.16404
+1987,90,tza,Tanzania,-1.22006
+1987,91,gha,Ghana,-1.26893
+1987,92,mwi,Malawi,-1.31736
+1987,93,mli,Mali,-1.33343
+1987,94,png,Papua New Guinea,-1.61808
+1987,95,ago,Angola,-1.66115
+1987,96,cog,Republic of the Congo,-1.74484
+1987,97,civ,Cote d'Ivoire,-1.78077
+1987,98,lbr,Liberia,-1.81246
+1987,99,nic,Nicaragua,-1.89827
+1987,100,nga,Nigeria,-1.90474
+1987,101,cmr,Cameroon,-2.12902
+1987,102,uga,Uganda,-2.55516
+1987,103,gin,Guinea,-2.58507
+1988,1,jpn,Japan,2.34751
+1988,2,swe,Sweden,2.24808
+1988,3,che,Switzerland,2.11831
+1988,4,gbr,United Kingdom,2.01733
+1988,5,aut,Austria,1.97671
+1988,6,fra,France,1.85698
+1988,7,fin,Finland,1.8263
+1988,8,ita,Italy,1.78512
+1988,9,dnk,Denmark,1.76504
+1988,10,usa,United States,1.7493
+1988,11,bel,Belgium,1.69374
+1988,12,irl,Ireland,1.59599
+1988,13,nld,Netherlands,1.53841
+1988,14,nor,Norway,1.40038
+1988,15,esp,Spain,1.32662
+1988,16,isr,Israel,1.30933
+1988,17,pol,Poland,1.22508
+1988,18,bgr,Bulgaria,1.22207
+1988,19,rou,Romania,1.14686
+1988,20,hun,Hungary,1.09619
+1988,21,can,Canada,1.07378
+1988,22,kor,South Korea,1.0215
+1988,23,hkg,Hong Kong,0.965639
+1988,24,sgp,Singapore,0.935891
+1988,25,mex,Mexico,0.881549
+1988,26,kwt,Kuwait,0.7572
+1988,27,prt,Portugal,0.752413
+1988,28,bra,Brazil,0.662688
+1988,29,nzl,New Zealand,0.628655
+1988,30,are,United Arab Emirates,0.582928
+1988,31,sau,Saudi Arabia,0.567764
+1988,32,dza,Algeria,0.545068
+1988,33,ury,Uruguay,0.538752
+1988,34,jor,Jordan,0.468119
+1988,35,chn,China,0.426845
+1988,36,tur,Turkey,0.410006
+1988,37,lbn,Lebanon,0.375226
+1988,38,pan,Panama,0.325861
+1988,39,qat,Qatar,0.322815
+1988,40,arg,Argentina,0.303355
+1988,41,aus,Australia,0.22972
+1988,42,omn,Oman,0.208899
+1988,42,grc,Greece,0.208899
+1988,44,ind,India,0.192351
+1988,45,tun,Tunisia,0.178046
+1988,46,zaf,South Africa,0.137061
+1988,47,col,Colombia,0.0996391
+1988,48,tha,Thailand,0.084621
+1988,49,lby,Libya,0.0722664
+1988,50,mys,Malaysia,0.0096927
+1988,51,mng,Mongolia,-0.0285419
+1988,52,per,Peru,-0.0614357
+1988,53,chl,Chile,-0.088564
+1988,54,moz,Mozambique,-0.119962
+1988,55,alb,Albania,-0.119984
+1988,56,syr,Syria,-0.160634
+1988,57,egy,Egypt,-0.178487
+1988,58,phl,Philippines,-0.185841
+1988,59,mar,Morocco,-0.211996
+1988,60,ven,Venezuela,-0.224761
+1988,61,mus,Mauritius,-0.224962
+1988,62,dom,Dominican Republic,-0.394436
+1988,63,cub,Cuba,-0.446099
+1988,64,zmb,Zambia,-0.453921
+1988,65,tto,Trinidad and Tobago,-0.472879
+1988,66,cri,Costa Rica,-0.506098
+1988,67,lka,Sri Lanka,-0.539763
+1988,68,pak,Pakistan,-0.566186
+1988,69,zwe,Zimbabwe,-0.593267
+1988,70,jam,Jamaica,-0.608722
+1988,71,mli,Mali,-0.684878
+1988,72,vnm,Vietnam,-0.68519
+1988,73,slv,El Salvador,-0.699227
+1988,74,idn,Indonesia,-0.702229
+1988,75,bgd,Bangladesh,-0.709281
+1988,76,pry,Paraguay,-0.803067
+1988,77,eth,Ethiopia,-0.848939
+1988,78,sen,Senegal,-0.865231
+1988,79,ecu,Ecuador,-0.920777
+1988,80,khm,Cambodia,-0.923109
+1988,81,gtm,Guatemala,-0.962632
+1988,82,sdn,Sudan,-0.972987
+1988,83,irn,Iran,-0.973144
+1988,84,ken,Kenya,-0.98043
+1988,85,nic,Nicaragua,-1.05727
+1988,86,hnd,Honduras,-1.10021
+1988,87,bol,Bolivia,-1.11417
+1988,88,ago,Angola,-1.1396
+1988,89,lao,Laos,-1.23813
+1988,90,tza,Tanzania,-1.3245
+1988,91,mrt,Mauritania,-1.35083
+1988,92,gha,Ghana,-1.38118
+1988,93,uga,Uganda,-1.46409
+1988,94,mwi,Malawi,-1.56307
+1988,95,mdg,Madagascar,-1.6048
+1988,96,lbr,Liberia,-1.66505
+1988,97,png,Papua New Guinea,-1.79315
+1988,98,gab,Gabon,-1.80487
+1988,99,cog,Republic of the Congo,-1.81156
+1988,100,civ,Cote d'Ivoire,-1.83511
+1988,101,nga,Nigeria,-1.90429
+1988,102,cmr,Cameroon,-2.05504
+1988,103,gin,Guinea,-2.08807
+1989,1,jpn,Japan,2.39594
+1989,2,swe,Sweden,2.22488
+1989,3,che,Switzerland,2.19051
+1989,4,gbr,United Kingdom,2.0189
+1989,5,aut,Austria,2.00327
+1989,6,fin,Finland,1.88366
+1989,7,usa,United States,1.83579
+1989,8,fra,France,1.83099
+1989,9,ita,Italy,1.7849
+1989,10,dnk,Denmark,1.73279
+1989,11,bel,Belgium,1.65056
+1989,12,irl,Ireland,1.56564
+1989,13,nld,Netherlands,1.49858
+1989,14,isr,Israel,1.48642
+1989,15,nor,Norway,1.32741
+1989,16,esp,Spain,1.32261
+1989,17,rou,Romania,1.24852
+1989,18,bgr,Bulgaria,1.22163
+1989,19,pol,Poland,1.14954
+1989,20,hun,Hungary,1.09758
+1989,21,can,Canada,1.01956
+1989,22,sgp,Singapore,1.01662
+1989,23,hkg,Hong Kong,0.972146
+1989,24,mex,Mexico,0.930793
+1989,25,kor,South Korea,0.914914
+1989,26,jor,Jordan,0.821741
+1989,27,prt,Portugal,0.719574
+1989,28,kwt,Kuwait,0.603739
+1989,29,ury,Uruguay,0.553805
+1989,30,nzl,New Zealand,0.537625
+1989,31,sau,Saudi Arabia,0.506136
+1989,32,chn,China,0.490882
+1989,33,bra,Brazil,0.427101
+1989,34,pan,Panama,0.36593
+1989,35,tur,Turkey,0.351469
+1989,36,dza,Algeria,0.333771
+1989,37,are,United Arab Emirates,0.288769
+1989,38,arg,Argentina,0.280802
+1989,39,mys,Malaysia,0.266441
+1989,40,lbn,Lebanon,0.264411
+1989,41,grc,Greece,0.250485
+1989,42,ind,India,0.195396
+1989,43,omn,Oman,0.189761
+1989,44,aus,Australia,0.159599
+1989,45,tha,Thailand,0.155158
+1989,46,zaf,South Africa,0.0655382
+1989,47,ven,Venezuela,0.0226329
+1989,48,per,Peru,0.0149369
+1989,49,tun,Tunisia,-0.0046092
+1989,50,col,Colombia,-0.0084852
+1989,51,mng,Mongolia,-0.0481697
+1989,52,chl,Chile,-0.0598537
+1989,53,qat,Qatar,-0.111763
+1989,54,phl,Philippines,-0.116137
+1989,55,alb,Albania,-0.12686
+1989,56,lby,Libya,-0.131368
+1989,57,tto,Trinidad and Tobago,-0.150259
+1989,58,moz,Mozambique,-0.218225
+1989,59,syr,Syria,-0.230444
+1989,60,mar,Morocco,-0.233992
+1989,61,dom,Dominican Republic,-0.28493
+1989,62,zwe,Zimbabwe,-0.304514
+1989,63,egy,Egypt,-0.339071
+1989,64,mus,Mauritius,-0.36304
+1989,65,cri,Costa Rica,-0.364724
+1989,66,idn,Indonesia,-0.453758
+1989,67,zmb,Zambia,-0.474457
+1989,68,lka,Sri Lanka,-0.475037
+1989,69,slv,El Salvador,-0.525596
+1989,70,pak,Pakistan,-0.546216
+1989,71,cub,Cuba,-0.563512
+1989,72,lao,Laos,-0.573622
+1989,73,jam,Jamaica,-0.603125
+1989,74,vnm,Vietnam,-0.61965
+1989,75,mli,Mali,-0.697268
+1989,76,gtm,Guatemala,-0.760604
+1989,77,bgd,Bangladesh,-0.800919
+1989,78,bol,Bolivia,-0.815682
+1989,79,pry,Paraguay,-0.824363
+1989,80,irn,Iran,-0.831449
+1989,81,khm,Cambodia,-0.895052
+1989,82,ken,Kenya,-0.920839
+1989,83,hnd,Honduras,-1.01532
+1989,84,sen,Senegal,-1.06686
+1989,85,eth,Ethiopia,-1.07095
+1989,86,ecu,Ecuador,-1.08639
+1989,87,sdn,Sudan,-1.11729
+1989,88,mwi,Malawi,-1.20132
+1989,89,lbr,Liberia,-1.27541
+1989,90,mrt,Mauritania,-1.29315
+1989,91,nic,Nicaragua,-1.29817
+1989,92,tza,Tanzania,-1.31179
+1989,93,mdg,Madagascar,-1.38376
+1989,94,civ,Cote d'Ivoire,-1.44234
+1989,95,gha,Ghana,-1.5036
+1989,96,gin,Guinea,-1.50539
+1989,97,cmr,Cameroon,-1.93867
+1989,98,png,Papua New Guinea,-1.9804
+1989,99,nga,Nigeria,-2.00495
+1989,100,uga,Uganda,-2.0064
+1989,101,ago,Angola,-2.00751
+1989,102,gab,Gabon,-2.03173
+1989,103,cog,Republic of the Congo,-2.17087
+1990,1,jpn,Japan,2.40664
+1990,2,swe,Sweden,2.3186
+1990,3,che,Switzerland,2.26504
+1990,4,gbr,United Kingdom,2.13817
+1990,5,aut,Austria,2.10135
+1990,6,fin,Finland,2.07468
+1990,7,ita,Italy,1.94312
+1990,8,usa,United States,1.93286
+1990,9,fra,France,1.88822
+1990,10,dnk,Denmark,1.86423
+1990,11,bel,Belgium,1.74372
+1990,12,nld,Netherlands,1.66874
+1990,13,irl,Ireland,1.58036
+1990,14,esp,Spain,1.5008
+1990,15,nor,Norway,1.3659
+1990,16,isr,Israel,1.23133
+1990,17,rou,Romania,1.11317
+1990,18,sgp,Singapore,1.10257
+1990,19,hun,Hungary,1.08975
+1990,20,pol,Poland,1.07166
+1990,21,can,Canada,1.06623
+1990,22,bgr,Bulgaria,1.04527
+1990,23,mex,Mexico,1.03647
+1990,24,kor,South Korea,1.00548
+1990,25,hkg,Hong Kong,0.936323
+1990,26,prt,Portugal,0.867576
+1990,27,ury,Uruguay,0.664504
+1990,28,nzl,New Zealand,0.532233
+1990,29,bra,Brazil,0.4958
+1990,30,jor,Jordan,0.485724
+1990,31,chn,China,0.469199
+1990,32,dza,Algeria,0.457371
+1990,33,sau,Saudi Arabia,0.403654
+1990,34,grc,Greece,0.328949
+1990,35,ind,India,0.315559
+1990,36,tur,Turkey,0.305048
+1990,37,mys,Malaysia,0.264822
+1990,38,aus,Australia,0.260637
+1990,39,arg,Argentina,0.231748
+1990,40,pan,Panama,0.220902
+1990,41,qat,Qatar,0.148149
+1990,42,tha,Thailand,0.146018
+1990,43,ven,Venezuela,0.125766
+1990,44,tun,Tunisia,0.119472
+1990,45,lbn,Lebanon,0.119327
+1990,46,are,United Arab Emirates,0.0911167
+1990,47,mng,Mongolia,0.047609
+1990,48,zaf,South Africa,0.0376557
+1990,49,phl,Philippines,-0.0491767
+1990,50,alb,Albania,-0.0539926
+1990,51,moz,Mozambique,-0.056645
+1990,52,per,Peru,-0.0733223
+1990,53,lby,Libya,-0.090918
+1990,54,chl,Chile,-0.122921
+1990,55,kwt,Kuwait,-0.178546
+1990,56,col,Colombia,-0.185899
+1990,57,egy,Egypt,-0.200774
+1990,58,zwe,Zimbabwe,-0.242294
+1990,59,mar,Morocco,-0.256577
+1990,60,tto,Trinidad and Tobago,-0.292841
+1990,61,cri,Costa Rica,-0.317501
+1990,62,mus,Mauritius,-0.320079
+1990,63,dom,Dominican Republic,-0.40437
+1990,64,syr,Syria,-0.446314
+1990,65,idn,Indonesia,-0.448043
+1990,66,slv,El Salvador,-0.558523
+1990,67,bol,Bolivia,-0.570194
+1990,68,pak,Pakistan,-0.573218
+1990,69,lka,Sri Lanka,-0.577392
+1990,70,omn,Oman,-0.598659
+1990,71,cub,Cuba,-0.632313
+1990,72,vnm,Vietnam,-0.674224
+1990,73,bgd,Bangladesh,-0.731824
+1990,74,hnd,Honduras,-0.75317
+1990,75,zmb,Zambia,-0.758157
+1990,76,ecu,Ecuador,-0.862991
+1990,77,mli,Mali,-0.866282
+1990,78,ken,Kenya,-0.873189
+1990,79,gtm,Guatemala,-0.913203
+1990,80,pry,Paraguay,-0.96779
+1990,81,lao,Laos,-0.981091
+1990,82,jam,Jamaica,-0.983635
+1990,83,sen,Senegal,-0.998498
+1990,84,irn,Iran,-1.04467
+1990,85,nic,Nicaragua,-1.11459
+1990,86,sdn,Sudan,-1.13503
+1990,87,eth,Ethiopia,-1.15757
+1990,88,khm,Cambodia,-1.23356
+1990,89,lbr,Liberia,-1.29516
+1990,90,gab,Gabon,-1.36445
+1990,91,mdg,Madagascar,-1.37371
+1990,92,tza,Tanzania,-1.38364
+1990,93,cog,Republic of the Congo,-1.44378
+1990,94,uga,Uganda,-1.4603
+1990,95,gha,Ghana,-1.47826
+1990,96,mrt,Mauritania,-1.48585
+1990,97,mwi,Malawi,-1.48708
+1990,98,civ,Cote d'Ivoire,-1.54376
+1990,99,nga,Nigeria,-1.58293
+1990,100,ago,Angola,-1.66818
+1990,101,png,Papua New Guinea,-1.69998
+1990,102,gin,Guinea,-2.00918
+1990,103,cmr,Cameroon,-2.05326
+1991,1,che,Switzerland,2.49418
+1991,2,jpn,Japan,2.40499
+1991,3,swe,Sweden,2.30865
+1991,4,gbr,United Kingdom,2.2012
+1991,5,fin,Finland,2.15061
+1991,6,aut,Austria,2.12257
+1991,7,fra,France,1.96112
+1991,8,usa,United States,1.92263
+1991,9,dnk,Denmark,1.91581
+1991,10,bel,Belgium,1.90119
+1991,11,ita,Italy,1.89481
+1991,12,deu,Germany,1.87875
+1991,13,irl,Ireland,1.66935
+1991,14,nld,Netherlands,1.64153
+1991,15,isr,Israel,1.49977
+1991,16,esp,Spain,1.31192
+1991,17,nor,Norway,1.26463
+1991,18,hun,Hungary,1.06571
+1991,19,sgp,Singapore,0.995925
+1991,20,can,Canada,0.995398
+1991,21,rou,Romania,0.935383
+1991,22,pol,Poland,0.873619
+1991,23,kor,South Korea,0.835974
+1991,24,hkg,Hong Kong,0.83174
+1991,25,mex,Mexico,0.786176
+1991,26,bgr,Bulgaria,0.751291
+1991,27,rus,Russia,0.749421
+1991,28,prt,Portugal,0.641764
+1991,29,ury,Uruguay,0.62496
+1991,30,nzl,New Zealand,0.547348
+1991,31,bra,Brazil,0.501444
+1991,32,ukr,Ukraine,0.381117
+1991,33,jor,Jordan,0.365192
+1991,34,chn,China,0.364312
+1991,35,aus,Australia,0.269776
+1991,36,grc,Greece,0.268082
+1991,37,tur,Turkey,0.26531
+1991,38,zaf,South Africa,0.255522
+1991,39,arg,Argentina,0.249067
+1991,40,mys,Malaysia,0.22287
+1991,41,tha,Thailand,0.163284
+1991,42,moz,Mozambique,0.156015
+1991,43,lbn,Lebanon,0.128421
+1991,44,col,Colombia,0.0918174
+1991,45,are,United Arab Emirates,0.0913906
+1991,46,ind,India,0.0533636
+1991,47,mng,Mongolia,-0.0171365
+1991,48,chl,Chile,-0.0238781
+1991,49,ven,Venezuela,-0.0273468
+1991,50,tun,Tunisia,-0.0360251
+1991,51,per,Peru,-0.0823928
+1991,52,zwe,Zimbabwe,-0.0995329
+1991,53,phl,Philippines,-0.110582
+1991,54,egy,Egypt,-0.152297
+1991,55,sau,Saudi Arabia,-0.186489
+1991,56,dza,Algeria,-0.216898
+1991,57,alb,Albania,-0.23632
+1991,58,pan,Panama,-0.238761
+1991,59,qat,Qatar,-0.251926
+1991,60,mar,Morocco,-0.295191
+1991,61,kwt,Kuwait,-0.318154
+1991,62,lby,Libya,-0.341162
+1991,63,zmb,Zambia,-0.362838
+1991,64,idn,Indonesia,-0.393258
+1991,65,cri,Costa Rica,-0.430826
+1991,66,omn,Oman,-0.460234
+1991,67,mus,Mauritius,-0.475763
+1991,68,lka,Sri Lanka,-0.504907
+1991,69,dom,Dominican Republic,-0.575315
+1991,70,pak,Pakistan,-0.600302
+1991,71,syr,Syria,-0.617338
+1991,72,bol,Bolivia,-0.706541
+1991,73,ken,Kenya,-0.734684
+1991,74,tto,Trinidad and Tobago,-0.743383
+1991,75,lbr,Liberia,-0.77873
+1991,76,mli,Mali,-0.783811
+1991,77,vnm,Vietnam,-0.788023
+1991,78,slv,El Salvador,-0.793995
+1991,79,bgd,Bangladesh,-0.796612
+1991,80,cub,Cuba,-0.829001
+1991,81,hnd,Honduras,-0.83241
+1991,82,gtm,Guatemala,-0.899848
+1991,83,eth,Ethiopia,-0.900783
+1991,84,gab,Gabon,-0.964911
+1991,85,sdn,Sudan,-0.966935
+1991,86,ecu,Ecuador,-0.977603
+1991,87,jam,Jamaica,-1.03497
+1991,88,pry,Paraguay,-1.06528
+1991,89,irn,Iran,-1.07553
+1991,90,nic,Nicaragua,-1.09762
+1991,91,lao,Laos,-1.16257
+1991,92,mwi,Malawi,-1.18369
+1991,93,khm,Cambodia,-1.19403
+1991,94,sen,Senegal,-1.19733
+1991,95,tza,Tanzania,-1.23285
+1991,96,mrt,Mauritania,-1.23934
+1991,97,cog,Republic of the Congo,-1.28641
+1991,98,civ,Cote d'Ivoire,-1.34118
+1991,99,mdg,Madagascar,-1.36977
+1991,100,gha,Ghana,-1.40574
+1991,101,nga,Nigeria,-1.68211
+1991,102,png,Papua New Guinea,-1.70586
+1991,103,gin,Guinea,-1.72621
+1991,104,cmr,Cameroon,-1.77537
+1991,105,uga,Uganda,-1.79077
+1991,106,ago,Angola,-1.88667
+1992,1,che,Switzerland,2.50185
+1992,2,swe,Sweden,2.43091
+1992,3,jpn,Japan,2.3446
+1992,4,deu,Germany,2.22625
+1992,5,gbr,United Kingdom,2.14249
+1992,6,aut,Austria,2.13088
+1992,7,fin,Finland,2.1258
+1992,8,fra,France,2.02292
+1992,9,dnk,Denmark,1.93529
+1992,10,usa,United States,1.92888
+1992,11,bel,Belgium,1.826
+1992,12,ita,Italy,1.77329
+1992,13,irl,Ireland,1.69869
+1992,14,nld,Netherlands,1.61206
+1992,15,esp,Spain,1.33601
+1992,16,isr,Israel,1.30795
+1992,17,nor,Norway,1.27457
+1992,18,can,Canada,1.04309
+1992,19,hun,Hungary,1.01684
+1992,20,sgp,Singapore,1.00497
+1992,21,ukr,Ukraine,0.954196
+1992,22,rus,Russia,0.795752
+1992,23,pol,Poland,0.795156
+1992,24,mex,Mexico,0.770203
+1992,25,rou,Romania,0.720531
+1992,26,kor,South Korea,0.702894
+1992,27,hkg,Hong Kong,0.689368
+1992,28,bgr,Bulgaria,0.679423
+1992,29,bra,Brazil,0.649354
+1992,30,nzl,New Zealand,0.607583
+1992,31,ury,Uruguay,0.496602
+1992,32,prt,Portugal,0.439095
+1992,33,zaf,South Africa,0.418938
+1992,34,aus,Australia,0.346712
+1992,35,jor,Jordan,0.301316
+1992,36,sau,Saudi Arabia,0.194789
+1992,37,chn,China,0.178202
+1992,38,col,Colombia,0.173306
+1992,39,lbn,Lebanon,0.169925
+1992,40,pan,Panama,0.168024
+1992,41,arg,Argentina,0.159548
+1992,42,grc,Greece,0.151813
+1992,43,tur,Turkey,0.123954
+1992,44,mys,Malaysia,0.091018
+1992,45,ven,Venezuela,0.0907461
+1992,46,tun,Tunisia,0.0558727
+1992,47,chl,Chile,0.0511707
+1992,48,vnm,Vietnam,0.0269323
+1992,49,mng,Mongolia,0.0218137
+1992,50,tha,Thailand,-0.0035954
+1992,51,moz,Mozambique,-0.0406696
+1992,52,ind,India,-0.114307
+1992,53,egy,Egypt,-0.117711
+1992,54,per,Peru,-0.122319
+1992,55,qat,Qatar,-0.216901
+1992,56,lby,Libya,-0.243433
+1992,57,dza,Algeria,-0.247412
+1992,58,are,United Arab Emirates,-0.259855
+1992,59,zwe,Zimbabwe,-0.30945
+1992,60,phl,Philippines,-0.311273
+1992,61,tto,Trinidad and Tobago,-0.329341
+1992,62,alb,Albania,-0.360117
+1992,63,mar,Morocco,-0.378483
+1992,64,mli,Mali,-0.411491
+1992,65,syr,Syria,-0.529224
+1992,66,omn,Oman,-0.533699
+1992,67,cri,Costa Rica,-0.536329
+1992,68,pak,Pakistan,-0.569923
+1992,69,idn,Indonesia,-0.583769
+1992,70,dom,Dominican Republic,-0.634292
+1992,71,lka,Sri Lanka,-0.656471
+1992,72,mus,Mauritius,-0.680362
+1992,73,pry,Paraguay,-0.687302
+1992,74,cub,Cuba,-0.72115
+1992,75,zmb,Zambia,-0.744345
+1992,76,ecu,Ecuador,-0.761728
+1992,77,gtm,Guatemala,-0.804041
+1992,78,lbr,Liberia,-0.828926
+1992,79,bol,Bolivia,-0.830208
+1992,80,sen,Senegal,-0.88482
+1992,81,slv,El Salvador,-0.890478
+1992,82,eth,Ethiopia,-0.899728
+1992,83,ken,Kenya,-0.941609
+1992,84,sdn,Sudan,-0.944074
+1992,85,irn,Iran,-0.971766
+1992,86,jam,Jamaica,-0.977413
+1992,87,bgd,Bangladesh,-1.00303
+1992,88,khm,Cambodia,-1.05502
+1992,89,hnd,Honduras,-1.09809
+1992,90,mrt,Mauritania,-1.18064
+1992,91,tza,Tanzania,-1.27491
+1992,92,uga,Uganda,-1.33093
+1992,93,lao,Laos,-1.34408
+1992,94,nic,Nicaragua,-1.35093
+1992,95,mdg,Madagascar,-1.35767
+1992,96,mwi,Malawi,-1.37414
+1992,97,gin,Guinea,-1.39503
+1992,98,cog,Republic of the Congo,-1.44254
+1992,99,gab,Gabon,-1.44674
+1992,100,png,Papua New Guinea,-1.48807
+1992,101,gha,Ghana,-1.50432
+1992,102,ago,Angola,-1.62035
+1992,103,civ,Cote d'Ivoire,-1.69394
+1992,104,nga,Nigeria,-1.72643
+1992,105,cmr,Cameroon,-1.94269
+1993,1,deu,Germany,2.43743
+1993,2,jpn,Japan,2.36409
+1993,3,che,Switzerland,2.35763
+1993,4,swe,Sweden,2.22978
+1993,5,gbr,United Kingdom,2.09493
+1993,6,aut,Austria,2.0899
+1993,7,fin,Finland,2.0877
+1993,8,usa,United States,1.96117
+1993,9,fra,France,1.89944
+1993,10,bel,Belgium,1.82785
+1993,11,dnk,Denmark,1.8099
+1993,12,ita,Italy,1.74401
+1993,13,irl,Ireland,1.58923
+1993,14,nld,Netherlands,1.53724
+1993,15,svk,Slovakia,1.34295
+1993,16,isr,Israel,1.27158
+1993,17,esp,Spain,1.25768
+1993,18,can,Canada,1.19157
+1993,19,nor,Norway,1.10335
+1993,20,sgp,Singapore,1.01382
+1993,21,hun,Hungary,1.01131
+1993,22,ukr,Ukraine,0.894673
+1993,23,rus,Russia,0.797846
+1993,24,bra,Brazil,0.795514
+1993,25,mex,Mexico,0.786987
+1993,26,pol,Poland,0.767241
+1993,27,kor,South Korea,0.758364
+1993,28,nzl,New Zealand,0.757456
+1993,29,rou,Romania,0.719769
+1993,30,ury,Uruguay,0.629652
+1993,31,bgr,Bulgaria,0.594231
+1993,32,zaf,South Africa,0.577517
+1993,33,arg,Argentina,0.471714
+1993,34,aus,Australia,0.467949
+1993,35,sau,Saudi Arabia,0.464895
+1993,36,prt,Portugal,0.44216
+1993,37,hkg,Hong Kong,0.44193
+1993,38,jor,Jordan,0.394546
+1993,39,pan,Panama,0.268088
+1993,40,mys,Malaysia,0.253848
+1993,41,lbn,Lebanon,0.187231
+1993,42,chn,China,0.162822
+1993,43,tur,Turkey,0.120243
+1993,44,chl,Chile,0.119881
+1993,45,grc,Greece,0.105755
+1993,46,tun,Tunisia,0.0904009
+1993,47,tha,Thailand,0.0540431
+1993,48,ind,India,0.0273538
+1993,49,ven,Venezuela,0.0103631
+1993,50,col,Colombia,-0.0996476
+1993,51,are,United Arab Emirates,-0.110102
+1993,52,per,Peru,-0.130111
+1993,53,vnm,Vietnam,-0.143301
+1993,54,qat,Qatar,-0.171125
+1993,55,alb,Albania,-0.244605
+1993,56,lbr,Liberia,-0.261374
+1993,57,mng,Mongolia,-0.303209
+1993,58,phl,Philippines,-0.322846
+1993,59,zwe,Zimbabwe,-0.327629
+1993,60,egy,Egypt,-0.345011
+1993,61,moz,Mozambique,-0.346861
+1993,62,dza,Algeria,-0.430312
+1993,63,idn,Indonesia,-0.436026
+1993,64,tto,Trinidad and Tobago,-0.460774
+1993,65,yem,Yemen,-0.507491
+1993,66,zmb,Zambia,-0.548024
+1993,67,mar,Morocco,-0.575027
+1993,68,cri,Costa Rica,-0.617815
+1993,69,omn,Oman,-0.628279
+1993,70,pry,Paraguay,-0.641381
+1993,71,lby,Libya,-0.66278
+1993,72,cub,Cuba,-0.665812
+1993,73,bol,Bolivia,-0.679101
+1993,74,mli,Mali,-0.68673
+1993,75,dom,Dominican Republic,-0.711511
+1993,76,eth,Ethiopia,-0.713427
+1993,77,lka,Sri Lanka,-0.744152
+1993,78,pak,Pakistan,-0.78047
+1993,79,ecu,Ecuador,-0.782539
+1993,80,lao,Laos,-0.825151
+1993,81,irn,Iran,-0.827472
+1993,82,mus,Mauritius,-0.828391
+1993,83,jam,Jamaica,-0.84227
+1993,84,slv,El Salvador,-0.866143
+1993,85,syr,Syria,-0.91807
+1993,86,mrt,Mauritania,-0.959194
+1993,87,gtm,Guatemala,-0.983111
+1993,88,sdn,Sudan,-0.99896
+1993,89,ken,Kenya,-1.05383
+1993,90,hnd,Honduras,-1.08135
+1993,91,khm,Cambodia,-1.08365
+1993,92,bgd,Bangladesh,-1.16518
+1993,93,gab,Gabon,-1.23721
+1993,94,sen,Senegal,-1.23797
+1993,95,mdg,Madagascar,-1.25188
+1993,96,nic,Nicaragua,-1.3378
+1993,97,gha,Ghana,-1.36692
+1993,97,uga,Uganda,-1.36692
+1993,99,mwi,Malawi,-1.38279
+1993,100,tza,Tanzania,-1.41858
+1993,101,gin,Guinea,-1.4258
+1993,102,civ,Cote d'Ivoire,-1.44485
+1993,103,cog,Republic of the Congo,-1.54763
+1993,104,png,Papua New Guinea,-1.54905
+1993,105,ago,Angola,-1.57708
+1993,106,nga,Nigeria,-1.61024
+1993,107,cmr,Cameroon,-2.1201
+1994,1,deu,Germany,2.37703
+1994,2,jpn,Japan,2.29282
+1994,3,che,Switzerland,2.28954
+1994,4,swe,Sweden,2.26136
+1994,5,aut,Austria,2.03598
+1994,6,fin,Finland,1.99203
+1994,7,gbr,United Kingdom,1.97789
+1994,8,usa,United States,1.91488
+1994,9,dnk,Denmark,1.75916
+1994,10,fra,France,1.73703
+1994,11,bel,Belgium,1.68427
+1994,12,ita,Italy,1.67812
+1994,13,nld,Netherlands,1.57352
+1994,14,irl,Ireland,1.57004
+1994,15,svn,Slovenia,1.34321
+1994,16,svk,Slovakia,1.31309
+1994,17,isr,Israel,1.30438
+1994,18,esp,Spain,1.26515
+1994,19,sgp,Singapore,1.12039
+1994,20,can,Canada,1.10686
+1994,21,nor,Norway,1.00447
+1994,22,hun,Hungary,0.957779
+1994,23,mex,Mexico,0.820486
+1994,24,kor,South Korea,0.755974
+1994,25,hrv,Croatia,0.718908
+1994,26,ury,Uruguay,0.688604
+1994,27,pol,Poland,0.680541
+1994,28,bra,Brazil,0.669794
+1994,29,nzl,New Zealand,0.651486
+1994,30,rou,Romania,0.597547
+1994,31,geo,Georgia,0.567959
+1994,32,blr,Belarus,0.51444
+1994,33,bgr,Bulgaria,0.477937
+1994,34,sau,Saudi Arabia,0.46051
+1994,35,ukr,Ukraine,0.419203
+1994,36,rus,Russia,0.417338
+1994,37,aus,Australia,0.393755
+1994,38,prt,Portugal,0.382762
+1994,39,zaf,South Africa,0.368962
+1994,40,hkg,Hong Kong,0.355746
+1994,41,omn,Oman,0.344128
+1994,42,arg,Argentina,0.341526
+1994,43,est,Estonia,0.33627
+1994,44,jor,Jordan,0.33084
+1994,45,mda,Moldova,0.329683
+1994,46,lbn,Lebanon,0.29651
+1994,47,kaz,Kazakhstan,0.272239
+1994,48,mys,Malaysia,0.262712
+1994,49,ltu,Lithuania,0.23169
+1994,50,bih,Bosnia and Herzegovina,0.226024
+1994,51,chn,China,0.15557
+1994,52,lva,Latvia,0.154464
+1994,53,grc,Greece,0.14929
+1994,54,ven,Venezuela,0.13717
+1994,55,col,Colombia,0.134558
+1994,56,qat,Qatar,0.126833
+1994,57,tur,Turkey,0.120328
+1994,58,kgz,Kyrgyzstan,0.111466
+1994,59,chl,Chile,0.089813
+1994,60,tun,Tunisia,0.0845727
+1994,61,tha,Thailand,0.0381673
+1994,62,ind,India,-0.003697
+1994,63,tjk,Tajikistan,-0.129321
+1994,64,per,Peru,-0.168272
+1994,65,aze,Azerbaijan,-0.227426
+1994,66,pan,Panama,-0.275014
+1994,67,zwe,Zimbabwe,-0.296416
+1994,68,pry,Paraguay,-0.303608
+1994,69,dza,Algeria,-0.306087
+1994,70,tto,Trinidad and Tobago,-0.321752
+1994,71,egy,Egypt,-0.334148
+1994,72,phl,Philippines,-0.360303
+1994,73,uzb,Uzbekistan,-0.365784
+1994,74,alb,Albania,-0.373478
+1994,75,are,United Arab Emirates,-0.413382
+1994,76,cub,Cuba,-0.428586
+1994,77,tkm,Turkmenistan,-0.452815
+1994,78,idn,Indonesia,-0.471696
+1994,79,mar,Morocco,-0.484226
+1994,80,bol,Bolivia,-0.502288
+1994,81,vnm,Vietnam,-0.513864
+1994,82,lby,Libya,-0.550879
+1994,83,mng,Mongolia,-0.575457
+1994,84,zmb,Zambia,-0.580415
+1994,85,moz,Mozambique,-0.620719
+1994,86,yem,Yemen,-0.632316
+1994,87,mli,Mali,-0.635605
+1994,88,irn,Iran,-0.707985
+1994,89,ecu,Ecuador,-0.768994
+1994,90,pak,Pakistan,-0.783029
+1994,91,gtm,Guatemala,-0.786431
+1994,92,lka,Sri Lanka,-0.796153
+1994,93,sdn,Sudan,-0.809113
+1994,94,syr,Syria,-0.809339
+1994,95,cri,Costa Rica,-0.809441
+1994,96,eth,Ethiopia,-0.850544
+1994,97,ken,Kenya,-0.876545
+1994,98,gab,Gabon,-0.883829
+1994,99,dom,Dominican Republic,-0.913243
+1994,100,lbr,Liberia,-0.95579
+1994,101,mus,Mauritius,-1.002
+1994,102,lao,Laos,-1.02541
+1994,103,bgd,Bangladesh,-1.03668
+1994,104,sen,Senegal,-1.06117
+1994,105,khm,Cambodia,-1.07141
+1994,106,hnd,Honduras,-1.14784
+1994,107,slv,El Salvador,-1.1797
+1994,108,jam,Jamaica,-1.2048
+1994,109,mdg,Madagascar,-1.20921
+1994,110,nic,Nicaragua,-1.22499
+1994,111,cog,Republic of the Congo,-1.23769
+1994,112,mrt,Mauritania,-1.32272
+1994,113,tza,Tanzania,-1.38501
+1994,114,mwi,Malawi,-1.42896
+1994,115,civ,Cote d'Ivoire,-1.5646
+1994,116,uga,Uganda,-1.57403
+1994,117,gha,Ghana,-1.57936
+1994,118,ago,Angola,-1.58223
+1994,119,gin,Guinea,-1.65824
+1994,120,nga,Nigeria,-1.70209
+1994,121,cmr,Cameroon,-1.73016
+1994,122,png,Papua New Guinea,-1.76848
+1995,1,jpn,Japan,2.40943
+1995,2,deu,Germany,2.27392
+1995,3,che,Switzerland,2.24882
+1995,4,swe,Sweden,2.20024
+1995,5,aut,Austria,1.98488
+1995,6,fin,Finland,1.96899
+1995,7,gbr,United Kingdom,1.8765
+1995,8,usa,United States,1.8429
+1995,9,fra,France,1.76325
+1995,10,dnk,Denmark,1.68299
+1995,11,ita,Italy,1.6747
+1995,12,bel,Belgium,1.61256
+1995,13,irl,Ireland,1.47249
+1995,14,cze,Czech Republic,1.43444
+1995,15,nld,Netherlands,1.4227
+1995,16,svn,Slovenia,1.40489
+1995,17,esp,Spain,1.31543
+1995,18,svk,Slovakia,1.31108
+1995,19,isr,Israel,1.17445
+1995,20,sgp,Singapore,1.13185
+1995,21,can,Canada,1.07548
+1995,22,kor,South Korea,0.990426
+1995,23,hun,Hungary,0.969882
+1995,24,nor,Norway,0.961016
+1995,25,pol,Poland,0.797635
+1995,26,geo,Georgia,0.732653
+1995,27,mex,Mexico,0.73243
+1995,28,hrv,Croatia,0.711269
+1995,29,bra,Brazil,0.676931
+1995,30,rou,Romania,0.667124
+1995,31,blr,Belarus,0.58846
+1995,32,nzl,New Zealand,0.530015
+1995,33,bih,Bosnia and Herzegovina,0.52202
+1995,34,ury,Uruguay,0.493218
+1995,35,bgr,Bulgaria,0.490506
+1995,36,kaz,Kazakhstan,0.487409
+1995,37,mys,Malaysia,0.46477
+1995,38,hkg,Hong Kong,0.464527
+1995,39,rus,Russia,0.426829
+1995,40,prt,Portugal,0.422194
+1995,41,ukr,Ukraine,0.398938
+1995,42,arg,Argentina,0.390194
+1995,43,est,Estonia,0.352678
+1995,44,zaf,South Africa,0.303352
+1995,45,chn,China,0.257831
+1995,46,mkd,Macedonia,0.256647
+1995,47,jor,Jordan,0.245919
+1995,48,col,Colombia,0.212431
+1995,49,tur,Turkey,0.198152
+1995,50,mda,Moldova,0.194164
+1995,51,tha,Thailand,0.190147
+1995,52,ltu,Lithuania,0.185582
+1995,53,grc,Greece,0.183852
+1995,54,aze,Azerbaijan,0.176029
+1995,55,ven,Venezuela,0.163429
+1995,56,sau,Saudi Arabia,0.148846
+1995,57,lva,Latvia,0.134151
+1995,58,lbn,Lebanon,0.131945
+1995,59,aus,Australia,0.107636
+1995,60,ind,India,0.102434
+1995,61,pan,Panama,-0.0407885
+1995,62,chl,Chile,-0.0868762
+1995,63,tun,Tunisia,-0.0934382
+1995,64,kgz,Kyrgyzstan,-0.0954733
+1995,65,per,Peru,-0.155875
+1995,66,are,United Arab Emirates,-0.164771
+1995,67,tto,Trinidad and Tobago,-0.183422
+1995,68,uzb,Uzbekistan,-0.217214
+1995,69,pry,Paraguay,-0.226272
+1995,70,cub,Cuba,-0.24217
+1995,71,omn,Oman,-0.252858
+1995,72,tjk,Tajikistan,-0.275689
+1995,73,phl,Philippines,-0.29849
+1995,74,zwe,Zimbabwe,-0.336866
+1995,75,idn,Indonesia,-0.339011
+1995,76,egy,Egypt,-0.340367
+1995,77,vnm,Vietnam,-0.381648
+1995,78,lbr,Liberia,-0.434314
+1995,79,mar,Morocco,-0.515124
+1995,80,qat,Qatar,-0.515266
+1995,81,dom,Dominican Republic,-0.558935
+1995,82,mng,Mongolia,-0.574692
+1995,83,tkm,Turkmenistan,-0.590621
+1995,84,alb,Albania,-0.604253
+1995,85,bol,Bolivia,-0.617126
+1995,86,dza,Algeria,-0.645614
+1995,87,mli,Mali,-0.658062
+1995,88,jam,Jamaica,-0.668668
+1995,89,cri,Costa Rica,-0.67634
+1995,90,pak,Pakistan,-0.739156
+1995,91,irn,Iran,-0.748274
+1995,92,nic,Nicaragua,-0.752414
+1995,93,lka,Sri Lanka,-0.770792
+1995,94,zmb,Zambia,-0.795738
+1995,95,ecu,Ecuador,-0.843202
+1995,96,lby,Libya,-0.845834
+1995,97,kwt,Kuwait,-0.883835
+1995,98,mus,Mauritius,-0.891466
+1995,99,sdn,Sudan,-0.901576
+1995,100,gtm,Guatemala,-0.907395
+1995,101,syr,Syria,-0.941207
+1995,102,moz,Mozambique,-0.964402
+1995,103,hnd,Honduras,-0.971416
+1995,104,sen,Senegal,-0.997607
+1995,105,khm,Cambodia,-1.03773
+1995,106,bgd,Bangladesh,-1.04431
+1995,107,ken,Kenya,-1.05717
+1995,108,gab,Gabon,-1.06141
+1995,109,slv,El Salvador,-1.06759
+1995,110,mdg,Madagascar,-1.18094
+1995,111,lao,Laos,-1.18316
+1995,112,gha,Ghana,-1.1863
+1995,113,tza,Tanzania,-1.19085
+1995,114,yem,Yemen,-1.1945
+1995,115,eth,Ethiopia,-1.23265
+1995,116,cog,Republic of the Congo,-1.23386
+1995,117,civ,Cote d'Ivoire,-1.43748
+1995,118,cmr,Cameroon,-1.46046
+1995,119,mwi,Malawi,-1.523
+1995,120,gin,Guinea,-1.5311
+1995,121,uga,Uganda,-1.54506
+1995,122,mrt,Mauritania,-1.557
+1995,123,ago,Angola,-1.72004
+1995,124,nga,Nigeria,-1.73613
+1995,125,png,Papua New Guinea,-1.82033
+1996,1,jpn,Japan,2.23526
+1996,2,deu,Germany,2.14742
+1996,3,swe,Sweden,2.06089
+1996,4,che,Switzerland,2.05968
+1996,5,fin,Finland,1.88429
+1996,6,aut,Austria,1.84836
+1996,7,gbr,United Kingdom,1.77216
+1996,8,usa,United States,1.71194
+1996,9,fra,France,1.55599
+1996,10,bel,Belgium,1.54476
+1996,11,dnk,Denmark,1.50164
+1996,12,ita,Italy,1.50114
+1996,13,irl,Ireland,1.41917
+1996,14,cze,Czech Republic,1.40914
+1996,15,nld,Netherlands,1.35915
+1996,16,svn,Slovenia,1.33051
+1996,17,svk,Slovakia,1.2622
+1996,18,esp,Spain,1.21625
+1996,19,isr,Israel,1.16869
+1996,20,nor,Norway,1.1021
+1996,21,sgp,Singapore,1.08661
+1996,22,hun,Hungary,1.04826
+1996,23,can,Canada,1.02093
+1996,24,kor,South Korea,1.00741
+1996,25,ukr,Ukraine,0.981918
+1996,26,pol,Poland,0.96863
+1996,27,mex,Mexico,0.776578
+1996,28,bgr,Bulgaria,0.690222
+1996,29,rou,Romania,0.675304
+1996,30,hrv,Croatia,0.670811
+1996,31,rus,Russia,0.65979
+1996,32,bra,Brazil,0.647423
+1996,33,kaz,Kazakhstan,0.62953
+1996,34,nzl,New Zealand,0.629045
+1996,35,blr,Belarus,0.605525
+1996,36,prt,Portugal,0.554276
+1996,37,est,Estonia,0.520141
+1996,38,aze,Azerbaijan,0.518066
+1996,39,mys,Malaysia,0.502035
+1996,40,bih,Bosnia and Herzegovina,0.490954
+1996,41,ury,Uruguay,0.429767
+1996,42,hkg,Hong Kong,0.391077
+1996,43,geo,Georgia,0.388101
+1996,44,ltu,Lithuania,0.368215
+1996,45,kgz,Kyrgyzstan,0.361434
+1996,46,lva,Latvia,0.359724
+1996,47,zaf,South Africa,0.341265
+1996,48,chn,China,0.316045
+1996,49,grc,Greece,0.277305
+1996,50,jor,Jordan,0.261709
+1996,51,aus,Australia,0.258258
+1996,52,arg,Argentina,0.239445
+1996,53,mda,Moldova,0.234111
+1996,54,sau,Saudi Arabia,0.216431
+1996,55,tur,Turkey,0.200462
+1996,56,tha,Thailand,0.183915
+1996,57,mkd,Macedonia,0.178035
+1996,58,col,Colombia,0.139072
+1996,59,ind,India,0.124398
+1996,60,lbn,Lebanon,0.10608
+1996,61,uzb,Uzbekistan,0.0711842
+1996,62,tjk,Tajikistan,0.0509143
+1996,63,chl,Chile,0.0441125
+1996,64,are,United Arab Emirates,0.0089077
+1996,65,tun,Tunisia,-0.0189277
+1996,66,ven,Venezuela,-0.039321
+1996,67,tto,Trinidad and Tobago,-0.15813
+1996,68,omn,Oman,-0.163898
+1996,69,phl,Philippines,-0.198611
+1996,70,pan,Panama,-0.199957
+1996,71,per,Peru,-0.226513
+1996,72,idn,Indonesia,-0.277266
+1996,73,kwt,Kuwait,-0.299429
+1996,74,zwe,Zimbabwe,-0.332816
+1996,75,alb,Albania,-0.351731
+1996,76,dza,Algeria,-0.36345
+1996,77,tkm,Turkmenistan,-0.416409
+1996,78,qat,Qatar,-0.429485
+1996,79,pry,Paraguay,-0.443279
+1996,80,mng,Mongolia,-0.475906
+1996,81,mar,Morocco,-0.476291
+1996,82,egy,Egypt,-0.491704
+1996,83,lby,Libya,-0.498525
+1996,84,dom,Dominican Republic,-0.520658
+1996,85,bol,Bolivia,-0.548286
+1996,86,cri,Costa Rica,-0.579194
+1996,87,vnm,Vietnam,-0.600355
+1996,88,lao,Laos,-0.601499
+1996,89,irn,Iran,-0.60242
+1996,90,cub,Cuba,-0.667746
+1996,91,lka,Sri Lanka,-0.705545
+1996,92,pak,Pakistan,-0.710181
+1996,93,mus,Mauritius,-0.775952
+1996,94,ecu,Ecuador,-0.867257
+1996,95,khm,Cambodia,-0.927341
+1996,96,gtm,Guatemala,-0.95918
+1996,97,syr,Syria,-0.973641
+1996,98,bgd,Bangladesh,-0.974117
+1996,99,eth,Ethiopia,-0.978287
+1996,100,hnd,Honduras,-1.01081
+1996,101,jam,Jamaica,-1.04148
+1996,102,mrt,Mauritania,-1.05362
+1996,103,ken,Kenya,-1.05615
+1996,104,zmb,Zambia,-1.06283
+1996,105,sen,Senegal,-1.06668
+1996,106,yem,Yemen,-1.07062
+1996,107,slv,El Salvador,-1.11313
+1996,108,lbr,Liberia,-1.12062
+1996,109,mdg,Madagascar,-1.13226
+1996,110,mli,Mali,-1.13549
+1996,111,ago,Angola,-1.14723
+1996,112,nic,Nicaragua,-1.14855
+1996,113,moz,Mozambique,-1.16069
+1996,114,gha,Ghana,-1.16717
+1996,115,sdn,Sudan,-1.24338
+1996,116,cog,Republic of the Congo,-1.30501
+1996,117,gab,Gabon,-1.34185
+1996,118,civ,Cote d'Ivoire,-1.44082
+1996,119,mwi,Malawi,-1.52492
+1996,120,tza,Tanzania,-1.52644
+1996,121,png,Papua New Guinea,-1.75415
+1996,122,uga,Uganda,-1.88126
+1996,123,cmr,Cameroon,-1.92396
+1996,124,nga,Nigeria,-1.99491
+1996,125,gin,Guinea,-2.04682
+1997,1,deu,Germany,2.23415
+1997,2,jpn,Japan,2.23385
+1997,3,che,Switzerland,2.17768
+1997,4,swe,Sweden,2.06515
+1997,5,fin,Finland,1.89168
+1997,6,aut,Austria,1.84756
+1997,7,gbr,United Kingdom,1.82104
+1997,8,usa,United States,1.80445
+1997,9,fra,France,1.66307
+1997,10,bel,Belgium,1.57846
+1997,11,ita,Italy,1.4973
+1997,12,cze,Czech Republic,1.48535
+1997,13,dnk,Denmark,1.4812
+1997,14,svn,Slovenia,1.40095
+1997,15,nld,Netherlands,1.39245
+1997,16,irl,Ireland,1.37383
+1997,17,svk,Slovakia,1.31402
+1997,18,isr,Israel,1.20593
+1997,19,esp,Spain,1.17507
+1997,20,can,Canada,1.11627
+1997,21,hun,Hungary,1.04198
+1997,22,pol,Poland,1.02184
+1997,23,sgp,Singapore,1.01931
+1997,24,nor,Norway,1.01187
+1997,25,ukr,Ukraine,0.977325
+1997,26,kor,South Korea,0.968257
+1997,27,bra,Brazil,0.812385
+1997,28,rou,Romania,0.779787
+1997,29,bih,Bosnia and Herzegovina,0.731453
+1997,30,mex,Mexico,0.705636
+1997,31,rus,Russia,0.693451
+1997,32,bgr,Bulgaria,0.660773
+1997,33,hrv,Croatia,0.638306
+1997,34,nzl,New Zealand,0.61177
+1997,35,est,Estonia,0.591793
+1997,36,aze,Azerbaijan,0.586682
+1997,37,blr,Belarus,0.531112
+1997,38,prt,Portugal,0.522388
+1997,39,geo,Georgia,0.520971
+1997,40,kaz,Kazakhstan,0.51833
+1997,41,lva,Latvia,0.460168
+1997,42,ury,Uruguay,0.393172
+1997,43,zaf,South Africa,0.375219
+1997,44,mys,Malaysia,0.367355
+1997,45,hkg,Hong Kong,0.36523
+1997,46,arg,Argentina,0.35764
+1997,47,ltu,Lithuania,0.30046
+1997,48,tur,Turkey,0.294054
+1997,49,chn,China,0.288427
+1997,50,aus,Australia,0.234
+1997,51,mkd,Macedonia,0.21467
+1997,52,ind,India,0.19445
+1997,53,col,Colombia,0.189693
+1997,54,grc,Greece,0.182903
+1997,55,kgz,Kyrgyzstan,0.17004
+1997,56,mda,Moldova,0.161913
+1997,57,tha,Thailand,0.140377
+1997,58,ven,Venezuela,0.122707
+1997,59,uzb,Uzbekistan,0.0521761
+1997,60,lbn,Lebanon,0.0414658
+1997,61,chl,Chile,0.0387474
+1997,62,jor,Jordan,0.0094072
+1997,63,tto,Trinidad and Tobago,0.0077954
+1997,64,tjk,Tajikistan,-0.0120857
+1997,65,tun,Tunisia,-0.0667485
+1997,66,are,United Arab Emirates,-0.0876165
+1997,67,egy,Egypt,-0.204289
+1997,68,lby,Libya,-0.205129
+1997,69,sau,Saudi Arabia,-0.212092
+1997,70,phl,Philippines,-0.249567
+1997,71,idn,Indonesia,-0.278167
+1997,72,pry,Paraguay,-0.30951
+1997,73,moz,Mozambique,-0.337513
+1997,74,tkm,Turkmenistan,-0.365232
+1997,75,alb,Albania,-0.369837
+1997,76,pan,Panama,-0.388711
+1997,77,zwe,Zimbabwe,-0.429992
+1997,78,irn,Iran,-0.441893
+1997,79,per,Peru,-0.46094
+1997,80,omn,Oman,-0.512492
+1997,81,mar,Morocco,-0.569965
+1997,82,lbr,Liberia,-0.596764
+1997,83,vnm,Vietnam,-0.596886
+1997,84,cri,Costa Rica,-0.616114
+1997,85,lka,Sri Lanka,-0.647659
+1997,86,dom,Dominican Republic,-0.658498
+1997,87,kwt,Kuwait,-0.662303
+1997,88,bol,Bolivia,-0.707996
+1997,89,mng,Mongolia,-0.726294
+1997,90,dza,Algeria,-0.752627
+1997,91,ecu,Ecuador,-0.764012
+1997,92,lao,Laos,-0.799028
+1997,93,slv,El Salvador,-0.820908
+1997,94,mus,Mauritius,-0.837506
+1997,95,gtm,Guatemala,-0.84376
+1997,96,qat,Qatar,-0.844711
+1997,97,pak,Pakistan,-0.862665
+1997,98,cub,Cuba,-0.900767
+1997,99,syr,Syria,-0.926928
+1997,100,eth,Ethiopia,-0.990939
+1997,101,sen,Senegal,-0.993601
+1997,102,zmb,Zambia,-1.0261
+1997,103,ken,Kenya,-1.0597
+1997,104,bgd,Bangladesh,-1.06212
+1997,105,sdn,Sudan,-1.07093
+1997,106,nic,Nicaragua,-1.08014
+1997,107,hnd,Honduras,-1.10129
+1997,108,khm,Cambodia,-1.1105
+1997,109,jam,Jamaica,-1.11242
+1997,110,yem,Yemen,-1.14612
+1997,111,ago,Angola,-1.15543
+1997,112,gab,Gabon,-1.18337
+1997,113,cog,Republic of the Congo,-1.26372
+1997,114,mli,Mali,-1.27141
+1997,115,mdg,Madagascar,-1.27799
+1997,116,gha,Ghana,-1.29024
+1997,117,civ,Cote d'Ivoire,-1.35329
+1997,118,tza,Tanzania,-1.42868
+1997,119,cmr,Cameroon,-1.51197
+1997,120,png,Papua New Guinea,-1.58291
+1997,121,mwi,Malawi,-1.61004
+1997,122,uga,Uganda,-1.63058
+1997,123,mrt,Mauritania,-1.63696
+1997,124,nga,Nigeria,-1.73553
+1997,125,gin,Guinea,-1.91375
+1998,1,jpn,Japan,2.23101
+1998,2,deu,Germany,2.20227
+1998,3,che,Switzerland,2.09955
+1998,4,swe,Sweden,2.0448
+1998,5,gbr,United Kingdom,1.94714
+1998,6,fin,Finland,1.86294
+1998,7,usa,United States,1.8345
+1998,8,aut,Austria,1.81072
+1998,9,fra,France,1.68775
+1998,10,bel,Belgium,1.61469
+1998,11,irl,Ireland,1.59667
+1998,12,dnk,Denmark,1.55042
+1998,13,ita,Italy,1.5488
+1998,14,cze,Czech Republic,1.53443
+1998,15,svn,Slovenia,1.43809
+1998,16,nld,Netherlands,1.38476
+1998,17,svk,Slovakia,1.33638
+1998,18,isr,Israel,1.2623
+1998,19,sgp,Singapore,1.24449
+1998,20,esp,Spain,1.13094
+1998,21,can,Canada,1.02225
+1998,22,pol,Poland,1.02002
+1998,23,hun,Hungary,1.00834
+1998,24,nor,Norway,0.990562
+1998,25,kor,South Korea,0.939222
+1998,26,ukr,Ukraine,0.884077
+1998,27,mex,Mexico,0.797012
+1998,28,hrv,Croatia,0.792144
+1998,29,rus,Russia,0.687916
+1998,30,bra,Brazil,0.67393
+1998,31,bgr,Bulgaria,0.647729
+1998,32,rou,Romania,0.637983
+1998,33,prt,Portugal,0.563539
+1998,34,est,Estonia,0.545848
+1998,35,blr,Belarus,0.52414
+1998,36,bih,Bosnia and Herzegovina,0.511713
+1998,37,mys,Malaysia,0.492737
+1998,38,geo,Georgia,0.472457
+1998,39,nzl,New Zealand,0.463611
+1998,40,ury,Uruguay,0.432805
+1998,41,jor,Jordan,0.426885
+1998,42,hkg,Hong Kong,0.418586
+1998,43,zaf,South Africa,0.408314
+1998,44,ltu,Lithuania,0.408061
+1998,45,arg,Argentina,0.3827
+1998,46,aze,Azerbaijan,0.368916
+1998,47,chn,China,0.319266
+1998,48,col,Colombia,0.270366
+1998,49,tur,Turkey,0.268959
+1998,50,grc,Greece,0.249143
+1998,51,ven,Venezuela,0.244529
+1998,52,lva,Latvia,0.213318
+1998,53,kaz,Kazakhstan,0.211759
+1998,54,sau,Saudi Arabia,0.208936
+1998,55,ind,India,0.197834
+1998,56,aus,Australia,0.170094
+1998,57,tha,Thailand,0.156533
+1998,58,chl,Chile,0.113026
+1998,59,mda,Moldova,0.103473
+1998,60,kgz,Kyrgyzstan,0.0739217
+1998,61,lbn,Lebanon,0.0734025
+1998,62,mkd,Macedonia,0.0009233
+1998,63,tun,Tunisia,-0.0323205
+1998,64,are,United Arab Emirates,-0.0353536
+1998,65,tto,Trinidad and Tobago,-0.0758274
+1998,66,pan,Panama,-0.140293
+1998,67,uzb,Uzbekistan,-0.158196
+1998,68,idn,Indonesia,-0.205093
+1998,69,pry,Paraguay,-0.23348
+1998,70,tjk,Tajikistan,-0.255978
+1998,71,per,Peru,-0.276451
+1998,72,egy,Egypt,-0.319533
+1998,73,phl,Philippines,-0.328894
+1998,74,omn,Oman,-0.349215
+1998,75,alb,Albania,-0.396345
+1998,76,moz,Mozambique,-0.397641
+1998,77,mar,Morocco,-0.538029
+1998,78,cri,Costa Rica,-0.558168
+1998,79,tkm,Turkmenistan,-0.56252
+1998,80,kwt,Kuwait,-0.57009
+1998,81,zwe,Zimbabwe,-0.573601
+1998,82,bol,Bolivia,-0.58026
+1998,83,vnm,Vietnam,-0.60803
+1998,84,lbr,Liberia,-0.625832
+1998,85,cub,Cuba,-0.63829
+1998,86,mus,Mauritius,-0.650404
+1998,87,lka,Sri Lanka,-0.66023
+1998,88,irn,Iran,-0.713129
+1998,89,mng,Mongolia,-0.734594
+1998,90,pak,Pakistan,-0.746273
+1998,91,dom,Dominican Republic,-0.746364
+1998,92,lby,Libya,-0.751991
+1998,93,jam,Jamaica,-0.810243
+1998,94,qat,Qatar,-0.818379
+1998,95,dza,Algeria,-0.840006
+1998,96,lao,Laos,-0.855966
+1998,97,ecu,Ecuador,-0.880659
+1998,98,gtm,Guatemala,-0.884991
+1998,99,gab,Gabon,-0.953535
+1998,100,zmb,Zambia,-0.979463
+1998,101,sen,Senegal,-0.992154
+1998,102,syr,Syria,-1.00661
+1998,103,bgd,Bangladesh,-1.02629
+1998,104,mrt,Mauritania,-1.04511
+1998,105,slv,El Salvador,-1.0526
+1998,106,eth,Ethiopia,-1.08144
+1998,107,sdn,Sudan,-1.09713
+1998,108,hnd,Honduras,-1.11929
+1998,109,ken,Kenya,-1.14358
+1998,110,mdg,Madagascar,-1.16777
+1998,111,uga,Uganda,-1.16919
+1998,112,gha,Ghana,-1.18062
+1998,113,ago,Angola,-1.18983
+1998,114,khm,Cambodia,-1.22151
+1998,115,tza,Tanzania,-1.27717
+1998,116,mwi,Malawi,-1.33941
+1998,117,nic,Nicaragua,-1.35024
+1998,118,yem,Yemen,-1.40893
+1998,119,civ,Cote d'Ivoire,-1.45498
+1998,120,mli,Mali,-1.48828
+1998,121,png,Papua New Guinea,-1.58462
+1998,122,cog,Republic of the Congo,-1.62025
+1998,123,nga,Nigeria,-1.68178
+1998,124,cmr,Cameroon,-1.75151
+1998,125,gin,Guinea,-1.82366
+1999,1,deu,Germany,2.23537
+1999,2,jpn,Japan,2.22444
+1999,3,che,Switzerland,2.15805
+1999,4,swe,Sweden,2.02982
+1999,5,gbr,United Kingdom,1.94198
+1999,6,fin,Finland,1.92063
+1999,7,usa,United States,1.88075
+1999,8,aut,Austria,1.81224
+1999,9,fra,France,1.6577
+1999,10,irl,Ireland,1.63058
+1999,11,bel,Belgium,1.60032
+1999,12,ita,Italy,1.59941
+1999,13,dnk,Denmark,1.58301
+1999,14,cze,Czech Republic,1.53899
+1999,15,sgp,Singapore,1.45509
+1999,16,svn,Slovenia,1.37879
+1999,17,nld,Netherlands,1.37383
+1999,18,svk,Slovakia,1.31068
+1999,19,esp,Spain,1.24014
+1999,20,isr,Israel,1.21504
+1999,21,can,Canada,1.0597
+1999,22,kor,South Korea,1.03095
+1999,23,hun,Hungary,0.985108
+1999,24,pol,Poland,0.943383
+1999,25,nor,Norway,0.932928
+1999,26,mex,Mexico,0.891567
+1999,27,hrv,Croatia,0.775022
+1999,28,bra,Brazil,0.69328
+1999,29,ukr,Ukraine,0.650502
+1999,30,rou,Romania,0.60488
+1999,31,rus,Russia,0.604445
+1999,32,prt,Portugal,0.600397
+1999,33,nzl,New Zealand,0.590924
+1999,34,ury,Uruguay,0.569064
+1999,35,blr,Belarus,0.553064
+1999,36,mys,Malaysia,0.528765
+1999,37,jor,Jordan,0.47787
+1999,38,bgr,Bulgaria,0.477192
+1999,39,est,Estonia,0.46014
+1999,40,hkg,Hong Kong,0.458935
+1999,41,geo,Georgia,0.432673
+1999,42,arg,Argentina,0.407747
+1999,43,bih,Bosnia and Herzegovina,0.404418
+1999,44,zaf,South Africa,0.372852
+1999,45,grc,Greece,0.312809
+1999,46,chn,China,0.293277
+1999,47,tur,Turkey,0.28599
+1999,48,tha,Thailand,0.28515
+1999,49,sau,Saudi Arabia,0.27334
+1999,50,ltu,Lithuania,0.188714
+1999,51,aus,Australia,0.181681
+1999,52,col,Colombia,0.165266
+1999,53,lbn,Lebanon,0.162492
+1999,54,ind,India,0.132709
+1999,55,ven,Venezuela,0.129339
+1999,56,kaz,Kazakhstan,0.126171
+1999,57,chl,Chile,0.0892086
+1999,58,lva,Latvia,0.0641852
+1999,59,kgz,Kyrgyzstan,0.0134149
+1999,60,tto,Trinidad and Tobago,0.0111368
+1999,61,mda,Moldova,0.010145
+1999,62,mkd,Macedonia,-0.0604266
+1999,63,tun,Tunisia,-0.0684692
+1999,64,moz,Mozambique,-0.0959164
+1999,65,idn,Indonesia,-0.117758
+1999,66,phl,Philippines,-0.179785
+1999,67,aze,Azerbaijan,-0.196818
+1999,68,egy,Egypt,-0.22815
+1999,69,uzb,Uzbekistan,-0.250323
+1999,70,lbr,Liberia,-0.27024
+1999,71,are,United Arab Emirates,-0.274956
+1999,72,per,Peru,-0.28456
+1999,73,pan,Panama,-0.291037
+1999,74,tjk,Tajikistan,-0.319091
+1999,75,omn,Oman,-0.328968
+1999,76,pry,Paraguay,-0.358732
+1999,77,cub,Cuba,-0.358823
+1999,78,alb,Albania,-0.384903
+1999,79,zwe,Zimbabwe,-0.475226
+1999,80,tkm,Turkmenistan,-0.539136
+1999,81,mar,Morocco,-0.564831
+1999,82,qat,Qatar,-0.575781
+1999,83,gab,Gabon,-0.586478
+1999,84,bol,Bolivia,-0.595151
+1999,85,lka,Sri Lanka,-0.612589
+1999,86,vnm,Vietnam,-0.637221
+1999,87,lby,Libya,-0.654841
+1999,88,kwt,Kuwait,-0.656794
+1999,89,mus,Mauritius,-0.716686
+1999,90,pak,Pakistan,-0.716756
+1999,91,eth,Ethiopia,-0.723405
+1999,92,ecu,Ecuador,-0.73729
+1999,93,mrt,Mauritania,-0.74992
+1999,94,cri,Costa Rica,-0.757814
+1999,95,dza,Algeria,-0.768036
+1999,96,irn,Iran,-0.795209
+1999,97,syr,Syria,-0.799844
+1999,98,dom,Dominican Republic,-0.826531
+1999,99,jam,Jamaica,-0.848421
+1999,100,mng,Mongolia,-0.891716
+1999,101,sen,Senegal,-0.934261
+1999,102,gtm,Guatemala,-1.02518
+1999,103,slv,El Salvador,-1.05008
+1999,104,bgd,Bangladesh,-1.06283
+1999,105,ken,Kenya,-1.07487
+1999,106,khm,Cambodia,-1.10452
+1999,107,zmb,Zambia,-1.12557
+1999,108,lao,Laos,-1.13256
+1999,109,hnd,Honduras,-1.161
+1999,110,gha,Ghana,-1.1696
+1999,111,sdn,Sudan,-1.17112
+1999,112,nic,Nicaragua,-1.20188
+1999,113,mdg,Madagascar,-1.25501
+1999,114,tza,Tanzania,-1.27738
+1999,115,cog,Republic of the Congo,-1.32049
+1999,116,mli,Mali,-1.35136
+1999,117,yem,Yemen,-1.3804
+1999,118,civ,Cote d'Ivoire,-1.45145
+1999,119,mwi,Malawi,-1.48748
+1999,120,ago,Angola,-1.49365
+1999,121,uga,Uganda,-1.55437
+1999,122,cmr,Cameroon,-1.64414
+1999,123,png,Papua New Guinea,-1.68189
+1999,124,gin,Guinea,-1.76173
+1999,125,nga,Nigeria,-1.84624
+2000,1,jpn,Japan,2.35193
+2000,2,deu,Germany,2.25528
+2000,3,che,Switzerland,2.12261
+2000,4,swe,Sweden,2.038
+2000,5,gbr,United Kingdom,1.96008
+2000,6,usa,United States,1.94247
+2000,7,fin,Finland,1.88347
+2000,8,aut,Austria,1.68916
+2000,9,fra,France,1.6592
+2000,10,irl,Ireland,1.57258
+2000,11,bel,Belgium,1.57035
+2000,12,dnk,Denmark,1.56246
+2000,13,cze,Czech Republic,1.55234
+2000,14,ita,Italy,1.47886
+2000,15,svk,Slovakia,1.43909
+2000,16,sgp,Singapore,1.39709
+2000,17,svn,Slovenia,1.38839
+2000,18,nld,Netherlands,1.37108
+2000,19,isr,Israel,1.25126
+2000,20,esp,Spain,1.17698
+2000,21,can,Canada,1.11201
+2000,22,kor,South Korea,1.09177
+2000,23,hun,Hungary,1.08822
+2000,24,pol,Poland,1.03185
+2000,25,mex,Mexico,0.869657
+2000,26,nor,Norway,0.858657
+2000,27,rus,Russia,0.828175
+2000,28,ukr,Ukraine,0.734411
+2000,29,bra,Brazil,0.727803
+2000,30,hrv,Croatia,0.692979
+2000,31,mys,Malaysia,0.614031
+2000,32,prt,Portugal,0.609316
+2000,33,blr,Belarus,0.597293
+2000,34,nzl,New Zealand,0.5878
+2000,35,rou,Romania,0.578479
+2000,36,hkg,Hong Kong,0.565384
+2000,37,geo,Georgia,0.561265
+2000,38,bgr,Bulgaria,0.488015
+2000,39,jor,Jordan,0.466712
+2000,40,zaf,South Africa,0.438638
+2000,41,ury,Uruguay,0.363476
+2000,42,grc,Greece,0.352587
+2000,43,est,Estonia,0.346433
+2000,44,arg,Argentina,0.34191
+2000,45,tha,Thailand,0.323835
+2000,46,col,Colombia,0.285601
+2000,47,chn,China,0.26445
+2000,48,sau,Saudi Arabia,0.242398
+2000,49,chl,Chile,0.240556
+2000,50,tur,Turkey,0.212341
+2000,51,bih,Bosnia and Herzegovina,0.19964
+2000,52,mda,Moldova,0.167478
+2000,53,ind,India,0.152905
+2000,54,ltu,Lithuania,0.143605
+2000,55,aus,Australia,0.134223
+2000,56,lva,Latvia,0.100229
+2000,57,ven,Venezuela,0.0836191
+2000,58,tun,Tunisia,0.0161367
+2000,59,kaz,Kazakhstan,0.0138728
+2000,60,lbn,Lebanon,0.0120076
+2000,61,tto,Trinidad and Tobago,-0.0236306
+2000,62,idn,Indonesia,-0.0465448
+2000,63,kgz,Kyrgyzstan,-0.0600967
+2000,64,aze,Azerbaijan,-0.105049
+2000,65,egy,Egypt,-0.14477
+2000,66,phl,Philippines,-0.176072
+2000,67,moz,Mozambique,-0.198316
+2000,68,omn,Oman,-0.208679
+2000,69,alb,Albania,-0.221006
+2000,70,mkd,Macedonia,-0.225418
+2000,71,per,Peru,-0.237957
+2000,72,pan,Panama,-0.242967
+2000,73,are,United Arab Emirates,-0.263693
+2000,74,qat,Qatar,-0.405426
+2000,75,mli,Mali,-0.420333
+2000,76,uzb,Uzbekistan,-0.430372
+2000,77,pry,Paraguay,-0.452485
+2000,78,gab,Gabon,-0.466775
+2000,79,dza,Algeria,-0.516799
+2000,80,zwe,Zimbabwe,-0.531129
+2000,81,tjk,Tajikistan,-0.573249
+2000,82,mar,Morocco,-0.576761
+2000,83,kwt,Kuwait,-0.598712
+2000,84,irn,Iran,-0.599349
+2000,85,lby,Libya,-0.62552
+2000,86,dom,Dominican Republic,-0.661183
+2000,87,cri,Costa Rica,-0.66427
+2000,88,tkm,Turkmenistan,-0.683509
+2000,89,lka,Sri Lanka,-0.686109
+2000,90,vnm,Vietnam,-0.715529
+2000,91,bol,Bolivia,-0.718373
+2000,92,ecu,Ecuador,-0.737469
+2000,93,zmb,Zambia,-0.793353
+2000,94,pak,Pakistan,-0.795822
+2000,95,jam,Jamaica,-0.810932
+2000,96,slv,El Salvador,-0.843924
+2000,97,mng,Mongolia,-0.845786
+2000,98,cub,Cuba,-0.937819
+2000,99,mus,Mauritius,-0.937869
+2000,100,lbr,Liberia,-0.973432
+2000,101,mrt,Mauritania,-0.977348
+2000,102,gtm,Guatemala,-0.985698
+2000,103,ken,Kenya,-0.990059
+2000,104,bgd,Bangladesh,-1.03418
+2000,105,syr,Syria,-1.03894
+2000,106,sen,Senegal,-1.04957
+2000,107,gha,Ghana,-1.0859
+2000,108,eth,Ethiopia,-1.13063
+2000,109,lao,Laos,-1.13154
+2000,110,cog,Republic of the Congo,-1.18153
+2000,111,civ,Cote d'Ivoire,-1.19945
+2000,112,hnd,Honduras,-1.21554
+2000,113,khm,Cambodia,-1.26098
+2000,114,nic,Nicaragua,-1.32059
+2000,115,yem,Yemen,-1.33394
+2000,116,tza,Tanzania,-1.3557
+2000,117,png,Papua New Guinea,-1.36825
+2000,118,sdn,Sudan,-1.39062
+2000,119,mdg,Madagascar,-1.39507
+2000,120,gin,Guinea,-1.39932
+2000,121,nga,Nigeria,-1.40428
+2000,122,uga,Uganda,-1.48686
+2000,123,ago,Angola,-1.56387
+2000,124,cmr,Cameroon,-1.86252
+2000,125,mwi,Malawi,-1.88357
+2001,1,jpn,Japan,2.69553
+2001,2,che,Switzerland,2.1122
+2001,3,deu,Germany,2.09237
+2001,4,swe,Sweden,1.94339
+2001,5,gbr,United Kingdom,1.89816
+2001,6,fin,Finland,1.87205
+2001,7,aut,Austria,1.72783
+2001,8,usa,United States,1.6831
+2001,9,irl,Ireland,1.616
+2001,10,cze,Czech Republic,1.52624
+2001,11,ita,Italy,1.48808
+2001,12,fra,France,1.48646
+2001,13,svn,Slovenia,1.46936
+2001,14,sgp,Singapore,1.43961
+2001,15,kor,South Korea,1.39326
+2001,16,dnk,Denmark,1.31634
+2001,17,svk,Slovakia,1.30369
+2001,18,hkg,Hong Kong,1.24024
+2001,19,bel,Belgium,1.23801
+2001,20,isr,Israel,1.21433
+2001,21,nld,Netherlands,1.1273
+2001,22,mex,Mexico,1.11637
+2001,23,esp,Spain,1.08236
+2001,24,hun,Hungary,1.05959
+2001,25,pol,Poland,1.04016
+2001,26,blr,Belarus,1.02721
+2001,27,mys,Malaysia,0.951609
+2001,28,prt,Portugal,0.815259
+2001,29,hrv,Croatia,0.810087
+2001,30,can,Canada,0.744852
+2001,31,est,Estonia,0.726484
+2001,32,rou,Romania,0.650218
+2001,33,ukr,Ukraine,0.633347
+2001,34,jor,Jordan,0.573668
+2001,35,tha,Thailand,0.562424
+2001,36,chn,China,0.552223
+2001,37,lva,Latvia,0.5477
+2001,38,rus,Russia,0.522692
+2001,39,ltu,Lithuania,0.519029
+2001,40,bra,Brazil,0.51321
+2001,41,bgr,Bulgaria,0.468498
+2001,42,pan,Panama,0.467628
+2001,43,nor,Norway,0.459097
+2001,44,bih,Bosnia and Herzegovina,0.44844
+2001,45,ind,India,0.300856
+2001,46,tun,Tunisia,0.254263
+2001,47,col,Colombia,0.22799
+2001,48,lbn,Lebanon,0.195049
+2001,49,tur,Turkey,0.193288
+2001,50,tto,Trinidad and Tobago,0.182834
+2001,51,grc,Greece,0.154882
+2001,52,nzl,New Zealand,0.121313
+2001,53,sau,Saudi Arabia,0.10337
+2001,54,slv,El Salvador,0.0843264
+2001,55,ury,Uruguay,0.0642599
+2001,56,mkd,Macedonia,0.0593273
+2001,57,idn,Indonesia,0.0445649
+2001,58,zaf,South Africa,0.0444242
+2001,59,arg,Argentina,0.0075085
+2001,60,phl,Philippines,-0.0667033
+2001,61,geo,Georgia,-0.0727987
+2001,62,mda,Moldova,-0.0764835
+2001,63,ven,Venezuela,-0.0843247
+2001,64,chl,Chile,-0.0882959
+2001,65,cri,Costa Rica,-0.110755
+2001,66,gtm,Guatemala,-0.172438
+2001,67,kgz,Kyrgyzstan,-0.178439
+2001,68,mus,Mauritius,-0.255768
+2001,69,alb,Albania,-0.263894
+2001,70,are,United Arab Emirates,-0.267841
+2001,71,aus,Australia,-0.276514
+2001,72,kaz,Kazakhstan,-0.326478
+2001,73,sen,Senegal,-0.367738
+2001,74,lka,Sri Lanka,-0.431375
+2001,75,lbr,Liberia,-0.439633
+2001,76,vnm,Vietnam,-0.458214
+2001,77,per,Peru,-0.47225
+2001,78,mar,Morocco,-0.475226
+2001,79,qat,Qatar,-0.492541
+2001,80,ken,Kenya,-0.50334
+2001,81,egy,Egypt,-0.565762
+2001,82,omn,Oman,-0.579687
+2001,83,pak,Pakistan,-0.58497
+2001,84,uzb,Uzbekistan,-0.595434
+2001,85,mli,Mali,-0.61193
+2001,86,bgd,Bangladesh,-0.632252
+2001,87,nic,Nicaragua,-0.637858
+2001,88,khm,Cambodia,-0.651227
+2001,89,jam,Jamaica,-0.684027
+2001,90,tjk,Tajikistan,-0.692811
+2001,91,bol,Bolivia,-0.694987
+2001,92,lao,Laos,-0.750233
+2001,93,civ,Cote d'Ivoire,-0.751084
+2001,94,kwt,Kuwait,-0.760536
+2001,95,hnd,Honduras,-0.790927
+2001,96,mng,Mongolia,-0.799226
+2001,97,aze,Azerbaijan,-0.823089
+2001,98,pry,Paraguay,-0.857862
+2001,99,gha,Ghana,-0.895186
+2001,100,cub,Cuba,-0.917511
+2001,101,mdg,Madagascar,-0.922946
+2001,102,dom,Dominican Republic,-0.931224
+2001,103,ecu,Ecuador,-0.955948
+2001,104,dza,Algeria,-0.977625
+2001,105,moz,Mozambique,-1.03166
+2001,106,syr,Syria,-1.03328
+2001,107,zmb,Zambia,-1.07133
+2001,108,gin,Guinea,-1.09238
+2001,109,irn,Iran,-1.1024
+2001,110,zwe,Zimbabwe,-1.10523
+2001,111,png,Papua New Guinea,-1.16616
+2001,112,lby,Libya,-1.18215
+2001,113,mwi,Malawi,-1.20178
+2001,114,mrt,Mauritania,-1.21989
+2001,115,uga,Uganda,-1.23639
+2001,116,eth,Ethiopia,-1.24489
+2001,117,tkm,Turkmenistan,-1.24864
+2001,118,yem,Yemen,-1.29711
+2001,119,tza,Tanzania,-1.36937
+2001,120,cog,Republic of the Congo,-1.45165
+2001,121,cmr,Cameroon,-1.55093
+2001,122,gab,Gabon,-1.62481
+2001,123,sdn,Sudan,-1.8686
+2001,124,ago,Angola,-2.03903
+2001,125,nga,Nigeria,-2.13092
+2002,1,jpn,Japan,2.63764
+2002,2,deu,Germany,2.15217
+2002,3,che,Switzerland,2.05461
+2002,4,swe,Sweden,1.98691
+2002,5,fin,Finland,1.8937
+2002,6,gbr,United Kingdom,1.79361
+2002,7,aut,Austria,1.78976
+2002,8,usa,United States,1.65071
+2002,9,cze,Czech Republic,1.61843
+2002,10,irl,Ireland,1.60851
+2002,11,fra,France,1.5488
+2002,12,sgp,Singapore,1.51814
+2002,13,svn,Slovenia,1.47138
+2002,14,kor,South Korea,1.45812
+2002,15,ita,Italy,1.44831
+2002,16,svk,Slovakia,1.32079
+2002,17,dnk,Denmark,1.31846
+2002,18,hun,Hungary,1.19581
+2002,19,hkg,Hong Kong,1.18943
+2002,20,bel,Belgium,1.18184
+2002,21,blr,Belarus,1.16899
+2002,22,isr,Israel,1.16049
+2002,23,mex,Mexico,1.09036
+2002,24,nld,Netherlands,1.08529
+2002,25,esp,Spain,1.04987
+2002,26,pol,Poland,1.03651
+2002,27,mys,Malaysia,1.00246
+2002,28,hrv,Croatia,0.962526
+2002,29,est,Estonia,0.856224
+2002,30,can,Canada,0.769898
+2002,31,prt,Portugal,0.734011
+2002,32,lva,Latvia,0.718831
+2002,33,rus,Russia,0.718598
+2002,34,chn,China,0.663797
+2002,35,ukr,Ukraine,0.647028
+2002,36,rou,Romania,0.640986
+2002,37,tha,Thailand,0.567655
+2002,38,jor,Jordan,0.527427
+2002,39,nor,Norway,0.519007
+2002,40,ltu,Lithuania,0.490175
+2002,41,bgr,Bulgaria,0.47551
+2002,42,bih,Bosnia and Herzegovina,0.455746
+2002,43,bra,Brazil,0.425962
+2002,44,nzl,New Zealand,0.297404
+2002,45,lbn,Lebanon,0.253756
+2002,46,grc,Greece,0.245548
+2002,47,ind,India,0.235124
+2002,48,sau,Saudi Arabia,0.167896
+2002,49,col,Colombia,0.165183
+2002,50,tun,Tunisia,0.135835
+2002,51,tur,Turkey,0.0974245
+2002,52,geo,Georgia,0.0629226
+2002,53,zaf,South Africa,0.0527204
+2002,54,idn,Indonesia,0.0184796
+2002,55,cri,Costa Rica,0.0061437
+2002,56,slv,El Salvador,-0.0182467
+2002,57,arg,Argentina,-0.0291209
+2002,58,ven,Venezuela,-0.0428146
+2002,59,mda,Moldova,-0.0531524
+2002,60,mkd,Macedonia,-0.0705683
+2002,61,phl,Philippines,-0.117545
+2002,62,chl,Chile,-0.16587
+2002,63,tto,Trinidad and Tobago,-0.184703
+2002,64,ury,Uruguay,-0.221733
+2002,65,alb,Albania,-0.249554
+2002,66,are,United Arab Emirates,-0.259795
+2002,67,pan,Panama,-0.263196
+2002,68,dom,Dominican Republic,-0.266667
+2002,69,aus,Australia,-0.278447
+2002,70,mus,Mauritius,-0.283396
+2002,71,gtm,Guatemala,-0.28457
+2002,72,khm,Cambodia,-0.289195
+2002,73,sen,Senegal,-0.307998
+2002,74,zwe,Zimbabwe,-0.329109
+2002,75,nic,Nicaragua,-0.366351
+2002,76,mar,Morocco,-0.369812
+2002,77,kgz,Kyrgyzstan,-0.389203
+2002,78,lka,Sri Lanka,-0.396226
+2002,79,kaz,Kazakhstan,-0.396651
+2002,80,ken,Kenya,-0.425889
+2002,81,vnm,Vietnam,-0.444753
+2002,82,jam,Jamaica,-0.505353
+2002,83,egy,Egypt,-0.514916
+2002,84,lbr,Liberia,-0.525421
+2002,85,hnd,Honduras,-0.565022
+2002,86,per,Peru,-0.610715
+2002,87,pak,Pakistan,-0.663492
+2002,88,aze,Azerbaijan,-0.668349
+2002,89,kwt,Kuwait,-0.69874
+2002,90,moz,Mozambique,-0.767183
+2002,91,uzb,Uzbekistan,-0.801825
+2002,92,dza,Algeria,-0.822845
+2002,93,bgd,Bangladesh,-0.840535
+2002,94,bol,Bolivia,-0.841112
+2002,95,zmb,Zambia,-0.844522
+2002,96,qat,Qatar,-0.85105
+2002,97,civ,Cote d'Ivoire,-0.853307
+2002,98,mng,Mongolia,-0.870147
+2002,99,pry,Paraguay,-0.874559
+2002,100,cub,Cuba,-0.912247
+2002,101,mli,Mali,-0.913633
+2002,102,omn,Oman,-0.92934
+2002,103,mrt,Mauritania,-0.967412
+2002,104,lao,Laos,-0.973495
+2002,105,lby,Libya,-0.988361
+2002,106,mdg,Madagascar,-1.00638
+2002,107,tjk,Tajikistan,-1.02781
+2002,108,irn,Iran,-1.03813
+2002,109,syr,Syria,-1.04471
+2002,110,ecu,Ecuador,-1.0689
+2002,111,uga,Uganda,-1.25025
+2002,112,tkm,Turkmenistan,-1.25602
+2002,113,gha,Ghana,-1.30126
+2002,114,cmr,Cameroon,-1.31694
+2002,115,yem,Yemen,-1.34184
+2002,116,nga,Nigeria,-1.36026
+2002,117,gab,Gabon,-1.41511
+2002,118,sdn,Sudan,-1.43191
+2002,119,png,Papua New Guinea,-1.44203
+2002,120,tza,Tanzania,-1.44608
+2002,121,gin,Guinea,-1.48464
+2002,122,mwi,Malawi,-1.49496
+2002,123,eth,Ethiopia,-1.58331
+2002,124,cog,Republic of the Congo,-1.73876
+2002,125,ago,Angola,-1.98549
+2003,1,jpn,Japan,2.66402
+2003,2,che,Switzerland,2.26374
+2003,3,deu,Germany,2.22438
+2003,4,swe,Sweden,2.08744
+2003,5,fin,Finland,1.88836
+2003,6,aut,Austria,1.88805
+2003,7,gbr,United Kingdom,1.83193
+2003,8,usa,United States,1.67863
+2003,9,cze,Czech Republic,1.63907
+2003,10,sgp,Singapore,1.61648
+2003,11,svn,Slovenia,1.57251
+2003,12,fra,France,1.5434
+2003,13,ita,Italy,1.50504
+2003,14,kor,South Korea,1.50253
+2003,15,irl,Ireland,1.49611
+2003,16,dnk,Denmark,1.33507
+2003,17,svk,Slovakia,1.32694
+2003,18,isr,Israel,1.26469
+2003,19,hun,Hungary,1.23719
+2003,20,bel,Belgium,1.16731
+2003,21,blr,Belarus,1.11731
+2003,22,nld,Netherlands,1.11259
+2003,23,mex,Mexico,1.11229
+2003,24,esp,Spain,0.958014
+2003,25,mys,Malaysia,0.952954
+2003,26,pol,Poland,0.938386
+2003,27,hkg,Hong Kong,0.889905
+2003,28,can,Canada,0.809698
+2003,29,ukr,Ukraine,0.807911
+2003,30,hrv,Croatia,0.776828
+2003,31,prt,Portugal,0.727634
+2003,32,lva,Latvia,0.711119
+2003,33,rus,Russia,0.699684
+2003,34,est,Estonia,0.68101
+2003,35,chn,China,0.578877
+2003,36,tha,Thailand,0.565745
+2003,37,rou,Romania,0.553908
+2003,38,bih,Bosnia and Herzegovina,0.528157
+2003,39,pan,Panama,0.519131
+2003,40,nor,Norway,0.493399
+2003,41,ltu,Lithuania,0.453261
+2003,42,bgr,Bulgaria,0.452789
+2003,43,bra,Brazil,0.402049
+2003,44,ind,India,0.254858
+2003,45,nzl,New Zealand,0.228062
+2003,46,grc,Greece,0.204318
+2003,47,zaf,South Africa,0.158166
+2003,48,tur,Turkey,0.110739
+2003,49,lbn,Lebanon,0.0600675
+2003,50,cri,Costa Rica,0.0585324
+2003,51,idn,Indonesia,0.0062909
+2003,52,slv,El Salvador,-0.0184345
+2003,53,mda,Moldova,-0.0425166
+2003,54,col,Colombia,-0.0479319
+2003,55,jor,Jordan,-0.0575138
+2003,56,geo,Georgia,-0.0581443
+2003,57,tun,Tunisia,-0.0585137
+2003,58,nam,Namibia,-0.0715201
+2003,59,gtm,Guatemala,-0.0873807
+2003,60,alb,Albania,-0.109943
+2003,61,arg,Argentina,-0.12944
+2003,62,bwa,Botswana,-0.130675
+2003,63,lbr,Liberia,-0.143355
+2003,64,ury,Uruguay,-0.148124
+2003,65,mkd,Macedonia,-0.148515
+2003,66,phl,Philippines,-0.152521
+2003,67,sau,Saudi Arabia,-0.157952
+2003,68,are,United Arab Emirates,-0.185471
+2003,69,tto,Trinidad and Tobago,-0.193974
+2003,70,mus,Mauritius,-0.22571
+2003,71,dom,Dominican Republic,-0.245899
+2003,72,chl,Chile,-0.258509
+2003,73,aus,Australia,-0.259433
+2003,74,ven,Venezuela,-0.267535
+2003,75,gab,Gabon,-0.297754
+2003,76,sen,Senegal,-0.299451
+2003,77,ken,Kenya,-0.335754
+2003,78,kaz,Kazakhstan,-0.381545
+2003,79,hnd,Honduras,-0.398532
+2003,80,zwe,Zimbabwe,-0.422316
+2003,81,vnm,Vietnam,-0.426583
+2003,82,egy,Egypt,-0.428912
+2003,83,kgz,Kyrgyzstan,-0.465055
+2003,84,lka,Sri Lanka,-0.488909
+2003,85,jam,Jamaica,-0.518225
+2003,86,mar,Morocco,-0.544348
+2003,87,khm,Cambodia,-0.626131
+2003,88,moz,Mozambique,-0.641632
+2003,89,bol,Bolivia,-0.644975
+2003,90,mrt,Mauritania,-0.665757
+2003,91,qat,Qatar,-0.683828
+2003,92,nic,Nicaragua,-0.690445
+2003,93,uzb,Uzbekistan,-0.723977
+2003,94,per,Peru,-0.72728
+2003,95,kwt,Kuwait,-0.7298
+2003,96,civ,Cote d'Ivoire,-0.75514
+2003,97,cub,Cuba,-0.767991
+2003,98,pak,Pakistan,-0.785259
+2003,99,cmr,Cameroon,-0.804063
+2003,100,ecu,Ecuador,-0.822737
+2003,101,aze,Azerbaijan,-0.822998
+2003,102,pry,Paraguay,-0.922501
+2003,103,tjk,Tajikistan,-0.92478
+2003,104,lby,Libya,-0.932048
+2003,105,bgd,Bangladesh,-0.935693
+2003,106,syr,Syria,-0.97292
+2003,107,mng,Mongolia,-0.97551
+2003,108,mdg,Madagascar,-0.979395
+2003,109,irn,Iran,-0.986122
+2003,110,uga,Uganda,-0.994445
+2003,111,omn,Oman,-1.02766
+2003,112,lao,Laos,-1.07374
+2003,113,zmb,Zambia,-1.10345
+2003,114,gha,Ghana,-1.10797
+2003,115,png,Papua New Guinea,-1.23688
+2003,116,eth,Ethiopia,-1.33075
+2003,117,tza,Tanzania,-1.38446
+2003,118,tkm,Turkmenistan,-1.38647
+2003,119,dza,Algeria,-1.43747
+2003,120,sdn,Sudan,-1.4688
+2003,121,nga,Nigeria,-1.48657
+2003,122,mwi,Malawi,-1.51448
+2003,123,cog,Republic of the Congo,-1.56769
+2003,124,mli,Mali,-1.59249
+2003,125,ago,Angola,-1.66608
+2003,126,gin,Guinea,-1.76507
+2003,127,yem,Yemen,-1.78474
+2004,1,jpn,Japan,2.71882
+2004,2,deu,Germany,2.24756
+2004,3,che,Switzerland,2.24244
+2004,4,swe,Sweden,2.07528
+2004,5,fin,Finland,1.9782
+2004,6,aut,Austria,1.89347
+2004,7,sgp,Singapore,1.86034
+2004,8,gbr,United Kingdom,1.73916
+2004,9,kor,South Korea,1.63294
+2004,9,svn,Slovenia,1.63294
+2004,11,usa,United States,1.61457
+2004,12,cze,Czech Republic,1.58204
+2004,13,ita,Italy,1.4467
+2004,14,irl,Ireland,1.41759
+2004,15,fra,France,1.37623
+2004,16,hun,Hungary,1.31609
+2004,17,dnk,Denmark,1.2425
+2004,18,isr,Israel,1.22644
+2004,19,svk,Slovakia,1.1916
+2004,20,mex,Mexico,1.10546
+2004,21,bel,Belgium,1.09913
+2004,22,blr,Belarus,1.05024
+2004,23,mys,Malaysia,1.03026
+2004,24,nld,Netherlands,0.971682
+2004,25,hkg,Hong Kong,0.964734
+2004,26,pol,Poland,0.946251
+2004,27,esp,Spain,0.928301
+2004,28,hrv,Croatia,0.835264
+2004,29,prt,Portugal,0.709719
+2004,30,est,Estonia,0.709176
+2004,31,can,Canada,0.705361
+2004,32,chn,China,0.703504
+2004,33,bih,Bosnia and Herzegovina,0.678505
+2004,34,tha,Thailand,0.674961
+2004,35,rou,Romania,0.644029
+2004,36,lva,Latvia,0.62642
+2004,37,rus,Russia,0.591904
+2004,38,ukr,Ukraine,0.579003
+2004,39,ltu,Lithuania,0.457464
+2004,40,nor,Norway,0.456881
+2004,41,pan,Panama,0.439694
+2004,42,bgr,Bulgaria,0.382056
+2004,43,bra,Brazil,0.308295
+2004,44,tur,Turkey,0.216734
+2004,45,nzl,New Zealand,0.213541
+2004,46,cri,Costa Rica,0.209144
+2004,47,grc,Greece,0.205379
+2004,48,zaf,South Africa,0.150573
+2004,49,phl,Philippines,0.115083
+2004,50,jor,Jordan,0.11441
+2004,51,ind,India,0.106058
+2004,52,lbn,Lebanon,0.102694
+2004,53,tun,Tunisia,0.043543
+2004,54,geo,Georgia,0.0098037
+2004,55,sau,Saudi Arabia,0.0097926
+2004,56,slv,El Salvador,0.0093951
+2004,57,mda,Moldova,0.004661
+2004,58,col,Colombia,-0.0146475
+2004,59,gtm,Guatemala,-0.0181473
+2004,60,mus,Mauritius,-0.0671847
+2004,61,idn,Indonesia,-0.0799561
+2004,62,mkd,Macedonia,-0.117334
+2004,63,kwt,Kuwait,-0.117414
+2004,64,qat,Qatar,-0.130224
+2004,65,tto,Trinidad and Tobago,-0.152211
+2004,66,arg,Argentina,-0.156799
+2004,67,ven,Venezuela,-0.171678
+2004,68,ury,Uruguay,-0.183675
+2004,69,cub,Cuba,-0.221785
+2004,70,lbr,Liberia,-0.251322
+2004,71,chl,Chile,-0.274654
+2004,72,jam,Jamaica,-0.303337
+2004,73,dom,Dominican Republic,-0.309481
+2004,74,alb,Albania,-0.320404
+2004,75,aus,Australia,-0.338425
+2004,76,omn,Oman,-0.364047
+2004,77,vnm,Vietnam,-0.386696
+2004,78,are,United Arab Emirates,-0.399928
+2004,79,sen,Senegal,-0.405088
+2004,80,hnd,Honduras,-0.415811
+2004,81,mar,Morocco,-0.449624
+2004,82,ken,Kenya,-0.450749
+2004,83,lka,Sri Lanka,-0.487102
+2004,84,kgz,Kyrgyzstan,-0.512301
+2004,85,nam,Namibia,-0.514811
+2004,86,egy,Egypt,-0.518476
+2004,87,kaz,Kazakhstan,-0.523786
+2004,88,zwe,Zimbabwe,-0.55522
+2004,89,uzb,Uzbekistan,-0.661449
+2004,90,per,Peru,-0.673326
+2004,91,zmb,Zambia,-0.71728
+2004,92,pry,Paraguay,-0.746405
+2004,93,gab,Gabon,-0.783943
+2004,94,syr,Syria,-0.784555
+2004,95,bwa,Botswana,-0.814513
+2004,96,nic,Nicaragua,-0.817766
+2004,97,pak,Pakistan,-0.830145
+2004,98,bol,Bolivia,-0.834512
+2004,99,khm,Cambodia,-0.853889
+2004,100,civ,Cote d'Ivoire,-0.855796
+2004,101,mdg,Madagascar,-0.871207
+2004,102,gin,Guinea,-0.891688
+2004,103,gha,Ghana,-0.898133
+2004,104,aze,Azerbaijan,-0.924738
+2004,105,tjk,Tajikistan,-0.942749
+2004,106,uga,Uganda,-0.944978
+2004,107,ago,Angola,-0.952397
+2004,108,mli,Mali,-0.970589
+2004,109,ecu,Ecuador,-0.972155
+2004,110,irn,Iran,-1.0142
+2004,111,lao,Laos,-1.03709
+2004,112,bgd,Bangladesh,-1.05315
+2004,113,moz,Mozambique,-1.06651
+2004,114,mng,Mongolia,-1.0904
+2004,115,tza,Tanzania,-1.14682
+2004,116,tkm,Turkmenistan,-1.23075
+2004,117,dza,Algeria,-1.23387
+2004,118,lby,Libya,-1.25284
+2004,119,mwi,Malawi,-1.35896
+2004,120,cmr,Cameroon,-1.41247
+2004,121,eth,Ethiopia,-1.42733
+2004,122,png,Papua New Guinea,-1.45785
+2004,123,cog,Republic of the Congo,-1.45815
+2004,124,yem,Yemen,-1.47
+2004,125,mrt,Mauritania,-1.77771
+2004,126,sdn,Sudan,-1.81195
+2004,127,nga,Nigeria,-2.28943
+2005,1,jpn,Japan,2.58229
+2005,2,deu,Germany,2.13201
+2005,3,che,Switzerland,2.1282
+2005,4,swe,Sweden,2.02871
+2005,5,fin,Finland,1.91958
+2005,6,aut,Austria,1.91666
+2005,7,gbr,United Kingdom,1.70844
+2005,8,kor,South Korea,1.66417
+2005,9,cze,Czech Republic,1.63837
+2005,10,sgp,Singapore,1.63234
+2005,11,svn,Slovenia,1.62642
+2005,12,usa,United States,1.58606
+2005,13,fra,France,1.47854
+2005,14,irl,Ireland,1.4449
+2005,15,ita,Italy,1.41298
+2005,16,hun,Hungary,1.31278
+2005,17,svk,Slovakia,1.30696
+2005,18,dnk,Denmark,1.27804
+2005,19,bel,Belgium,1.17112
+2005,20,mex,Mexico,1.167
+2005,21,blr,Belarus,1.05647
+2005,22,nld,Netherlands,1.05175
+2005,23,isr,Israel,1.02193
+2005,24,pol,Poland,0.966865
+2005,25,esp,Spain,0.929307
+2005,26,mys,Malaysia,0.905804
+2005,27,can,Canada,0.868196
+2005,28,hkg,Hong Kong,0.849863
+2005,29,hrv,Croatia,0.835547
+2005,30,est,Estonia,0.834483
+2005,31,nor,Norway,0.786443
+2005,32,ltu,Lithuania,0.682985
+2005,33,lva,Latvia,0.6768
+2005,34,chn,China,0.675947
+2005,35,rou,Romania,0.658558
+2005,36,tha,Thailand,0.62603
+2005,37,rus,Russia,0.622396
+2005,38,prt,Portugal,0.592206
+2005,39,ukr,Ukraine,0.573944
+2005,40,bih,Bosnia and Herzegovina,0.493908
+2005,41,bra,Brazil,0.468859
+2005,42,pan,Panama,0.45388
+2005,43,bgr,Bulgaria,0.31953
+2005,44,lbn,Lebanon,0.2867
+2005,45,nzl,New Zealand,0.274211
+2005,46,tur,Turkey,0.261651
+2005,47,cri,Costa Rica,0.212748
+2005,48,grc,Greece,0.157571
+2005,49,jor,Jordan,0.14718
+2005,50,ind,India,0.128285
+2005,51,zaf,South Africa,0.127803
+2005,52,phl,Philippines,0.0800698
+2005,53,sau,Saudi Arabia,0.074287
+2005,54,arg,Argentina,0.0431832
+2005,55,col,Colombia,0.0016483
+2005,56,ven,Venezuela,-0.0050171
+2005,57,mda,Moldova,-0.0088689
+2005,58,tun,Tunisia,-0.0138399
+2005,59,cub,Cuba,-0.0332375
+2005,60,ury,Uruguay,-0.0374541
+2005,61,idn,Indonesia,-0.0678491
+2005,62,geo,Georgia,-0.0846956
+2005,63,slv,El Salvador,-0.103219
+2005,64,tto,Trinidad and Tobago,-0.133147
+2005,65,mkd,Macedonia,-0.17947
+2005,66,gtm,Guatemala,-0.210492
+2005,67,chl,Chile,-0.219227
+2005,68,mus,Mauritius,-0.224367
+2005,69,hnd,Honduras,-0.231615
+2005,70,aus,Australia,-0.254687
+2005,71,are,United Arab Emirates,-0.256694
+2005,72,omn,Oman,-0.263843
+2005,73,kwt,Kuwait,-0.285177
+2005,74,sen,Senegal,-0.304624
+2005,75,egy,Egypt,-0.307626
+2005,76,alb,Albania,-0.318308
+2005,77,dom,Dominican Republic,-0.348407
+2005,78,jam,Jamaica,-0.362442
+2005,79,kaz,Kazakhstan,-0.379831
+2005,80,ken,Kenya,-0.415762
+2005,81,nam,Namibia,-0.426475
+2005,82,mar,Morocco,-0.432609
+2005,83,vnm,Vietnam,-0.472767
+2005,84,lbr,Liberia,-0.482406
+2005,85,lka,Sri Lanka,-0.496702
+2005,86,per,Peru,-0.566789
+2005,87,kgz,Kyrgyzstan,-0.613162
+2005,88,qat,Qatar,-0.657989
+2005,89,syr,Syria,-0.671552
+2005,90,pry,Paraguay,-0.677476
+2005,91,pak,Pakistan,-0.678319
+2005,92,uzb,Uzbekistan,-0.695818
+2005,93,zwe,Zimbabwe,-0.704522
+2005,94,tjk,Tajikistan,-0.719973
+2005,95,nic,Nicaragua,-0.723507
+2005,96,irn,Iran,-0.738456
+2005,97,mdg,Madagascar,-0.792138
+2005,98,mng,Mongolia,-0.802037
+2005,99,uga,Uganda,-0.8054
+2005,100,ecu,Ecuador,-0.834114
+2005,101,civ,Cote d'Ivoire,-0.864092
+2005,102,bwa,Botswana,-0.871682
+2005,103,gha,Ghana,-0.891601
+2005,104,lby,Libya,-0.9447
+2005,105,lao,Laos,-0.968816
+2005,106,aze,Azerbaijan,-0.971125
+2005,107,gab,Gabon,-0.971737
+2005,108,zmb,Zambia,-0.98008
+2005,109,bol,Bolivia,-0.987831
+2005,110,bgd,Bangladesh,-1.01912
+2005,111,yem,Yemen,-1.14422
+2005,112,eth,Ethiopia,-1.18377
+2005,113,tkm,Turkmenistan,-1.18789
+2005,114,mli,Mali,-1.2152
+2005,115,moz,Mozambique,-1.23538
+2005,116,tza,Tanzania,-1.25114
+2005,117,cmr,Cameroon,-1.28226
+2005,118,mwi,Malawi,-1.30114
+2005,119,khm,Cambodia,-1.3176
+2005,120,mrt,Mauritania,-1.38939
+2005,121,dza,Algeria,-1.40866
+2005,122,gin,Guinea,-1.41659
+2005,123,sdn,Sudan,-1.45605
+2005,124,cog,Republic of the Congo,-1.49279
+2005,125,png,Papua New Guinea,-1.78967
+2005,126,ago,Angola,-1.92831
+2005,127,nga,Nigeria,-2.36965
+2006,1,jpn,Japan,2.51793
+2006,2,deu,Germany,2.15098
+2006,3,che,Switzerland,2.09767
+2006,4,swe,Sweden,1.96475
+2006,5,aut,Austria,1.8761
+2006,6,fin,Finland,1.87038
+2006,7,gbr,United Kingdom,1.86746
+2006,8,cze,Czech Republic,1.65191
+2006,9,kor,South Korea,1.63866
+2006,10,sgp,Singapore,1.60513
+2006,11,svn,Slovenia,1.58344
+2006,12,usa,United States,1.5228
+2006,13,hun,Hungary,1.46558
+2006,14,irl,Ireland,1.43707
+2006,15,fra,France,1.41387
+2006,16,ita,Italy,1.37663
+2006,17,svk,Slovakia,1.35213
+2006,18,dnk,Denmark,1.20214
+2006,19,bel,Belgium,1.16198
+2006,20,mex,Mexico,1.14522
+2006,21,isr,Israel,1.08307
+2006,22,pol,Poland,1.06149
+2006,23,nld,Netherlands,1.04582
+2006,24,blr,Belarus,1.01601
+2006,25,hrv,Croatia,0.952345
+2006,26,esp,Spain,0.915851
+2006,27,hkg,Hong Kong,0.905851
+2006,28,mys,Malaysia,0.887117
+2006,29,chn,China,0.815736
+2006,30,nor,Norway,0.801761
+2006,31,est,Estonia,0.767365
+2006,32,can,Canada,0.74579
+2006,33,rou,Romania,0.701114
+2006,34,tha,Thailand,0.693132
+2006,35,pan,Panama,0.663385
+2006,36,rus,Russia,0.640153
+2006,37,ltu,Lithuania,0.638888
+2006,38,prt,Portugal,0.630455
+2006,39,ukr,Ukraine,0.556052
+2006,40,lva,Latvia,0.552176
+2006,41,bih,Bosnia and Herzegovina,0.505091
+2006,42,bra,Brazil,0.435556
+2006,43,bgr,Bulgaria,0.426491
+2006,44,cub,Cuba,0.360038
+2006,45,lbn,Lebanon,0.240166
+2006,46,tur,Turkey,0.207597
+2006,47,nzl,New Zealand,0.19554
+2006,48,cri,Costa Rica,0.183984
+2006,49,ind,India,0.171696
+2006,50,phl,Philippines,0.155371
+2006,51,tun,Tunisia,0.120845
+2006,52,grc,Greece,0.119851
+2006,53,zaf,South Africa,0.104621
+2006,54,jor,Jordan,0.0851423
+2006,55,sau,Saudi Arabia,0.0784348
+2006,56,qat,Qatar,0.0549884
+2006,57,geo,Georgia,0.0438916
+2006,58,col,Colombia,0.0426336
+2006,59,gtm,Guatemala,0.004446
+2006,60,idn,Indonesia,-0.0387985
+2006,61,mda,Moldova,-0.0616527
+2006,62,ury,Uruguay,-0.0823001
+2006,63,arg,Argentina,-0.0939059
+2006,64,slv,El Salvador,-0.133418
+2006,65,chl,Chile,-0.186316
+2006,66,mkd,Macedonia,-0.201787
+2006,67,hnd,Honduras,-0.232589
+2006,68,tto,Trinidad and Tobago,-0.234286
+2006,69,vnm,Vietnam,-0.255178
+2006,70,mus,Mauritius,-0.278108
+2006,71,zwe,Zimbabwe,-0.308589
+2006,72,jam,Jamaica,-0.326299
+2006,73,ken,Kenya,-0.327282
+2006,74,egy,Egypt,-0.348888
+2006,75,kgz,Kyrgyzstan,-0.350795
+2006,76,aus,Australia,-0.370894
+2006,77,are,United Arab Emirates,-0.381546
+2006,78,dom,Dominican Republic,-0.395752
+2006,79,lka,Sri Lanka,-0.410209
+2006,80,kwt,Kuwait,-0.422257
+2006,81,mar,Morocco,-0.427558
+2006,82,ven,Venezuela,-0.438732
+2006,83,kaz,Kazakhstan,-0.451512
+2006,84,sen,Senegal,-0.480346
+2006,85,nam,Namibia,-0.490476
+2006,86,alb,Albania,-0.49914
+2006,87,syr,Syria,-0.499813
+2006,88,omn,Oman,-0.500024
+2006,89,per,Peru,-0.629093
+2006,90,irn,Iran,-0.629464
+2006,91,pak,Pakistan,-0.676389
+2006,92,uzb,Uzbekistan,-0.68671
+2006,93,pry,Paraguay,-0.722441
+2006,94,ecu,Ecuador,-0.733946
+2006,95,mdg,Madagascar,-0.749257
+2006,96,aze,Azerbaijan,-0.799364
+2006,97,uga,Uganda,-0.875475
+2006,98,bgd,Bangladesh,-0.89449
+2006,99,mwi,Malawi,-0.900955
+2006,100,civ,Cote d'Ivoire,-0.922128
+2006,101,lby,Libya,-0.924508
+2006,102,lao,Laos,-0.943975
+2006,103,nic,Nicaragua,-0.954677
+2006,104,bol,Bolivia,-0.962638
+2006,105,gha,Ghana,-0.987386
+2006,106,yem,Yemen,-1.00233
+2006,107,zmb,Zambia,-1.05587
+2006,108,bwa,Botswana,-1.06972
+2006,109,lbr,Liberia,-1.08749
+2006,110,tza,Tanzania,-1.10054
+2006,111,moz,Mozambique,-1.10315
+2006,112,khm,Cambodia,-1.1156
+2006,113,mng,Mongolia,-1.12333
+2006,114,tjk,Tajikistan,-1.13839
+2006,115,gab,Gabon,-1.19
+2006,116,eth,Ethiopia,-1.23126
+2006,117,mli,Mali,-1.23768
+2006,118,dza,Algeria,-1.24843
+2006,119,tkm,Turkmenistan,-1.30917
+2006,120,cmr,Cameroon,-1.46478
+2006,121,gin,Guinea,-1.50223
+2006,122,nga,Nigeria,-1.54329
+2006,123,cog,Republic of the Congo,-1.64429
+2006,124,png,Papua New Guinea,-1.68906
+2006,125,mrt,Mauritania,-1.72149
+2006,126,ago,Angola,-1.79006
+2006,127,sdn,Sudan,-1.92228
+2007,1,jpn,Japan,2.33879
+2007,2,deu,Germany,2.05189
+2007,3,che,Switzerland,1.98159
+2007,4,fin,Finland,1.96379
+2007,5,swe,Sweden,1.94439
+2007,6,aut,Austria,1.85319
+2007,7,cze,Czech Republic,1.64929
+2007,8,gbr,United Kingdom,1.63979
+2007,9,svn,Slovenia,1.53209
+2007,10,hun,Hungary,1.495
+2007,11,kor,South Korea,1.4932
+2007,12,usa,United States,1.4278
+2007,13,fra,France,1.4051
+2007,14,ita,Italy,1.382
+2007,15,sgp,Singapore,1.3602
+2007,16,svk,Slovakia,1.3022
+2007,17,dnk,Denmark,1.2141
+2007,18,irl,Ireland,1.1793
+2007,19,bel,Belgium,1.1726
+2007,20,blr,Belarus,1.1241
+2007,21,isr,Israel,1.1191
+2007,22,pol,Poland,1.0938
+2007,23,mex,Mexico,1.063
+2007,24,nld,Netherlands,1.033
+2007,25,esp,Spain,0.991027
+2007,26,hrv,Croatia,0.933807
+2007,27,rou,Romania,0.904527
+2007,28,est,Estonia,0.850357
+2007,29,hkg,Hong Kong,0.838057
+2007,30,chn,China,0.791568
+2007,31,ltu,Lithuania,0.760978
+2007,32,nor,Norway,0.760728
+2007,33,prt,Portugal,0.709888
+2007,34,tha,Thailand,0.708738
+2007,35,srb,Serbia,0.680758
+2007,36,mys,Malaysia,0.656868
+2007,37,can,Canada,0.639908
+2007,38,lva,Latvia,0.639798
+2007,39,bih,Bosnia and Herzegovina,0.639118
+2007,40,ukr,Ukraine,0.616758
+2007,41,bgr,Bulgaria,0.566168
+2007,42,pan,Panama,0.565018
+2007,43,bra,Brazil,0.522518
+2007,44,rus,Russia,0.482498
+2007,45,lbn,Lebanon,0.436888
+2007,46,tur,Turkey,0.366959
+2007,47,nzl,New Zealand,0.363439
+2007,48,mda,Moldova,0.313449
+2007,49,tun,Tunisia,0.283629
+2007,50,grc,Greece,0.242029
+2007,51,jor,Jordan,0.200849
+2007,52,cri,Costa Rica,0.200439
+2007,53,ind,India,0.173629
+2007,54,zaf,South Africa,0.135499
+2007,55,col,Colombia,0.123749
+2007,56,arg,Argentina,0.0406665
+2007,57,ury,Uruguay,0.0165806
+2007,58,mkd,Macedonia,0.0007519
+2007,59,phl,Philippines,0.0004219
+2007,60,dom,Dominican Republic,-0.0801741
+2007,61,tto,Trinidad and Tobago,-0.0898931
+2007,62,idn,Indonesia,-0.0968101
+2007,63,slv,El Salvador,-0.10363
+2007,64,kgz,Kyrgyzstan,-0.10781
+2007,65,gtm,Guatemala,-0.12565
+2007,66,kwt,Kuwait,-0.16193
+2007,67,chl,Chile,-0.17698
+2007,68,qat,Qatar,-0.20686
+2007,69,geo,Georgia,-0.22939
+2007,70,aus,Australia,-0.25423
+2007,71,alb,Albania,-0.286469
+2007,72,hnd,Honduras,-0.29232
+2007,73,mar,Morocco,-0.305829
+2007,74,vnm,Vietnam,-0.31273
+2007,75,are,United Arab Emirates,-0.330549
+2007,76,syr,Syria,-0.344579
+2007,77,lka,Sri Lanka,-0.349769
+2007,78,mus,Mauritius,-0.361039
+2007,79,sau,Saudi Arabia,-0.368159
+2007,80,sen,Senegal,-0.373349
+2007,81,egy,Egypt,-0.421899
+2007,82,omn,Oman,-0.436559
+2007,83,zwe,Zimbabwe,-0.437729
+2007,84,uzb,Uzbekistan,-0.451459
+2007,85,ken,Kenya,-0.497309
+2007,86,kaz,Kazakhstan,-0.520409
+2007,87,pry,Paraguay,-0.538199
+2007,88,nam,Namibia,-0.545939
+2007,89,per,Peru,-0.565059
+2007,90,cub,Cuba,-0.575049
+2007,91,zmb,Zambia,-0.579629
+2007,92,jam,Jamaica,-0.583829
+2007,93,pak,Pakistan,-0.651098
+2007,94,mdg,Madagascar,-0.669719
+2007,95,uga,Uganda,-0.678939
+2007,96,bwa,Botswana,-0.709298
+2007,97,nic,Nicaragua,-0.735288
+2007,98,ven,Venezuela,-0.739018
+2007,99,bgd,Bangladesh,-0.778518
+2007,100,aze,Azerbaijan,-0.813568
+2007,101,lao,Laos,-0.830848
+2007,102,irn,Iran,-0.832178
+2007,103,gha,Ghana,-0.847938
+2007,104,ecu,Ecuador,-0.876178
+2007,105,tza,Tanzania,-0.887038
+2007,106,bol,Bolivia,-0.921658
+2007,107,civ,Cote d'Ivoire,-0.972028
+2007,108,khm,Cambodia,-1.0221
+2007,109,tjk,Tajikistan,-1.0331
+2007,110,mng,Mongolia,-1.037
+2007,111,eth,Ethiopia,-1.0556
+2007,112,mwi,Malawi,-1.0921
+2007,113,lbr,Liberia,-1.1004
+2007,114,yem,Yemen,-1.1655
+2007,115,tkm,Turkmenistan,-1.2424
+2007,116,moz,Mozambique,-1.2466
+2007,117,gab,Gabon,-1.3498
+2007,118,cmr,Cameroon,-1.4139
+2007,119,mli,Mali,-1.432
+2007,120,lby,Libya,-1.454
+2007,121,gin,Guinea,-1.5208
+2007,122,dza,Algeria,-1.6947
+2007,123,ago,Angola,-1.6949
+2007,124,nga,Nigeria,-1.7496
+2007,125,png,Papua New Guinea,-1.7709
+2007,126,mrt,Mauritania,-1.83169
+2007,127,cog,Republic of the Congo,-1.84609
+2007,128,sdn,Sudan,-2.16969
+2008,1,jpn,Japan,2.3661
+2008,2,deu,Germany,2.0125
+2008,3,che,Switzerland,1.9709
+2008,4,swe,Sweden,1.8912
+2008,5,aut,Austria,1.8356
+2008,6,fin,Finland,1.7431
+2008,7,sgp,Singapore,1.6732
+2008,8,cze,Czech Republic,1.6514
+2008,9,gbr,United Kingdom,1.584
+2008,10,svn,Slovenia,1.5428
+2008,11,fra,France,1.493
+2008,12,kor,South Korea,1.4915
+2008,13,usa,United States,1.4671
+2008,14,hun,Hungary,1.4502
+2008,15,svk,Slovakia,1.3929
+2008,16,ita,Italy,1.3208
+2008,17,dnk,Denmark,1.2777
+2008,18,irl,Ireland,1.2459
+2008,19,isr,Israel,1.1731
+2008,20,mex,Mexico,1.1561
+2008,21,blr,Belarus,1.1241
+2008,22,bel,Belgium,1.0917
+2008,23,nld,Netherlands,1.0485
+2008,24,hkg,Hong Kong,1.0277
+2008,25,pol,Poland,1.0255
+2008,26,hrv,Croatia,0.99066
+2008,27,rou,Romania,0.934941
+2008,28,esp,Spain,0.93359
+2008,29,chn,China,0.892281
+2008,30,pan,Panama,0.829491
+2008,31,tha,Thailand,0.813651
+2008,32,est,Estonia,0.788241
+2008,33,nor,Norway,0.782741
+2008,34,mys,Malaysia,0.759501
+2008,35,prt,Portugal,0.688131
+2008,36,ltu,Lithuania,0.676241
+2008,37,srb,Serbia,0.634831
+2008,38,bih,Bosnia and Herzegovina,0.586891
+2008,39,lva,Latvia,0.583601
+2008,40,bgr,Bulgaria,0.579111
+2008,41,can,Canada,0.565951
+2008,42,ukr,Ukraine,0.550331
+2008,43,tur,Turkey,0.419061
+2008,44,lbn,Lebanon,0.386141
+2008,45,rus,Russia,0.314181
+2008,46,jor,Jordan,0.305741
+2008,47,tun,Tunisia,0.273881
+2008,48,nzl,New Zealand,0.269411
+2008,49,cri,Costa Rica,0.256631
+2008,50,mda,Moldova,0.243531
+2008,51,ind,India,0.230391
+2008,52,bra,Brazil,0.229891
+2008,53,grc,Greece,0.194861
+2008,54,col,Colombia,0.179321
+2008,55,zaf,South Africa,0.109421
+2008,56,ury,Uruguay,0.0846501
+2008,57,arg,Argentina,0.0797291
+2008,58,alb,Albania,0.0625361
+2008,59,phl,Philippines,0.0063412
+2008,60,slv,El Salvador,0.0005425
+2008,61,idn,Indonesia,-0.0322018
+2008,62,egy,Egypt,-0.0464688
+2008,63,mkd,Macedonia,-0.0489198
+2008,64,dom,Dominican Republic,-0.0928668
+2008,65,gtm,Guatemala,-0.131779
+2008,66,are,United Arab Emirates,-0.133229
+2008,67,vnm,Vietnam,-0.210879
+2008,68,sau,Saudi Arabia,-0.213999
+2008,69,kgz,Kyrgyzstan,-0.268949
+2008,70,geo,Georgia,-0.301569
+2008,71,lka,Sri Lanka,-0.302029
+2008,72,nam,Namibia,-0.304709
+2008,73,ken,Kenya,-0.308719
+2008,74,sen,Senegal,-0.314649
+2008,75,syr,Syria,-0.323549
+2008,76,tto,Trinidad and Tobago,-0.335419
+2008,77,mus,Mauritius,-0.345299
+2008,78,aus,Australia,-0.350439
+2008,79,chl,Chile,-0.351429
+2008,80,zwe,Zimbabwe,-0.358059
+2008,81,jam,Jamaica,-0.382309
+2008,82,pak,Pakistan,-0.436389
+2008,83,mar,Morocco,-0.442448
+2008,84,qat,Qatar,-0.451438
+2008,85,cub,Cuba,-0.467968
+2008,86,pry,Paraguay,-0.515138
+2008,87,uga,Uganda,-0.527829
+2008,88,hnd,Honduras,-0.558599
+2008,89,per,Peru,-0.624618
+2008,90,mdg,Madagascar,-0.635338
+2008,91,omn,Oman,-0.639578
+2008,92,kaz,Kazakhstan,-0.644218
+2008,93,bwa,Botswana,-0.664258
+2008,94,ecu,Ecuador,-0.665498
+2008,95,tza,Tanzania,-0.678358
+2008,96,uzb,Uzbekistan,-0.701618
+2008,97,nic,Nicaragua,-0.710618
+2008,98,khm,Cambodia,-0.739998
+2008,99,civ,Cote d'Ivoire,-0.915968
+2008,100,gha,Ghana,-0.919498
+2008,101,lao,Laos,-0.933878
+2008,102,bol,Bolivia,-0.935718
+2008,103,eth,Ethiopia,-0.936418
+2008,104,bgd,Bangladesh,-0.943798
+2008,105,zmb,Zambia,-0.978238
+2008,106,mwi,Malawi,-1.0718
+2008,107,yem,Yemen,-1.0798
+2008,108,tjk,Tajikistan,-1.1056
+2008,109,moz,Mozambique,-1.1293
+2008,110,ven,Venezuela,-1.142
+2008,111,mli,Mali,-1.1434
+2008,112,lbr,Liberia,-1.1694
+2008,113,kwt,Kuwait,-1.2149
+2008,114,mng,Mongolia,-1.2238
+2008,115,dza,Algeria,-1.2425
+2008,116,tkm,Turkmenistan,-1.2568
+2008,117,irn,Iran,-1.278
+2008,118,aze,Azerbaijan,-1.2781
+2008,119,lby,Libya,-1.3325
+2008,120,gab,Gabon,-1.4096
+2008,121,nga,Nigeria,-1.4491
+2008,122,cmr,Cameroon,-1.4538
+2008,123,gin,Guinea,-1.5018
+2008,124,png,Papua New Guinea,-1.6398
+2008,125,cog,Republic of the Congo,-1.7687
+2008,126,ago,Angola,-1.8053
+2008,127,sdn,Sudan,-1.8114
+2008,128,mrt,Mauritania,-1.9608
+2009,1,jpn,Japan,2.05808
+2009,2,che,Switzerland,1.89076
+2009,3,deu,Germany,1.85774
+2009,4,swe,Sweden,1.74779
+2009,5,aut,Austria,1.72874
+2009,6,fin,Finland,1.72242
+2009,7,gbr,United Kingdom,1.62507
+2009,8,sgp,Singapore,1.6074
+2009,9,kor,South Korea,1.56496
+2009,10,cze,Czech Republic,1.55381
+2009,11,usa,United States,1.49461
+2009,12,fra,France,1.48649
+2009,13,svn,Slovenia,1.43789
+2009,14,irl,Ireland,1.39667
+2009,15,hun,Hungary,1.39546
+2009,16,svk,Slovakia,1.33733
+2009,17,dnk,Denmark,1.29636
+2009,18,ita,Italy,1.29447
+2009,19,bel,Belgium,1.20746
+2009,20,nld,Netherlands,1.11008
+2009,21,isr,Israel,1.0903
+2009,22,pol,Poland,1.01729
+2009,23,esp,Spain,0.969969
+2009,24,mex,Mexico,0.936416
+2009,25,hrv,Croatia,0.846424
+2009,26,can,Canada,0.806725
+2009,27,afg,Afghanistan,0.764117
+2009,28,chn,China,0.762048
+2009,29,blr,Belarus,0.736654
+2009,30,nor,Norway,0.735545
+2009,31,lva,Latvia,0.705589
+2009,32,prk,North Korea,0.695564
+2009,33,srb,Serbia,0.694279
+2009,34,tha,Thailand,0.693711
+2009,35,est,Estonia,0.643308
+2009,36,rou,Romania,0.626236
+2009,37,prt,Portugal,0.598529
+2009,38,ukr,Ukraine,0.580006
+2009,39,mys,Malaysia,0.569709
+2009,40,bih,Bosnia and Herzegovina,0.569636
+2009,41,alb,Albania,0.564682
+2009,42,ltu,Lithuania,0.530485
+2009,43,bwa,Botswana,0.492574
+2009,44,hkg,Hong Kong,0.422178
+2009,45,tur,Turkey,0.374195
+2009,46,bgr,Bulgaria,0.353831
+2009,47,lbn,Lebanon,0.313097
+2009,48,zaf,South Africa,0.288608
+2009,49,col,Colombia,0.281575
+2009,50,rus,Russia,0.273984
+2009,51,pan,Panama,0.270075
+2009,52,grc,Greece,0.267714
+2009,53,bra,Brazil,0.245331
+2009,54,jor,Jordan,0.216508
+2009,55,nzl,New Zealand,0.213973
+2009,56,ind,India,0.205178
+2009,57,are,United Arab Emirates,0.165797
+2009,58,tun,Tunisia,0.16131
+2009,59,sau,Saudi Arabia,0.137277
+2009,60,ury,Uruguay,0.127116
+2009,61,arg,Argentina,0.107103
+2009,62,phl,Philippines,0.0930817
+2009,63,cri,Costa Rica,0.0669498
+2009,64,mda,Moldova,-0.00129659
+2009,65,slv,El Salvador,-0.0837416
+2009,66,jam,Jamaica,-0.113446
+2009,67,egy,Egypt,-0.13851
+2009,68,mkd,Macedonia,-0.140257
+2009,69,idn,Indonesia,-0.181814
+2009,70,qat,Qatar,-0.190592
+2009,71,chl,Chile,-0.206601
+2009,72,cub,Cuba,-0.208645
+2009,73,mus,Mauritius,-0.211623
+2009,74,omn,Oman,-0.220398
+2009,75,geo,Georgia,-0.262448
+2009,76,ven,Venezuela,-0.277161
+2009,77,gtm,Guatemala,-0.285452
+2009,78,dom,Dominican Republic,-0.315015
+2009,79,ken,Kenya,-0.327097
+2009,80,tto,Trinidad and Tobago,-0.373064
+2009,81,uzb,Uzbekistan,-0.383365
+2009,82,vnm,Vietnam,-0.385633
+2009,83,aus,Australia,-0.4071
+2009,84,kaz,Kazakhstan,-0.450924
+2009,85,kwt,Kuwait,-0.454271
+2009,86,mar,Morocco,-0.487263
+2009,87,lka,Sri Lanka,-0.514551
+2009,88,syr,Syria,-0.524164
+2009,89,pak,Pakistan,-0.538252
+2009,90,pry,Paraguay,-0.552009
+2009,91,nam,Namibia,-0.572168
+2009,92,hnd,Honduras,-0.641523
+2009,93,per,Peru,-0.659849
+2009,94,mng,Mongolia,-0.70964
+2009,95,tkm,Turkmenistan,-0.745445
+2009,96,lbr,Liberia,-0.774031
+2009,97,bol,Bolivia,-0.777717
+2009,98,dza,Algeria,-0.779444
+2009,99,nic,Nicaragua,-0.871142
+2009,100,ecu,Ecuador,-0.874594
+2009,101,lao,Laos,-0.965898
+2009,102,zmb,Zambia,-0.985368
+2009,103,irn,Iran,-1.01122
+2009,104,tza,Tanzania,-1.02651
+2009,105,bgd,Bangladesh,-1.0668
+2009,106,mdg,Madagascar,-1.1117
+2009,107,gab,Gabon,-1.1345
+2009,108,khm,Cambodia,-1.14899
+2009,109,lby,Libya,-1.19185
+2009,110,gha,Ghana,-1.22394
+2009,111,eth,Ethiopia,-1.23045
+2009,112,aze,Azerbaijan,-1.29231
+2009,113,mmr,Burma,-1.3515
+2009,114,moz,Mozambique,-1.40303
+2009,115,cmr,Cameroon,-1.41278
+2009,116,yem,Yemen,-1.43672
+2009,117,civ,Cote d'Ivoire,-1.45135
+2009,118,png,Papua New Guinea,-1.56915
+2009,119,irq,Iraq,-1.70367
+2009,120,cog,Republic of the Congo,-1.7126
+2009,121,ago,Angola,-1.77293
+2009,122,mrt,Mauritania,-1.83819
+2009,123,sdn,Sudan,-1.9502
+2009,124,nga,Nigeria,-2.29414
+2010,1,jpn,Japan,2.10229
+2010,2,che,Switzerland,1.87028
+2010,3,deu,Germany,1.8533
+2010,4,swe,Sweden,1.68883
+2010,5,aut,Austria,1.67758
+2010,6,fin,Finland,1.6622
+2010,7,kor,South Korea,1.64066
+2010,8,cze,Czech Republic,1.62205
+2010,9,sgp,Singapore,1.57773
+2010,10,gbr,United Kingdom,1.56978
+2010,11,usa,United States,1.5166
+2010,12,fra,France,1.49482
+2010,13,svn,Slovenia,1.38118
+2010,14,hun,Hungary,1.37646
+2010,15,svk,Slovakia,1.35784
+2010,16,irl,Ireland,1.34714
+2010,17,ita,Italy,1.34044
+2010,18,dnk,Denmark,1.2793
+2010,19,isr,Israel,1.20076
+2010,20,bel,Belgium,1.19813
+2010,21,pol,Poland,1.11744
+2010,22,nld,Netherlands,1.04911
+2010,23,esp,Spain,1.0435
+2010,24,mex,Mexico,0.974656
+2010,25,hrv,Croatia,0.890773
+2010,26,chn,China,0.814251
+2010,27,est,Estonia,0.780741
+2010,28,tha,Thailand,0.770573
+2010,29,can,Canada,0.760436
+2010,30,rou,Romania,0.729511
+2010,31,nor,Norway,0.706348
+2010,32,mys,Malaysia,0.681478
+2010,33,ukr,Ukraine,0.677275
+2010,34,blr,Belarus,0.677002
+2010,35,prt,Portugal,0.675848
+2010,36,srb,Serbia,0.656775
+2010,37,lva,Latvia,0.652095
+2010,38,ltu,Lithuania,0.642872
+2010,39,hkg,Hong Kong,0.589846
+2010,40,bgr,Bulgaria,0.584884
+2010,41,bih,Bosnia and Herzegovina,0.56569
+2010,42,tur,Turkey,0.482404
+2010,43,pan,Panama,0.461147
+2010,44,prk,North Korea,0.455979
+2010,45,bra,Brazil,0.378167
+2010,46,rus,Russia,0.362986
+2010,47,jor,Jordan,0.350904
+2010,48,lbn,Lebanon,0.327162
+2010,49,grc,Greece,0.297462
+2010,50,are,United Arab Emirates,0.288501
+2010,51,bhr,Bahrain,0.285502
+2010,52,nzl,New Zealand,0.256665
+2010,53,zaf,South Africa,0.246145
+2010,54,phl,Philippines,0.245346
+2010,55,ury,Uruguay,0.235205
+2010,56,tun,Tunisia,0.197864
+2010,57,arg,Argentina,0.187375
+2010,58,ind,India,0.178894
+2010,59,bwa,Botswana,0.17055
+2010,60,cri,Costa Rica,0.123126
+2010,61,col,Colombia,0.11754
+2010,62,mda,Moldova,0.0408617
+2010,63,slv,El Salvador,0.00154048
+2010,64,sau,Saudi Arabia,0.00113061
+2010,65,mkd,Macedonia,-0.0134035
+2010,66,kwt,Kuwait,-0.0745179
+2010,67,egy,Egypt,-0.0887997
+2010,68,chl,Chile,-0.12935
+2010,69,idn,Indonesia,-0.171946
+2010,70,qat,Qatar,-0.172933
+2010,71,omn,Oman,-0.199692
+2010,72,cub,Cuba,-0.252382
+2010,73,aus,Australia,-0.252813
+2010,74,syr,Syria,-0.253691
+2010,75,dom,Dominican Republic,-0.276047
+2010,76,uzb,Uzbekistan,-0.290409
+2010,77,vnm,Vietnam,-0.296821
+2010,78,mus,Mauritius,-0.297636
+2010,79,geo,Georgia,-0.329882
+2010,80,gtm,Guatemala,-0.369729
+2010,81,tto,Trinidad and Tobago,-0.405241
+2010,82,pry,Paraguay,-0.419531
+2010,83,lka,Sri Lanka,-0.466585
+2010,84,ken,Kenya,-0.470011
+2010,85,ven,Venezuela,-0.478953
+2010,86,mar,Morocco,-0.495105
+2010,87,alb,Albania,-0.496925
+2010,88,zwe,Zimbabwe,-0.508177
+2010,89,kgz,Kyrgyzstan,-0.511497
+2010,90,per,Peru,-0.516999
+2010,91,kaz,Kazakhstan,-0.55047
+2010,92,pak,Pakistan,-0.597155
+2010,93,tkm,Turkmenistan,-0.618194
+2010,94,hnd,Honduras,-0.626741
+2010,95,ecu,Ecuador,-0.634284
+2010,96,bol,Bolivia,-0.65513
+2010,97,dza,Algeria,-0.672027
+2010,98,zmb,Zambia,-0.686542
+2010,99,irn,Iran,-0.698234
+2010,100,nam,Namibia,-0.861699
+2010,101,aze,Azerbaijan,-0.870441
+2010,102,lao,Laos,-0.891555
+2010,103,sen,Senegal,-0.944605
+2010,104,nic,Nicaragua,-0.951469
+2010,105,mdg,Madagascar,-0.989041
+2010,106,tza,Tanzania,-1.01333
+2010,107,khm,Cambodia,-1.01553
+2010,108,bgd,Bangladesh,-1.07578
+2010,109,mng,Mongolia,-1.12074
+2010,110,gha,Ghana,-1.15461
+2010,111,lby,Libya,-1.20778
+2010,112,mmr,Burma,-1.2384
+2010,113,moz,Mozambique,-1.33935
+2010,114,civ,Cote d'Ivoire,-1.34274
+2010,115,gab,Gabon,-1.34424
+2010,116,eth,Ethiopia,-1.3795
+2010,117,yem,Yemen,-1.42617
+2010,118,png,Papua New Guinea,-1.44742
+2010,119,mrt,Mauritania,-1.62822
+2010,120,sdn,Sudan,-1.66599
+2010,121,cog,Republic of the Congo,-1.7636
+2010,122,cmr,Cameroon,-1.79592
+2010,123,gin,Guinea,-1.82875
+2010,124,ago,Angola,-1.87124
+2010,125,nga,Nigeria,-2.3846
+2010,126,irq,Iraq,-2.51055
+2011,1,jpn,Japan,2.31266
+2011,2,che,Switzerland,2.04123
+2011,3,deu,Germany,1.95829
+2011,4,swe,Sweden,1.86356
+2011,5,kor,South Korea,1.80392
+2011,6,aut,Austria,1.79979
+2011,7,cze,Czech Republic,1.79836
+2011,8,fin,Finland,1.73204
+2011,9,gbr,United Kingdom,1.57063
+2011,10,usa,United States,1.54044
+2011,11,hun,Hungary,1.53932
+2011,12,svn,Slovenia,1.52768
+2011,13,svk,Slovakia,1.50172
+2011,14,sgp,Singapore,1.49011
+2011,15,fra,France,1.46188
+2011,16,ita,Italy,1.36224
+2011,17,irl,Ireland,1.30484
+2011,18,dnk,Denmark,1.28422
+2011,19,bel,Belgium,1.15819
+2011,20,isr,Israel,1.14429
+2011,21,pol,Poland,1.13687
+2011,22,blr,Belarus,1.02733
+2011,23,nld,Netherlands,0.976362
+2011,24,chn,China,0.968383
+2011,25,esp,Spain,0.96322
+2011,26,mex,Mexico,0.912622
+2011,27,hrv,Croatia,0.877616
+2011,28,est,Estonia,0.867918
+2011,29,tha,Thailand,0.851415
+2011,30,ltu,Lithuania,0.751017
+2011,31,mys,Malaysia,0.735232
+2011,32,hkg,Hong Kong,0.733561
+2011,33,rou,Romania,0.717182
+2011,34,lva,Latvia,0.695023
+2011,35,can,Canada,0.592669
+2011,36,pan,Panama,0.591416
+2011,37,arm,Armenia,0.580456
+2011,37,nor,Norway,0.581507
+2011,38,prt,Portugal,0.560323
+2011,39,bih,Bosnia and Herzegovina,0.529874
+2011,40,srb,Serbia,0.520543
+2011,41,bgr,Bulgaria,0.507367
+2011,42,ukr,Ukraine,0.478324
+2011,43,tur,Turkey,0.369777
+2011,44,lbn,Lebanon,0.254872
+2011,45,bhr,Bahrain,0.274021
+2011,45,rus,Russia,0.23374
+2011,46,grc,Greece,0.172751
+2011,47,phl,Philippines,0.170631
+2011,48,nzl,New Zealand,0.161174
+2011,49,ind,India,0.1021
+2011,50,tun,Tunisia,0.098387
+2011,51,jor,Jordan,0.0839187
+2011,52,ury,Uruguay,0.0698398
+2011,53,bra,Brazil,0.066165
+2011,54,prk,North Korea,0.0881985
+2011,54,cri,Costa Rica,0.0613994
+2011,55,sau,Saudi Arabia,0.0203644
+2011,56,col,Colombia,-0.0392575
+2011,57,geo,Georgia,-0.0679614
+2011,58,mda,Moldova,-0.138378
+2011,59,chl,Chile,-0.146677
+2011,60,qat,Qatar,-0.149194
+2011,61,are,United Arab Emirates,-0.156788
+2011,62,zaf,South Africa,-0.176803
+2011,63,arg,Argentina,-0.178251
+2011,64,slv,El Salvador,-0.206562
+2011,65,idn,Indonesia,-0.221288
+2011,66,jam,Jamaica,-0.251367
+2011,67,mus,Mauritius,-0.27599
+2011,68,vnm,Vietnam,-0.304431
+2011,69,egy,Egypt,-0.314427
+2011,70,kwt,Kuwait,-0.329696
+2011,71,gtm,Guatemala,-0.388771
+2011,72,mkd,Macedonia,-0.396391
+2011,73,dom,Dominican Republic,-0.398643
+2011,74,nam,Namibia,-0.42836
+2011,75,syr,Syria,-0.448118
+2011,76,aus,Australia,-0.457699
+2011,77,tto,Trinidad and Tobago,-0.480693
+2011,78,ken,Kenya,-0.510346
+2011,79,cub,Cuba,-0.511218
+2011,80,alb,Albania,-0.535552
+2011,81,mar,Morocco,-0.557005
+2011,82,kgz,Kyrgyzstan,-0.486584
+2011,82,lka,Sri Lanka,-0.569121
+2011,83,omn,Oman,-0.57447
+2011,84,kaz,Kazakhstan,-0.583846
+2011,85,bwa,Botswana,-0.590747
+2011,86,cmr,Cameroon,-0.606277
+2011,87,per,Peru,-0.638972
+2011,88,uga,Uganda,-0.647726
+2011,89,pry,Paraguay,-0.649552
+2011,90,uzb,Uzbekistan,-0.721225
+2011,91,gha,Ghana,-0.727908
+2011,92,irn,Iran,-0.738639
+2011,93,hnd,Honduras,-0.752654
+2011,94,ven,Venezuela,-0.759126
+2011,95,ecu,Ecuador,-0.78916
+2011,96,zmb,Zambia,-0.791015
+2011,97,sen,Senegal,-0.798492
+2011,98,dza,Algeria,-0.856634
+2011,99,pak,Pakistan,-0.885976
+2011,100,nic,Nicaragua,-0.90444
+2011,101,mdg,Madagascar,-0.934687
+2011,101,tgo,Togo,-0.809237
+2011,102,bol,Bolivia,-0.959965
+2011,103,zwe,Zimbabwe,-0.987869
+2011,104,tza,Tanzania,-1.02732
+2011,105,ner,Niger,-0.94751
+2011,105,mng,Mongolia,-1.07782
+2011,106,khm,Cambodia,-1.0861
+2011,107,yem,Yemen,-1.16908
+2011,108,png,Papua New Guinea,-1.22657
+2011,109,bgd,Bangladesh,-1.23599
+2011,110,civ,Cote d'Ivoire,-1.26244
+2011,111,gab,Gabon,-1.26932
+2011,112,lao,Laos,-1.29647
+2011,113,lby,Libya,-1.34455
+2011,114,mwi,Malawi,-1.36285
+2011,115,eth,Ethiopia,-1.36973
+2011,116,tkm,Turkmenistan,-1.42959
+2011,117,moz,Mozambique,-1.46156
+2011,117,mmr,Burma,-1.41975
+2011,118,aze,Azerbaijan,-1.49069
+2011,119,bfa,Burkina Faso,-1.4742
+2011,119,cog,Republic of the Congo,-1.49076
+2011,120,gin,Guinea,-1.78526
+2011,121,mrt,Mauritania,-1.88448
+2011,122,ago,Angola,-1.88582
+2011,122,tcd,Chad,-2.1353
+2011,123,sdn,Sudan,-1.95133
+2011,123,irq,Iraq,-2.23107
+2011,124,nga,Nigeria,-2.01592
+2012,1,jpn,Japan,2.22882
+2012,2,che,Switzerland,1.97339
+2012,3,deu,Germany,1.83957
+2012,4,swe,Sweden,1.70885
+2012,5,kor,South Korea,1.69997
+2012,6,cze,Czech Republic,1.62207
+2012,7,gbr,United Kingdom,1.61177
+2012,8,fin,Finland,1.59119
+2012,9,sgp,Singapore,1.58787
+2012,10,aut,Austria,1.56851
+2012,11,usa,United States,1.5602
+2012,12,svn,Slovenia,1.49706
+2012,13,fra,France,1.38358
+2012,14,hun,Hungary,1.33227
+2012,15,isr,Israel,1.27917
+2012,16,svk,Slovakia,1.24316
+2012,17,irl,Ireland,1.23274
+2012,18,ita,Italy,1.19693
+2012,19,dnk,Denmark,1.18268
+2012,20,nld,Netherlands,1.08893
+2012,21,chn,China,1.00681
+2012,22,pol,Poland,0.998564
+2012,23,mex,Mexico,0.905446
+2012,24,mys,Malaysia,0.890766
+2012,25,hrv,Croatia,0.871179
+2012,26,nor,Norway,0.845261
+2012,27,hkg,Hong Kong,0.844458
+2012,28,esp,Spain,0.843965
+2012,29,est,Estonia,0.835434
+2012,30,blr,Belarus,0.804569
+2012,31,tha,Thailand,0.752238
+2012,32,ltu,Lithuania,0.725048
+2012,33,pan,Panama,0.714193
+2012,34,rou,Romania,0.706564
+2012,35,lva,Latvia,0.6679
+2012,36,prt,Portugal,0.626132
+2012,37,can,Canada,0.625596
+2012,38,bgr,Bulgaria,0.586226
+2012,39,ukr,Ukraine,0.570638
+2012,40,tur,Turkey,0.457294
+2012,41,nzl,New Zealand,0.436271
+2012,42,rus,Russia,0.415059
+2012,43,bih,Bosnia and Herzegovina,0.413509
+2012,44,phl,Philippines,0.354205
+2012,45,ind,India,0.306964
+2012,46,lbn,Lebanon,0.300817
+2012,47,grc,Greece,0.283137
+2012,48,bra,Brazil,0.274776
+2012,49,jor,Jordan,0.220813
+2012,50,cri,Costa Rica,0.206029
+2012,52,zaf,South Africa,0.191007
+2012,53,col,Colombia,0.184964
+2012,54,mus,Mauritius,0.176757
+2012,55,tun,Tunisia,0.176266
+2012,56,ury,Uruguay,0.153778
+2012,57,arg,Argentina,0.143725
+2012,58,are,United Arab Emirates,0.0926412
+2012,59,sau,Saudi Arabia,0.0645759
+2012,60,mda,Moldova,0.0594646
+2012,61,slv,El Salvador,0.0539092
+2012,62,mkd,Macedonia,-0.0256867
+2012,63,jam,Jamaica,-0.0878275
+2012,64,kaz,Kazakhstan,-0.108203
+2012,65,aus,Australia,-0.109233
+2012,67,kgz,Kyrgyzstan,-0.143878
+2012,68,egy,Egypt,-0.160523
+2012,69,vnm,Vietnam,-0.166375
+2012,70,idn,Indonesia,-0.170807
+2012,71,dom,Dominican Republic,-0.20933
+2012,72,chl,Chile,-0.233059
+2012,73,geo,Georgia,-0.246049
+2012,74,per,Peru,-0.290296
+2012,75,gtm,Guatemala,-0.298959
+2012,76,uga,Uganda,-0.300497
+2012,77,alb,Albania,-0.352057
+2012,78,tto,Trinidad and Tobago,-0.402967
+2012,79,ken,Kenya,-0.422134
+2012,80,sen,Senegal,-0.424111
+2012,81,bol,Bolivia,-0.437871
+2012,82,hnd,Honduras,-0.464941
+2012,83,zmb,Zambia,-0.474716
+2012,84,lka,Sri Lanka,-0.479898
+2012,85,omn,Oman,-0.482067
+2012,86,uzb,Uzbekistan,-0.482305
+2012,87,pry,Paraguay,-0.503319
+2012,88,pak,Pakistan,-0.537404
+2012,89,mar,Morocco,-0.564875
+2012,90,ecu,Ecuador,-0.566271
+2012,91,mli,Mali,-0.647505
+2012,92,aze,Azerbaijan,-0.656932
+2012,93,tza,Tanzania,-0.678018
+2012,94,nic,Nicaragua,-0.741749
+2012,95,lbr,Liberia,-0.755359
+2012,96,cog,Republic of the Congo,-0.786192
+2012,97,zwe,Zimbabwe,-0.794004
+2012,98,cmr,Cameroon,-0.859377
+2012,99,civ,Cote d'Ivoire,-0.903306
+2012,100,mdg,Madagascar,-0.909694
+2012,101,irn,Iran,-0.969402
+2012,102,qat,Qatar,-1.00466
+2012,103,tjk,Tajikistan,-1.03565
+2012,104,gha,Ghana,-1.04357
+2012,105,khm,Cambodia,-1.04825
+2012,106,eth,Ethiopia,-1.06037
+2012,107,dza,Algeria,-1.12832
+2012,108,bgd,Bangladesh,-1.13349
+2012,109,mng,Mongolia,-1.16175
+2012,110,lao,Laos,-1.21416
+2012,111,sdn,Sudan,-1.22065
+2012,112,kwt,Kuwait,-1.22605
+2012,113,mwi,Malawi,-1.22796
+2012,114,yem,Yemen,-1.23336
+2012,115,mrt,Mauritania,-1.36645
+2012,116,png,Papua New Guinea,-1.38443
+2012,117,ven,Venezuela,-1.40502
+2012,118,moz,Mozambique,-1.47555
+2012,119,gab,Gabon,-1.51957
+2012,120,nga,Nigeria,-1.62887
+2012,121,tkm,Turkmenistan,-1.7245
+2012,122,gin,Guinea,-1.78041
+2012,123,ago,Angola,-2.24584
+2012,124,lby,Libya,-3.17674
+2013,1,jpn,Japan,2.29217
+2013,2,che,Switzerland,2.15827
+2013,3,deu,Germany,1.95057
+2013,4,swe,Sweden,1.82719
+2013,5,gbr,United Kingdom,1.71585
+2013,6,cze,Czech Republic,1.70505
+2013,7,kor,South Korea,1.69938
+2013,8,fin,Finland,1.64344
+2013,9,aut,Austria,1.63964
+2013,10,sgp,Singapore,1.62843
+2013,11,usa,United States,1.58003
+2013,12,svn,Slovenia,1.56207
+2013,13,fra,France,1.46865
+2013,14,svk,Slovakia,1.34918
+2013,15,hun,Hungary,1.33979
+2013,16,irl,Ireland,1.26556
+2013,17,ita,Italy,1.22034
+2013,18,isr,Israel,1.21701
+2013,19,dnk,Denmark,1.18973
+2013,20,nld,Netherlands,1.1282
+2013,21,pol,Poland,1.12265
+2013,22,chn,China,0.964874
+2013,23,mex,Mexico,0.950146
+2013,24,nor,Norway,0.945665
+2013,25,esp,Spain,0.933439
+2013,26,hrv,Croatia,0.902756
+2013,27,blr,Belarus,0.889821
+2013,28,est,Estonia,0.814546
+2013,29,tha,Thailand,0.757737
+2013,30,ltu,Lithuania,0.730693
+2013,31,ukr,Ukraine,0.712094
+2013,32,rou,Romania,0.708925
+2013,33,can,Canada,0.700305
+2013,34,mys,Malaysia,0.692526
+2013,35,lva,Latvia,0.610991
+2013,36,hkg,Hong Kong,0.601121
+2013,37,bgr,Bulgaria,0.561561
+2013,38,rus,Russia,0.547873
+2013,39,prt,Portugal,0.506501
+2013,40,tur,Turkey,0.466553
+2013,41,bih,Bosnia and Herzegovina,0.414588
+2013,42,sau,Saudi Arabia,0.375092
+2013,43,nzl,New Zealand,0.334655
+2013,44,pan,Panama,0.325359
+2013,45,zaf,South Africa,0.318725
+2013,46,are,United Arab Emirates,0.3147
+2013,47,lbn,Lebanon,0.289069
+2013,48,grc,Greece,0.270186
+2013,49,phl,Philippines,0.268753
+2013,50,ind,India,0.261756
+2013,51,jor,Jordan,0.212874
+2013,52,ury,Uruguay,0.196912
+2013,53,arg,Argentina,0.186702
+2013,54,col,Colombia,0.170624
+2013,55,cri,Costa Rica,0.161663
+2013,56,bra,Brazil,0.152432
+2013,57,tun,Tunisia,0.07079
+2013,58,mda,Moldova,0.0144264
+2013,59,kwt,Kuwait,-0.0118002
+2013,60,slv,El Salvador,-0.0119415
+2013,61,mkd,Macedonia,-0.0212555
+2013,63,geo,Georgia,-0.0530288
+2013,64,mus,Mauritius,-0.0781186
+2013,66,zmb,Zambia,-0.122758
+2013,67,chl,Chile,-0.132405
+2013,68,egy,Egypt,-0.146013
+2013,69,kgz,Kyrgyzstan,-0.178424
+2013,70,tto,Trinidad and Tobago,-0.188125
+2013,71,aus,Australia,-0.195771
+2013,72,idn,Indonesia,-0.249507
+2013,73,vnm,Vietnam,-0.266684
+2013,74,jam,Jamaica,-0.330662
+2013,75,alb,Albania,-0.342037
+2013,76,gtm,Guatemala,-0.37683
+2013,77,uga,Uganda,-0.385743
+2013,78,lbr,Liberia,-0.416505
+2013,79,pry,Paraguay,-0.417881
+2013,80,dom,Dominican Republic,-0.420921
+2013,81,kaz,Kazakhstan,-0.440195
+2013,82,omn,Oman,-0.446623
+2013,83,qat,Qatar,-0.480727
+2013,84,lka,Sri Lanka,-0.545246
+2013,85,per,Peru,-0.552895
+2013,86,ken,Kenya,-0.568345
+2013,87,hnd,Honduras,-0.591681
+2013,88,mar,Morocco,-0.603177
+2013,89,pak,Pakistan,-0.660541
+2013,90,uzb,Uzbekistan,-0.672254
+2013,91,zwe,Zimbabwe,-0.736728
+2013,92,irn,Iran,-0.738944
+2013,93,bol,Bolivia,-0.759907
+2013,94,ecu,Ecuador,-0.793251
+2013,95,nic,Nicaragua,-0.810177
+2013,96,mwi,Malawi,-0.828101
+2013,97,tza,Tanzania,-0.886502
+2013,98,civ,Cote d'Ivoire,-0.902604
+2013,99,ven,Venezuela,-0.908022
+2013,100,gha,Ghana,-0.947597
+2013,101,cog,Republic of the Congo,-0.954759
+2013,102,aze,Azerbaijan,-0.988968
+2013,103,sen,Senegal,-1.01994
+2013,104,mli,Mali,-1.02179
+2013,105,khm,Cambodia,-1.02553
+2013,106,mdg,Madagascar,-1.08943
+2013,107,yem,Yemen,-1.1433
+2013,108,eth,Ethiopia,-1.20159
+2013,109,mng,Mongolia,-1.24095
+2013,110,tjk,Tajikistan,-1.29005
+2013,111,bgd,Bangladesh,-1.32677
+2013,112,lao,Laos,-1.32923
+2013,113,sdn,Sudan,-1.34436
+2013,114,dza,Algeria,-1.39205
+2013,115,moz,Mozambique,-1.40364
+2013,116,gab,Gabon,-1.46509
+2013,117,ago,Angola,-1.46885
+2013,118,cmr,Cameroon,-1.46969
+2013,119,nga,Nigeria,-1.57253
+2013,120,png,Papua New Guinea,-1.66999
+2013,121,mrt,Mauritania,-1.70214
+2013,122,lby,Libya,-1.71156
+2013,123,tkm,Turkmenistan,-1.75298
+2013,124,gin,Guinea,-2.10227
+2014,1,jpn,Japan,2.25194
+2014,2,che,Switzerland,2.10293
+2014,3,deu,Germany,2.0524
+2014,4,swe,Sweden,1.89131
+2014,5,usa,United States,1.79957
+2014,6,kor,South Korea,1.73873
+2014,7,fin,Finland,1.73525
+2014,8,sgp,Singapore,1.7334
+2014,9,cze,Czech Republic,1.70339
+2014,10,aut,Austria,1.65234
+2014,11,gbr,United Kingdom,1.60127
+2014,12,svn,Slovenia,1.49993
+2014,13,fra,France,1.45935
+2014,14,hun,Hungary,1.43209
+2014,15,nld,Netherlands,1.36625
+2014,16,svk,Slovakia,1.35285
+2014,17,irl,Ireland,1.32139
+2014,18,dnk,Denmark,1.26193
+2014,19,isr,Israel,1.2385
+2014,20,mex,Mexico,1.23136
+2014,21,nor,Norway,1.22554
+2014,22,ita,Italy,1.20556
+2014,23,can,Canada,1.19725
+2014,24,pol,Poland,1.18943
+2014,25,mys,Malaysia,1.04336
+2014,26,sau,Saudi Arabia,1.0189
+2014,27,rus,Russia,0.984162
+2014,28,esp,Spain,0.940982
+2014,29,est,Estonia,0.914518
+2014,30,blr,Belarus,0.858799
+2014,31,ukr,Ukraine,0.814067
+2014,32,bra,Brazil,0.805279
+2014,33,ltu,Lithuania,0.773705
+2014,34,lva,Latvia,0.772004
+2014,35,hrv,Croatia,0.745183
+2014,36,tha,Thailand,0.743967
+2014,37,chn,China,0.742188
+2014,38,rou,Romania,0.72353
+2014,39,nzl,New Zealand,0.699382
+2014,40,hkg,Hong Kong,0.679137
+2014,41,srb,Serbia,0.667408
+2014,42,cyp,Cyprus,0.609781
+2014,43,arg,Argentina,0.597119
+2014,44,bhr,Bahrain,0.517242
+2014,45,bgr,Bulgaria,0.476996
+2014,46,zaf,South Africa,0.466035
+2014,47,kwt,Kuwait,0.452496
+2014,48,bih,Bosnia and Herzegovina,0.450454
+2014,49,prt,Portugal,0.44624
+2014,50,ind,India,0.411383
+2014,51,tur,Turkey,0.3911
+2014,52,kaz,Kazakhstan,0.340543
+2014,53,ury,Uruguay,0.338909
+2014,54,grc,Greece,0.337224
+2014,55,cri,Costa Rica,0.316204
+2014,56,aus,Australia,0.301461
+2014,57,col,Colombia,0.279122
+2014,58,chl,Chile,0.252355
+2014,59,lbn,Lebanon,0.245544
+2014,60,qat,Qatar,0.236012
+2014,61,phl,Philippines,0.199723
+2014,62,are,United Arab Emirates,0.192732
+2014,63,pse,Palestine,0.147783
+2014,64,arm,Armenia,0.123615
+2014,65,irn,Iran,0.0812974
+2014,66,geo,Georgia,0.0785398
+2014,67,jor,Jordan,0.0405787
+2014,68,omn,Oman,-0.045465
+2014,69,tto,Trinidad and Tobago,-0.0877829
+2014,70,pan,Panama,-0.0977279
+2014,71,egy,Egypt,-0.126648
+2014,72,mkd,Macedonia,-0.134841
+2014,73,jam,Jamaica,-0.163901
+2014,74,tun,Tunisia,-0.186732
+2014,75,zmb,Zambia,-0.210456
+2014,76,mda,Moldova,-0.218978
+2014,77,ben,Benin,-0.22005
+2014,78,dom,Dominican Republic,-0.226679
+2014,79,idn,Indonesia,-0.244912
+2014,80,slv,El Salvador,-0.262277
+2014,81,uga,Uganda,-0.285833
+2014,82,sle,Sierra Leone,-0.29103
+2014,83,bdi,Burundi,-0.300173
+2014,84,caf,Central African Republic,-0.322383
+2014,85,sen,Senegal,-0.326711
+2014,86,mwi,Malawi,-0.340386
+2014,87,rwa,Rwanda,-0.39933
+2014,88,zwe,Zimbabwe,-0.402261
+2014,89,gtm,Guatemala,-0.4113
+2014,90,mus,Mauritius,-0.426248
+2014,91,per,Peru,-0.430732
+2014,92,ken,Kenya,-0.445156
+2014,93,vnm,Vietnam,-0.456109
+2014,94,gmb,Gambia,-0.465798
+2014,95,tgo,Togo,-0.470926
+2014,96,hnd,Honduras,-0.480029
+2014,97,pry,Paraguay,-0.498507
+2014,98,ner,Niger,-0.502393
+2014,99,npl,Nepal,-0.512065
+2014,100,dza,Algeria,-0.545093
+2014,101,tls,Timor-Leste,-0.556843
+2014,102,cmr,Cameroon,-0.559223
+2014,103,mar,Morocco,-0.568788
+2014,104,kgz,Kyrgyzstan,-0.572117
+2014,105,uzb,Uzbekistan,-0.671965
+2014,106,pak,Pakistan,-0.699765
+2014,107,ecu,Ecuador,-0.713297
+2014,108,aze,Azerbaijan,-0.726658
+2014,109,afg,Afghanistan,-0.72721
+2014,110,alb,Albania,-0.737567
+2014,111,bfa,Burkina Faso,-0.762086
+2014,112,civ,Cote d'Ivoire,-0.764889
+2014,113,mli,Mali,-0.770243
+2014,114,tza,Tanzania,-0.778237
+2014,115,lka,Sri Lanka,-0.792478
+2014,116,gab,Gabon,-0.812722
+2014,117,tjk,Tajikistan,-0.813644
+2014,118,cog,Republic of the Congo,-0.818446
+2014,119,mng,Mongolia,-0.837957
+2014,120,bol,Bolivia,-0.885282
+2014,121,gnb,Guinea-Bissau,-0.974631
+2014,122,gha,Ghana,-0.981199
+2014,123,moz,Mozambique,-0.986668
+2014,124,mrt,Mauritania,-1.03163
+2014,125,nga,Nigeria,-1.04764
+2014,126,lby,Libya,-1.04807
+2014,127,som,Somalia,-1.15563
+2014,128,nic,Nicaragua,-1.17739
+2014,129,lbr,Liberia,-1.20128
+2014,130,eth,Ethiopia,-1.23544
+2014,131,tkm,Turkmenistan,-1.26425
+2014,132,mdg,Madagascar,-1.33092
+2014,133,gin,Guinea,-1.33293
+2014,134,lao,Laos,-1.50119
+2014,135,khm,Cambodia,-1.52207
+2014,136,bgd,Bangladesh,-1.58704
+2014,137,cod,Democratic Republic of the Congo,-1.59501
+2014,138,png,Papua New Guinea,-1.6304
+2014,139,hti,Haiti,-1.69206
+2014,140,mmr,Burma,-1.70377
+2014,141,sdn,Sudan,-1.752
+2014,142,irq,Iraq,-1.84494
+2014,143,tcd,Chad,-2.10728
+2014,144,ssd,South Sudan,-2.68925
+2015,1,jpn,Japan,2.29979
+2015,2,che,Switzerland,2.13711
+2015,3,deu,Germany,2.08832
+2015,4,swe,Sweden,1.85253
+2015,5,usa,United States,1.83254
+2015,6,kor,South Korea,1.82285
+2015,7,sgp,Singapore,1.80696
+2015,8,fin,Finland,1.73061
+2015,9,cze,Czech Republic,1.65535
+2015,10,aut,Austria,1.61926
+2015,11,gbr,United Kingdom,1.60486
+2015,12,svn,Slovenia,1.4389
+2015,13,irl,Ireland,1.4359
+2015,14,fra,France,1.43007
+2015,15,nld,Netherlands,1.37273
+2015,16,hun,Hungary,1.35804
+2015,17,nor,Norway,1.33316
+2015,18,svk,Slovakia,1.30709
+2015,19,isr,Israel,1.26287
+2015,20,dnk,Denmark,1.23686
+2015,21,mex,Mexico,1.20151
+2015,22,can,Canada,1.18249
+2015,23,mys,Malaysia,1.15327
+2015,24,ita,Italy,1.14973
+2015,25,pol,Poland,1.14119
+2015,26,rus,Russia,1.07792
+2015,27,est,Estonia,0.959589
+2015,28,qat,Qatar,0.885581
+2015,29,sau,Saudi Arabia,0.875727
+2015,30,blr,Belarus,0.856364
+2015,31,esp,Spain,0.841731
+2015,32,tha,Thailand,0.765395
+2015,33,lva,Latvia,0.753936
+2015,34,bra,Brazil,0.727704
+2015,35,ukr,Ukraine,0.72626
+2015,36,ltu,Lithuania,0.705477
+2015,37,hrv,Croatia,0.696463
+2015,38,chn,China,0.682572
+2015,39,nzl,New Zealand,0.666793
+2015,40,rou,Romania,0.644102
+2015,41,hkg,Hong Kong,0.627848
+2015,42,srb,Serbia,0.608433
+2015,43,arg,Argentina,0.529266
+2015,44,cyp,Cyprus,0.514147
+2015,45,kwt,Kuwait,0.512315
+2015,46,zaf,South Africa,0.445881
+2015,47,bgr,Bulgaria,0.432615
+2015,48,kaz,Kazakhstan,0.403431
+2015,49,ind,India,0.391551
+2015,50,prt,Portugal,0.371725
+2015,51,ury,Uruguay,0.353259
+2015,52,bih,Bosnia and Herzegovina,0.347964
+2015,53,aus,Australia,0.33056
+2015,54,bhr,Bahrain,0.327377
+2015,55,cri,Costa Rica,0.324936
+2015,56,sle,Sierra Leone,0.315303
+2015,57,phl,Philippines,0.298382
+2015,58,col,Colombia,0.292598
+2015,59,tur,Turkey,0.236742
+2015,60,chl,Chile,0.234235
+2015,61,are,United Arab Emirates,0.222746
+2015,62,grc,Greece,0.212862
+2015,63,omn,Oman,0.157601
+2015,64,lbn,Lebanon,0.155738
+2015,65,geo,Georgia,0.0915098
+2015,66,tto,Trinidad and Tobago,0.037338
+2015,67,pse,Palestine,0.0367863
+2015,68,jor,Jordan,-0.00395018
+2015,69,kgz,Kyrgyzstan,-0.0343805
+2015,70,arm,Armenia,-0.0749694
+2015,71,caf,Central African Republic,-0.0966236
+2015,72,jam,Jamaica,-0.137612
+2015,73,pan,Panama,-0.14545
+2015,74,egy,Egypt,-0.147879
+2015,75,idn,Indonesia,-0.227088
+2015,76,zmb,Zambia,-0.252744
+2015,77,tun,Tunisia,-0.262214
+2015,78,mkd,Macedonia,-0.289084
+2015,79,aze,Azerbaijan,-0.292929
+2015,80,dom,Dominican Republic,-0.329097
+2015,81,rwa,Rwanda,-0.33975
+2015,82,slv,El Salvador,-0.359259
+2015,83,uga,Uganda,-0.374997
+2015,84,ben,Benin,-0.382924
+2015,85,mda,Moldova,-0.386211
+2015,86,gtm,Guatemala,-0.395541
+2015,87,per,Peru,-0.449398
+2015,88,sen,Senegal,-0.482893
+2015,89,mus,Mauritius,-0.534279
+2015,90,tgo,Togo,-0.545589
+2015,91,pry,Paraguay,-0.567404
+2015,92,lbr,Liberia,-0.573455
+2015,93,vnm,Vietnam,-0.578354
+2015,94,zwe,Zimbabwe,-0.598342
+2015,95,ken,Kenya,-0.606191
+2015,96,ecu,Ecuador,-0.613182
+2015,97,mwi,Malawi,-0.614309
+2015,98,dza,Algeria,-0.645219
+2015,99,mli,Mali,-0.646831
+2015,100,npl,Nepal,-0.648426
+2015,101,mng,Mongolia,-0.666267
+2015,102,uzb,Uzbekistan,-0.675872
+2015,103,yem,Yemen,-0.676419
+2015,104,cmr,Cameroon,-0.683511
+2015,105,civ,Cote d'Ivoire,-0.697221
+2015,106,bdi,Burundi,-0.709332
+2015,107,hnd,Honduras,-0.763664
+2015,108,tls,Timor-Leste,-0.778314
+2015,109,mar,Morocco,-0.787453
+2015,110,pak,Pakistan,-0.796653
+2015,111,alb,Albania,-0.825749
+2015,112,moz,Mozambique,-0.852156
+2015,113,afg,Afghanistan,-0.855983
+2015,114,tcd,Chad,-0.861554
+2015,115,lka,Sri Lanka,-0.8655
+2015,116,bol,Bolivia,-0.876513
+2015,117,tza,Tanzania,-0.939312
+2015,118,gab,Gabon,-0.945515
+2015,119,gmb,Gambia,-0.982316
+2015,120,bfa,Burkina Faso,-0.982493
+2015,121,gin,Guinea,-0.989714
+2015,122,eth,Ethiopia,-1.11098
+2015,123,tkm,Turkmenistan,-1.12925
+2015,124,irq,Iraq,-1.14117
+2015,125,tjk,Tajikistan,-1.16144
+2015,126,ner,Niger,-1.17107
+2015,127,gha,Ghana,-1.2731
+2015,128,nic,Nicaragua,-1.2895
+2015,129,sdn,Sudan,-1.32539
+2015,130,khm,Cambodia,-1.32726
+2015,131,som,Somalia,-1.34734
+2015,132,lao,Laos,-1.39877
+2015,133,ago,Angola,-1.49165
+2015,134,mdg,Madagascar,-1.49175
+2015,135,cod,Democratic Republic of the Congo,-1.58174
+2015,136,hti,Haiti,-1.66563
+2015,137,mmr,Burma,-1.6912
+2015,138,cog,Republic of the Congo,-1.71674
+2015,139,bgd,Bangladesh,-1.788
+2015,140,nga,Nigeria,-2.07382
+2015,141,gnb,Guinea-Bissau,-2.10887
